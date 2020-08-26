@@ -1,0 +1,634 @@
+cuest_id_b,cuest_id,time,parcela,cultivo,temporary_crop,age,gender,superf_parcela_has,Y,X,provparcela_cod,munparcela_cod,month_siembra,year_siembra,since_siembra,month_harvest,year_harvest,VP_HA,treat_status_fu,patca
+276,H0951,0. Baseline,11,pasto,0,45,Male,7.545599,19.528879,-71.46013600000001,dajabón,partido,no recuerda,1997,1997,,,0,0. Pure Control,0
+389,H1213,0. Baseline,11,mango,0,60,Male,1.6977597,18.291666,-70.325005,peravia,villa fundacion,no recuerda,2004,2004,,,104.73095703125,0. Pure Control,0
+393,H1217,0. Baseline,11,mango,0,56,Male,4.4015994,18.229546,-70.459127,peravia,bani,abril,2009,2009,,,0,0. Pure Control,0
+466,H1200,0. Baseline,11,,0,48,Male,2.4837596,18.218817,-70.496776,peravia,bani,,,,,,0,0. Pure Control,0
+481,H1214,0. Baseline,11,pasto,0,39,Male,5.9735994,18.29356,-70.323998,peravia,villa fundacion,no recuerda,2000,2000,,,0,0. Pure Control,0
+515,H1218,0. Baseline,11,plátano,0,41,Male,1.8863997,18.225482,-70.451204,peravia,bani,mayo,2011,1990,,,0,0. Pure Control,0
+544,H1216,0. Baseline,11,mango,0,51,Male,5.5963192,18.404163,-70.294353,peravia,bani,abril,2005,2005,,,355.8498840332031,0. Pure Control,0
+544,H1216,0. Baseline,11,plátano,0,51,Male,5.5963192,18.404163,-70.294353,peravia,bani,marzo,2009,2009,,,355.8498840332031,0. Pure Control,0
+568,H1201,0. Baseline,11,mango,0,57,Male,3.5841596,18.219846,-70.486276,peravia,bani,marzo,2010,2010,,,452.437744140625,0. Pure Control,0
+568,H1201,0. Baseline,11,plátano,0,57,Male,3.5841596,18.219846,-70.486276,peravia,bani,enero,2010,2010,,,452.437744140625,0. Pure Control,0
+793,H1197,0. Baseline,11,,0,58,Male,1.5719998,19.728777,-71.601699,monte cristi,pepillo salcedo manzanillo,,,,,,12845.6123046875,0. Pure Control,0
+793,H1197,0. Baseline,12,,0,58,Male,1.5719998,19.729422,-71.587029,monte cristi,pepillo salcedo manzanillo,,,,,,12845.6123046875,0. Pure Control,0
+949,H1702,0. Baseline,11,cafe,0,62,Male,3.7727995,18.610898,-70.728301,azua,peralta,no recuerda,1980,1980,,,1373.374816894531,1. Contaminated Control,0
+949,H1702,0. Baseline,12,aguacate,0,62,Male,1.5719998,18.614407,-70.730096,azua,peralta,febrero,2002,2002,,,1373.374816894531,1. Contaminated Control,0
+1108,H0848,0. Baseline,11,plátano,0,60,Male,1.8863997,19.3168,-70.505895,la vega,concepcion de la vega,no recuerda,2010,2005,,,2262.188720703125,0. Pure Control,0
+1109,H0851,0. Baseline,21,berenjenas chinas,1,42,Male,.62879992,19.31678,-70.504563,la vega,concepcion de la vega,abril,2011,2005,julio,2011,1110.671997070313,0. Pure Control,0
+1148,H0833,0. Baseline,11,vainitas,1,53,Male,1.8863997,19.37886,-70.326825,hermanas mirabal,villa tapia,julio,2011,2008,junio,2011,807.9246000000001,0. Pure Control,0
+1148,H0833,0. Baseline,11,vainitas,1,53,Male,1.8863997,19.37886,-70.326825,hermanas mirabal,villa tapia,enero,2011,2008,diciembre,2011,807.9246000000001,0. Pure Control,0
+1150,H0852,0. Baseline,11,yuca,1,70,Male,1.1318399,19.218753,-70.491992,la vega,concepcion de la vega,febrero,2011,1981,noviembre,2011,1508.125854492188,0. Pure Control,0
+1165,H0850,0. Baseline,21,,0,52,Male,.62879992,19.217233,-70.475222,la vega,concepcion de la vega,,,,,,0,0. Pure Control,0
+1166,H0844,0. Baseline,21,plátano,0,50,Male,2.1379197,19.290758,-70.490652,la vega,concepcion de la vega,febrero,2009,2005,,,5655.4716796875,0. Pure Control,0
+1168,H0849,0. Baseline,11,cundeamor chino,1,77,Male,1.2575998,19.222808,-70.477045,la vega,concepcion de la vega,febrero,2011,1991,junio,2011,807.9246000000001,0. Pure Control,0
+1168,H0849,0. Baseline,11,berenjenas chinas,1,77,Male,1.2575998,19.222808,-70.477045,la vega,concepcion de la vega,febrero,2011,1991,junio,2011,807.9246000000001,0. Pure Control,0
+1271,H0842,0. Baseline,11,plátano,0,72,Female,6.2879992,19.304067,-70.501638,la vega,concepcion de la vega,febrero,2008,1982,,,2827.73583984375,0. Pure Control,0
+1316,H0913,0. Baseline,11,,0,41,Male,1.5719998,18.859096,-70.36578900000001,monseñor nouel,villa de sonador,,,,,,0,0. Pure Control,0
+1324,H0854,0. Baseline,21,,0,70,Male,2.2007997,19.116396,-70.607173,la vega,concepcion de la vega,,,,,,0,0. Pure Control,0
+1364,H0902,0. Baseline,11,plátano,0,54,Male,2.5151997,18.813265,-70.417193,monseñor nouel,villa de sonador,no recuerda,2011,2011,,,329.9025268554688,0. Pure Control,0
+1412,H0887,0. Baseline,21,tomate ensalada,1,48,Male,1.5719998,19.226785,-70.67020599999999,la vega,concepcion de la vega,marzo,2011,1998,junio,2011,9810.81591796875,0. Pure Control,0
+1412,H0887,0. Baseline,21,pepino,1,48,Male,1.5719998,19.226785,-70.67020599999999,la vega,concepcion de la vega,marzo,2011,1998,mayo,2011,9810.81591796875,0. Pure Control,0
+1413,H0883,0. Baseline,11,pasto,0,43,Male,5.6591992,19.229812,-70.66864099999999,la vega,concepcion de la vega,no recuerda,1990,1990,,,0,0. Pure Control,0
+1414,H0881,0. Baseline,21,tomate ensalada,1,62,Male,1.5719998,19.22507,-70.650963,la vega,concepcion de la vega,marzo,2011,2000,julio,2011,7829.686462402344,0. Pure Control,0
+1544,H0859,0. Baseline,11,plátano,0,54,Male,1.5719998,19.299296,-70.602851,la vega,concepcion de la vega,noviembre,1998,1998,,,3167.064208984375,0. Pure Control,0
+1657,H0939,0. Baseline,11,plátano,0,60,Male,5.0303993,19.451326,-70.41982299999999,hermanas mirabal,salcedo,marzo,2010,2010,,,240.3575439453125,0. Pure Control,0
+1659,H0940,0. Baseline,11,batata,1,60,Male,3.1439996,19.470979,-70.416321,hermanas mirabal,salcedo,abril,2011,2010,agosto,2011,128.1907005310059,0. Pure Control,0
+1659,H0940,0. Baseline,11,habichuela roja,1,60,Male,3.1439996,19.470979,-70.416321,hermanas mirabal,salcedo,abril,2011,2010,julio,2011,128.1907005310059,0. Pure Control,0
+1660,H0938,0. Baseline,11,yuca,1,38,Male,1.8863997,19.352806,-70.403158,hermanas mirabal,salcedo,febrero,2011,2007,noviembre,2011,2714.62646484375,0. Pure Control,0
+1661,H0945,0. Baseline,11,plátano,0,47,Male,.88031989,19.340843,-70.380528,hermanas mirabal,salcedo,julio,2007,2007,,,1211.88671875,0. Pure Control,0
+1662,H0944,0. Baseline,11,tindora,0,52,Male,.44015995,19.351541,-70.42872800000001,hermanas mirabal,salcedo,febrero,2011,2008,,,0,0. Pure Control,0
+2082,H1152,0. Baseline,11,pasto,0,28,Male,1.8863997,19.680281,-71.039759,valverde,maizal,no recuerda,1980,1996,,,0,0. Pure Control,0
+2153,H1139,0. Baseline,11,pasto,0,24,Female,4.0871997,19.68034,-71.03290699999999,valverde,maizal,marzo,2005,no recuerda,,,0,0. Pure Control,0
+2154,H1129,0. Baseline,11,pasto,0,47,Male,5.3447995,19.634896,-71.00614,valverde,maizal,junio,1997,1997,,,0,0. Pure Control,0
+2157,H1146,0. Baseline,11,pasto,0,73,Male,1.8863997,19.683488,-71.036182,valverde,maizal,abril,1992,no recuerda,,,0,0. Pure Control,0
+2158,H1151,0. Baseline,11,yuca,1,35,Female,1.2575998,19.674784,-71.019712,valverde,maizal,enero,2011,no recuerda,enero,2012,3016.251708984375,0. Pure Control,0
+2163,H1150,0. Baseline,11,pasto,0,42,Female,1.8863997,19.684824,-71.037008,valverde,maizal,no recuerda,1990,1990,,,0,0. Pure Control,0
+2163,H1150,0. Baseline,12,pasto,0,42,Female,1.8863997,19.686546,-71.037601,valverde,maizal,junio,1990,1990,,,0,0. Pure Control,0
+2164,H1158,0. Baseline,11,pasto,0,23,Female,.50303996,19.683826,-71.036517,valverde,maizal,no recuerda,1998,no recuerda,,,0,0. Pure Control,0
+2168,H1148,0. Baseline,11,pasto,0,63,Male,4.0871997,19.680676,-71.033019,valverde,maizal,no recuerda,1998,1998,,,0,0. Pure Control,0
+2172,H1128,0. Baseline,11,yuca,1,38,Male,3.1439996,19.65196,-71.034998,valverde,maizal,marzo,2011,1997,diciembre,2011,1055.688110351563,0. Pure Control,0
+2239,H1145,0. Baseline,11,guineo,0,34,Male,20.121597,19.564009,-70.93919099999999,valverde,esperanza,septiembre,2008,2008,,,807.9246000000001,0. Pure Control,0
+2252,H1192,0. Baseline,11,guineo,0,40,Female,1.8863997,19.800418,-71.579888,monte cristi,las matas de santa cruz,no recuerda,2006,2006,,,398.1452331542969,0. Pure Control,0
+2256,H1111,0. Baseline,11,pasto,0,50,Male,18.863998,19.483813,-71.384062,santiago rodriguez,san ignacio de sabaneta,mayo,1990,1990,,,542.92529296875,0. Pure Control,0
+2259,H1040,0. Baseline,11,pasto,0,40,Male,3.1439996,19.454658,-71.32201499999999,santiago rodriguez,san ignacio de sabaneta,mayo,2005,2005,,,271.462646484375,0. Pure Control,0
+2261,H1115,0. Baseline,11,yuca,1,35,Male,25.151997,19.479418,-71.271045,santiago rodriguez,san ignacio de sabaneta,junio,2011,1990,mayo,2012,4222.75244140625,0. Pure Control,0
+2261,H1115,0. Baseline,11,auyama,1,35,Male,25.151997,19.479418,-71.271045,santiago rodriguez,san ignacio de sabaneta,marzo,2011,2007,agosto,2011,4222.75244140625,0. Pure Control,0
+2261,H1115,0. Baseline,11,pasto,0,35,Male,25.151997,19.479418,-71.271045,santiago rodriguez,san ignacio de sabaneta,no recuerda,2008,2004,,,4222.75244140625,0. Pure Control,0
+2264,H1084,0. Baseline,11,pasto,0,52,Male,1.8863997,19.454456,-71.364475,santiago rodriguez,san ignacio de sabaneta,marzo,2005,2005,,,1017.984924316406,0. Pure Control,0
+2265,H1112,0. Baseline,13,,0,34,Male,22.007998,19.556744,-71.39803000000001,santiago rodriguez,san ignacio de sabaneta,,,,,,0,0. Pure Control,0
+2265,H1112,0. Baseline,12,,0,34,Male,2.2636797,19.54861,-71.40458099999999,santiago rodriguez,san ignacio de sabaneta,,,,,,0,0. Pure Control,0
+2265,H1112,0. Baseline,11,pasto,0,34,Male,1.2575998,19.54862,-71.40453599999999,santiago rodriguez,san ignacio de sabaneta,marzo,2008,2008,,,0,0. Pure Control,0
+2268,H1079,0. Baseline,11,yuca,1,57,Male,2.1379197,19.430139,-71.437254,santiago rodriguez,san ignacio de sabaneta,mayo,2011,1987,abril,2012,1809.7509765625,0. Pure Control,0
+2268,H1079,0. Baseline,11,pasto,0,57,Male,2.1379197,19.430139,-71.437254,santiago rodriguez,san ignacio de sabaneta,no recuerda,1987,1987,,,1809.7509765625,0. Pure Control,0
+2362,H1193,0. Baseline,11,pasto,0,64,Male,8.8031988,19.672642,-71.678596,monte cristi,pepillo salcedo manzanillo,no recuerda,1980,1980,,,0,0. Pure Control,0
+2380,H0992,0. Baseline,22,pasto,0,87,Male,5.7849593,19.530489,-71.449219,dajabón,partido,mayo,2005,2006,,,0,0. Pure Control,0
+2380,H0992,0. Baseline,21,pasto,0,87,Male,5.7849593,19.53076,-71.44937899999999,dajabón,partido,no recuerda,2006,2006,,,0,0. Pure Control,0
+2380,H0992,0. Baseline,22,pasto,0,87,Male,5.7849593,19.530489,-71.449219,dajabón,partido,mayo,2006,2006,,,0,0. Pure Control,0
+2380,H0992,0. Baseline,21,pasto,0,87,Male,5.7849593,19.53076,-71.44937899999999,dajabón,partido,mayo,2011,2006,,,0,0. Pure Control,0
+2390,H0983,0. Baseline,12,pasto,0,59,Male,2.5151997,19.55032,-71.539886,dajabón,partido,mayo,2011,1998,,,0,0. Pure Control,0
+2390,H0983,0. Baseline,12,pasto,0,59,Male,2.5151997,19.55032,-71.539886,dajabón,partido,no recuerda,1998,1998,,,0,0. Pure Control,0
+2390,H0983,0. Baseline,13,pasto,0,59,Male,5.0303993,19.55143,-71.537682,dajabón,partido,no recuerda,1998,1998,,,0,0. Pure Control,0
+2390,H0983,0. Baseline,11,pasto,0,59,Male,5.0303993,19.551079,-71.53771999999999,dajabón,partido,no recuerda,1998,1998,,,0,0. Pure Control,0
+2436,H0969,0. Baseline,13,pasto,0,52,Male,3.0811195,19.548059,-71.52291099999999,dajabón,partido,no recuerda,1987,1987,,,0,0. Pure Control,0
+2436,H0969,0. Baseline,12,pasto,0,52,Male,5.6591992,19.5467,-71.515327,dajabón,partido,enero,1997,1997,,,0,0. Pure Control,0
+2436,H0969,0. Baseline,13,pasto,0,52,Male,3.0811195,19.548059,-71.52291099999999,dajabón,partido,mayo,2010,1997,,,0,0. Pure Control,0
+2436,H0969,0. Baseline,11,pasto,0,52,Male,12.575998,19.549089,-71.510147,dajabón,partido,no recuerda,1997,1997,,,0,0. Pure Control,0
+2436,H0969,0. Baseline,11,pasto,0,52,Male,12.575998,19.549089,-71.510147,dajabón,partido,mayo,2008,1997,,,0,0. Pure Control,0
+2437,H0963,0. Baseline,12,pasto,0,48,Male,2.3265598,19.511869,-71.54274700000001,dajabón,partido,octubre,2008,no recuerda,,,0,0. Pure Control,0
+2437,H0963,0. Baseline,21,pasto,0,48,Male,1.6348798,19.51182,-71.542839,dajabón,partido,mayo,no recuerda,1988,,,0,0. Pure Control,0
+2437,H0963,0. Baseline,11,pasto,0,48,Male,5.3447995,19.51186,-71.54273999999999,dajabón,partido,octubre,1988,no recuerda,,,0,0. Pure Control,0
+2437,H0963,0. Baseline,13,pasto,0,48,Male,.75455987,19.511909,-71.54274700000001,dajabón,partido,junio,1988,1988,,,0,0. Pure Control,0
+2437,H0963,0. Baseline,14,pasto,0,48,Male,.50303996,19.47629,-71.541771,dajabón,partido,mayo,2010,1988,,,0,0. Pure Control,0
+2439,H0965,0. Baseline,12,pasto,0,54,Male,5.0303993,19.526709,-71.494469,dajabón,partido,no recuerda,no recuerda,no recuerda,,,0,0. Pure Control,0
+2439,H0965,0. Baseline,11,pasto,0,54,Male,8.1743994,19.526539,-71.494438,dajabón,partido,no recuerda,no recuerda,no recuerda,,,0,0. Pure Control,0
+2439,H0965,0. Baseline,11,pasto,0,54,Male,8.1743994,19.526539,-71.494438,dajabón,partido,mayo,2011,1996,,,0,0. Pure Control,0
+2515,H1198,0. Baseline,11,,0,37,Male,1.1947198,19.619651,-71.23593,monte cristi,las matas de santa cruz,,,,,,0,0. Pure Control,0
+2552,H0978,0. Baseline,13,pasto,0,44,Male,3.1439996,19.564339,-71.535568,dajabón,partido,no recuerda,1990,1990,,,0,0. Pure Control,0
+2552,H0978,0. Baseline,21,pasto,0,44,Male,18.863998,19.564339,-71.535797,dajabón,partido,no recuerda,1990,1990,,,0,0. Pure Control,0
+2552,H0978,0. Baseline,11,pasto,0,44,Male,2.6409597,19.564249,-71.535782,dajabón,partido,no recuerda,1990,1990,,,0,0. Pure Control,0
+2552,H0978,0. Baseline,21,pasto,0,44,Male,18.863998,19.564339,-71.535797,dajabón,partido,mayo,2011,1990,,,0,0. Pure Control,0
+2552,H0978,0. Baseline,22,pasto,0,44,Male,.62879992,19.555899,-71.540527,dajabón,partido,octubre,2011,1990,,,0,0. Pure Control,0
+2552,H0978,0. Baseline,12,pasto,0,44,Male,2.5151997,19.564289,-71.535667,dajabón,partido,no recuerda,1990,1990,,,0,0. Pure Control,0
+2566,H1000,0. Baseline,11,pasto,0,40,Male,18.863998,19.34132,-71.66670999999999,dajabón,restauracion,no recuerda,1990,1992,,,5765.439178466797,0. Pure Control,0
+2566,H1000,0. Baseline,11,maiz grano/mazorca,1,40,Male,18.863998,19.34132,-71.66670999999999,dajabón,restauracion,mayo,2011,2000,octubre,2011,5765.439178466797,0. Pure Control,0
+2566,H1000,0. Baseline,11,sandia,1,40,Male,18.863998,19.34132,-71.66670999999999,dajabón,restauracion,julio,2011,2000,octubre,2011,5765.439178466797,0. Pure Control,0
+2566,H1000,0. Baseline,11,naranja,0,40,Male,18.863998,19.34132,-71.66670999999999,dajabón,restauracion,no recuerda,1997,1997,,,5765.439178466797,0. Pure Control,0
+2566,H1000,0. Baseline,11,yuca,1,40,Male,18.863998,19.34132,-71.66670999999999,dajabón,restauracion,junio,2011,2000,junio,2012,5765.439178466797,0. Pure Control,0
+2581,H1144,0. Baseline,21,guineo,0,35,Male,3.1439996,19.565907,-70.944793,valverde,esperanza,febrero,2010,2010,,,2964.3720703125,0. Pure Control,0
+2589,H1120,0. Baseline,11,pasto,0,33,Male,12.575998,19.417119,-71.269904,santiago rodriguez,san ignacio de sabaneta,mayo,2000,2000,,,0,0. Pure Control,0
+2594,H1052,0. Baseline,13,pasto,0,56,Male,2.1379197,19.45022,-71.323369,santiago rodriguez,san ignacio de sabaneta,mayo,2004,2004,,,0,0. Pure Control,0
+2594,H1052,0. Baseline,11,pasto,0,56,Male,2.6409597,19.447402,-71.32543099999999,santiago rodriguez,san ignacio de sabaneta,mayo,2011,2004,,,0,0. Pure Control,0
+2594,H1052,0. Baseline,12,,0,56,Male,1.0060799,19.454463,-71.326059,santiago rodriguez,san ignacio de sabaneta,,,,,,0,0. Pure Control,0
+2595,H1041,0. Baseline,12,pasto,0,51,Male,1.3204799,19.453512,-71.302307,santiago rodriguez,san ignacio de sabaneta,julio,2009,2004,,,1110.671997070313,0. Pure Control,0
+2595,H1041,0. Baseline,11,,0,51,Male,6.6023993,19.418867,-71.32125499999999,santiago rodriguez,san ignacio de sabaneta,,,,,,1110.671997070313,0. Pure Control,0
+2599,H1114,0. Baseline,11,pasto,0,65,Male,4.7159996,19.472845,-71.215907,santiago rodriguez,san ignacio de sabaneta,no recuerda,1972,no recuerda,,,0,0. Pure Control,0
+2601,H1061,0. Baseline,11,pasto,0,38,Male,7.545599,19.475771,-71.20974099999999,santiago rodriguez,san ignacio de sabaneta,octubre,2008,2000,,,678.6566162109375,0. Pure Control,0
+2602,H1063,0. Baseline,11,pasto,0,52,Male,4.4015994,19.478286,-71.214015,santiago rodriguez,san ignacio de sabaneta,no recuerda,2006,2006,,,1275.800598144531,0. Pure Control,0
+2602,H1063,0. Baseline,12,pasto,0,52,Male,3.7099195,19.473605,-71.213437,santiago rodriguez,san ignacio de sabaneta,no recuerda,2006,2006,,,1275.800598144531,0. Pure Control,0
+2603,H1102,0. Baseline,12,pasto,0,47,Male,5.2819195,19.332866,-71.20913299999999,santiago rodriguez,san ignacio de sabaneta,no recuerda,1995,1995,,,6032.50341796875,0. Pure Control,0
+2603,H1102,0. Baseline,11,pasto,0,47,Male,.62879992,19.445791,-71.11199499999999,santiago rodriguez,san ignacio de sabaneta,no recuerda,1995,1995,,,6032.50341796875,0. Pure Control,0
+2605,H1066,0. Baseline,11,yuca,1,48,Male,6.2879992,19.493365,-71.423236,santiago rodriguez,san ignacio de sabaneta,mayo,2011,2005,febrero,2012,807.924560546875,0. Pure Control,0
+2605,H1066,0. Baseline,11,pasto,0,48,Male,6.2879992,19.493365,-71.423236,santiago rodriguez,san ignacio de sabaneta,no recuerda,2002,2002,,,807.924560546875,0. Pure Control,0
+2605,H1066,0. Baseline,12,pasto,0,48,Male,3.7727995,19.487918,-71.424671,santiago rodriguez,san ignacio de sabaneta,no recuerda,2006,2002,,,807.924560546875,0. Pure Control,0
+2607,H1067,0. Baseline,11,pasto,0,45,Male,3.1439996,19.482272,-71.425414,santiago rodriguez,san ignacio de sabaneta,no recuerda,1995,1980,,,2111.376220703125,0. Pure Control,0
+2607,H1067,0. Baseline,12,pasto,0,45,Male,7.7971191,19.482215,-71.42533,santiago rodriguez,san ignacio de sabaneta,no recuerda,1990,1980,,,2111.376220703125,0. Pure Control,0
+2607,H1067,0. Baseline,13,yuca,1,45,Male,14.462399,19.532284,-71.443746,santiago rodriguez,san ignacio de sabaneta,marzo,2011,2000,octubre,2011,2111.376220703125,0. Pure Control,0
+2607,H1067,0. Baseline,13,pasto,0,45,Male,14.462399,19.532284,-71.443746,santiago rodriguez,san ignacio de sabaneta,no recuerda,2010,1980,,,2111.376220703125,0. Pure Control,0
+2607,H1067,0. Baseline,14,pasto,0,45,Male,2.3894396,19.552672,-71.462889,santiago rodriguez,san ignacio de sabaneta,no recuerda,1980,1980,,,2111.376220703125,0. Pure Control,0
+2608,H1042,0. Baseline,11,pasto,0,28,Male,5.7849593,19.506827,-71.36631199999999,santiago rodriguez,san ignacio de sabaneta,no recuerda,2006,2005,,,0,0. Pure Control,0
+2609,H1065,0. Baseline,11,pasto,0,50,Male,6.2879992,19.498146,-71.45414,santiago rodriguez,san ignacio de sabaneta,marzo,2008,2000,,,0,0. Pure Control,0
+2612,H1053,0. Baseline,11,yuca,1,56,Male,6.2879992,19.468135,-71.282214,santiago rodriguez,san ignacio de sabaneta,marzo,2011,2000,noviembre,2011,1508.125854492188,0. Pure Control,0
+2612,H1053,0. Baseline,11,pasto,0,56,Male,6.2879992,19.468135,-71.282214,santiago rodriguez,san ignacio de sabaneta,no recuerda,2000,2000,,,1508.125854492188,0. Pure Control,0
+2616,H1090,0. Baseline,12,,0,46,Male,9.4319992,19.33749,-71.484931,santiago rodriguez,san ignacio de sabaneta,,,,,,0,0. Pure Control,0
+2616,H1090,0. Baseline,11,,0,46,Male,3.7727995,19.387783,-71.156178,santiago rodriguez,san ignacio de sabaneta,,,,,,0,0. Pure Control,0
+2617,H1055,0. Baseline,11,yuca,1,69,Male,4.4015994,19.526609,-71.312923,santiago rodriguez,san ignacio de sabaneta,marzo,2011,1990,noviembre,2011,754.0629272460938,0. Pure Control,0
+2617,H1055,0. Baseline,12,pasto,0,69,Male,1.7606398,19.528481,-71.308696,santiago rodriguez,san ignacio de sabaneta,no recuerda,1990,1990,,,754.0629272460938,0. Pure Control,0
+2617,H1055,0. Baseline,11,pasto,0,69,Male,4.4015994,19.526609,-71.312923,santiago rodriguez,san ignacio de sabaneta,no recuerda,1990,1990,,,754.0629272460938,0. Pure Control,0
+2617,H1055,0. Baseline,13,pasto,0,69,Male,1.8863997,19.526552,-71.312954,santiago rodriguez,san ignacio de sabaneta,no recuerda,2000,1990,,,754.0629272460938,0. Pure Control,0
+2624,H1073,0. Baseline,13,pasto,0,60,Male,4.4015994,19.460772,-71.280787,santiago rodriguez,san ignacio de sabaneta,mayo,1978,1970,,,0,0. Pure Control,0
+2624,H1073,0. Baseline,14,pasto,0,60,Male,4.4015994,19.460976,-71.27410500000001,santiago rodriguez,san ignacio de sabaneta,mayo,2002,1970,,,0,0. Pure Control,0
+2624,H1073,0. Baseline,11,pasto,0,60,Male,7.545599,19.460601,-71.277147,santiago rodriguez,san ignacio de sabaneta,mayo,2000,1970,,,0,0. Pure Control,0
+2624,H1073,0. Baseline,12,pasto,0,60,Male,54.265434,19.531269,-71.08038999999999,valverde,mao,mayo,2006,1970,,,0,0. Pure Control,0
+2624,H1073,0. Baseline,15,pasto,0,60,Male,5.0303993,19.461128,-71.271896,santiago rodriguez,san ignacio de sabaneta,mayo,2006,1970,,,0,0. Pure Control,0
+2627,H1056,0. Baseline,13,caña(no de azucar),0,47,Male,6.036479,19.504272,-71.284435,santiago rodriguez,san ignacio de sabaneta,no recuerda,2008,2008,,,807.9246000000001,0. Pure Control,0
+2627,H1056,0. Baseline,12,,0,47,Male,30.182396,19.509325,-71.28488900000001,santiago rodriguez,san ignacio de sabaneta,,,,,,807.9246000000001,0. Pure Control,0
+2627,H1056,0. Baseline,11,auyama,1,47,Male,50.303993,19.507827,-71.27959199999999,santiago rodriguez,san ignacio de sabaneta,septiembre,2011,2009,enero,2012,807.9246000000001,0. Pure Control,0
+2627,H1056,0. Baseline,13,pasto,0,47,Male,6.036479,19.504272,-71.284435,santiago rodriguez,san ignacio de sabaneta,no recuerda,2008,2008,,,807.9246000000001,0. Pure Control,0
+2627,H1056,0. Baseline,13,plátano,0,47,Male,6.036479,19.504272,-71.284435,santiago rodriguez,san ignacio de sabaneta,noviembre,2011,2010,,,807.9246000000001,0. Pure Control,0
+2627,H1056,0. Baseline,14,,0,47,Male,20.121597,19.508157,-71.285129,santiago rodriguez,san ignacio de sabaneta,,,,,,807.9246000000001,0. Pure Control,0
+2630,H0975,0. Baseline,14,pasto,0,57,Male,13.959358,19.53055,-71.454277,dajabón,partido,no recuerda,2006,1999,,,0,0. Pure Control,0
+2630,H0975,0. Baseline,13,pasto,0,57,Male,18.863998,19.530329,-71.45471999999999,dajabón,partido,no recuerda,1981,1999,,,0,0. Pure Control,0
+2630,H0975,0. Baseline,11,pasto,0,57,Male,8.1743994,19.530359,-71.45455200000001,dajabón,partido,mayo,2011,1999,,,0,0. Pure Control,0
+2630,H0975,0. Baseline,12,pasto,0,57,Male,15.719998,19.53035,-71.454605,dajabón,partido,no recuerda,2005,1999,,,0,0. Pure Control,0
+2630,H0975,0. Baseline,15,pasto,0,57,Male,24.334557,19.5306,-71.45417,dajabón,partido,no recuerda,1982,1999,,,0,0. Pure Control,0
+2631,H0974,0. Baseline,11,pasto,0,44,Male,1.7606398,19.530409,-71.453987,dajabón,partido,mayo,2010,2000,,,0,0. Pure Control,0
+2634,H0986,0. Baseline,12,pasto,0,78,Female,5.8478394,19.525829,-71.46536999999999,dajabón,partido,no recuerda,1999,1999,,,0,0. Pure Control,0
+2634,H0986,0. Baseline,11,pasto,0,78,Female,25.151997,19.51856,-71.46073199999999,dajabón,partido,no recuerda,1999,1999,,,0,0. Pure Control,0
+2635,H0994,0. Baseline,11,pasto,0,47,Male,8.1743994,19.51228,-71.491028,dajabón,partido,no recuerda,1963,1980,,,0,0. Pure Control,0
+2636,H0959,0. Baseline,13,pasto,0,51,Male,1.8863997,19.528429,-71.448097,dajabón,partido,julio,2004,1989,,,0,0. Pure Control,0
+2636,H0959,0. Baseline,12,pasto,0,51,Male,5.7849593,19.530609,-71.44004099999999,dajabón,partido,no recuerda,1993,1989,,,0,0. Pure Control,0
+2636,H0959,0. Baseline,21,pasto,0,51,Male,18.863998,19.469229,-71.503159,dajabón,partido,no recuerda,1994,1989,,,0,0. Pure Control,0
+2636,H0959,0. Baseline,11,pasto,0,51,Male,15.719998,19.55093,-71.52098100000001,dajabón,partido,no recuerda,1989,1989,,,0,0. Pure Control,0
+2637,H0982,0. Baseline,21,pasto,0,48,Male,1.0060799,19.502369,-71.46620900000001,dajabón,partido,no recuerda,2007,2004,,,0,0. Pure Control,0
+2637,H0982,0. Baseline,11,pasto,0,48,Male,1.5719998,19.5023,-71.466019,dajabón,partido,no recuerda,2004,2004,,,0,0. Pure Control,0
+2643,H1083,0. Baseline,11,,0,55,Male,3.1439996,19.425139,-71.378454,santiago rodriguez,san ignacio de sabaneta,,,,,,0,0. Pure Control,0
+2647,H1043,0. Baseline,11,maiz grano/mazorca,1,46,Female,16.348799,19.458711,-71.27651,santiago rodriguez,san ignacio de sabaneta,abril,2011,2008,agosto,2011,0,0. Pure Control,0
+2647,H1043,0. Baseline,11,pasto,0,46,Female,16.348799,19.458711,-71.27651,santiago rodriguez,san ignacio de sabaneta,febrero,2008,2008,,,0,0. Pure Control,0
+2654,H1057,0. Baseline,11,yuca,1,45,Male,8.1743994,19.552859,-71.392402,santiago rodriguez,san ignacio de sabaneta,marzo,2011,2004,noviembre,2011,1508.125854492188,0. Pure Control,0
+2654,H1057,0. Baseline,11,pasto,0,45,Male,8.1743994,19.552859,-71.392402,santiago rodriguez,san ignacio de sabaneta,enero,2010,2010,,,1508.125854492188,0. Pure Control,0
+2655,H1113,0. Baseline,11,pasto,0,34,Male,5.0303993,19.461066,-71.28863699999999,santiago rodriguez,san ignacio de sabaneta,no recuerda,2008,2008,,,0,0. Pure Control,0
+2686,H1047,0. Baseline,11,pasto,0,49,Male,5.0303993,19.461993,-71.332246,santiago rodriguez,san ignacio de sabaneta,septiembre,2008,2008,,,13799.3515625,0. Pure Control,0
+2688,H1038,0. Baseline,11,maiz grano/mazorca,1,58,Male,6.2879992,19.458362,-71.31385299999999,santiago rodriguez,san ignacio de sabaneta,marzo,2011,2002,junio,2011,3883.423950195313,0. Pure Control,0
+2688,H1038,0. Baseline,11,yuca,1,58,Male,6.2879992,19.458362,-71.31385299999999,santiago rodriguez,san ignacio de sabaneta,junio,2011,2002,marzo,2012,3883.423950195313,0. Pure Control,0
+2688,H1038,0. Baseline,12,pasto,0,58,Male,8.8031988,19.458414,-71.313767,santiago rodriguez,san ignacio de sabaneta,mayo,2008,2008,,,3883.423950195313,0. Pure Control,0
+2688,H1038,0. Baseline,11,plátano,0,58,Male,6.2879992,19.458362,-71.31385299999999,santiago rodriguez,san ignacio de sabaneta,marzo,2011,2010,,,3883.423950195313,0. Pure Control,0
+2695,H1103,0. Baseline,11,pasto,0,40,Male,88.03199,19.438765,-71.416561,santiago rodriguez,san ignacio de sabaneta,marzo,2008,2008,,,4712.89306640625,0. Pure Control,0
+2695,H1103,0. Baseline,11,melon,1,40,Male,88.03199,19.438765,-71.416561,santiago rodriguez,san ignacio de sabaneta,septiembre,2011,2007,diciembre,2011,4712.89306640625,0. Pure Control,0
+2702,H0971,0. Baseline,11,guandul,1,55,Female,1.5719998,19.5026,-71.465767,dajabón,partido,marzo,2011,2005,agosto,2011,5609.599571228027,0. Pure Control,0
+2702,H0971,0. Baseline,11,mani,1,55,Female,1.5719998,19.5026,-71.465767,dajabón,partido,marzo,2011,2000,junio,2011,5609.599571228027,0. Pure Control,0
+2702,H0971,0. Baseline,11,maiz grano/mazorca,1,55,Female,1.5719998,19.5026,-71.465767,dajabón,partido,marzo,2011,2000,julio,2011,5609.599571228027,0. Pure Control,0
+2702,H0971,0. Baseline,12,yuca,1,55,Female,1.1318399,19.49272,-71.470428,dajabón,partido,marzo,2011,2005,marzo,2012,5609.599571228027,0. Pure Control,0
+2702,H0971,0. Baseline,12,guandul,1,55,Female,1.1318399,19.49272,-71.470428,dajabón,partido,marzo,2011,2000,agosto,2011,5609.599571228027,0. Pure Control,0
+2702,H0971,0. Baseline,11,pasto,0,55,Female,1.5719998,19.5026,-71.465767,dajabón,partido,julio,2011,2011,,,5609.599571228027,0. Pure Control,0
+2703,H0993,0. Baseline,11,pasto,0,72,Male,7.1054392,19.53809,-71.517212,dajabón,partido,no recuerda,1992,1992,,,0,0. Pure Control,0
+2705,H0981,0. Baseline,21,pasto,0,47,Male,4.5273595,19.50469,-71.545891,dajabón,partido,junio,2011,2010,,,0,0. Pure Control,0
+2707,H0956,0. Baseline,12,pasto,0,63,Male,4.7159996,19.505619,-71.550606,dajabón,partido,no recuerda,2006,2002,,,0,0. Pure Control,0
+2707,H0956,0. Baseline,11,pasto,0,63,Male,19.618557,19.50555,-71.550667,dajabón,partido,mayo,2006,2002,,,0,0. Pure Control,0
+2708,H0972,0. Baseline,11,pasto,0,55,Male,3.7727995,19.53018,-71.45266700000001,dajabón,partido,septiembre,2010,2000,,,0,0. Pure Control,0
+2711,H0954,0. Baseline,11,pasto,0,57,Male,7.545599,19.53014,-71.54415899999999,dajabón,partido,no recuerda,1980,2002,,,0,0. Pure Control,0
+2711,H0954,0. Baseline,12,pasto,0,57,Male,14.022238,19.530159,-71.54415899999999,dajabón,partido,julio,2010,2002,,,0,0. Pure Control,0
+2712,H0957,0. Baseline,11,pasto,0,80,Male,16.600317,19.50001,-71.579376,dajabón,loma de cabrera,no recuerda,1982,1982,,,0,0. Pure Control,0
+2768,H0980,0. Baseline,11,pasto,0,41,Male,5.0303993,19.50901,-71.545036,dajabón,partido,mayo,2011,2007,,,1658.938354492188,0. Pure Control,0
+2768,H0980,0. Baseline,12,pasto,0,41,Male,6.036479,19.50922,-71.544968,dajabón,partido,mayo,2010,1997,,,1658.938354492188,0. Pure Control,0
+2768,H0980,0. Baseline,11,yuca,1,41,Male,5.0303993,19.50901,-71.545036,dajabón,partido,mayo,2011,1990,diciembre,2011,1658.938354492188,0. Pure Control,0
+2768,H0980,0. Baseline,12,yuca,1,41,Male,6.036479,19.50922,-71.544968,dajabón,partido,diciembre,2011,1990,noviembre,2012,1658.938354492188,0. Pure Control,0
+2768,H0980,0. Baseline,11,pasto,0,41,Male,5.0303993,19.50901,-71.545036,dajabón,partido,junio,2009,2007,,,1658.938354492188,0. Pure Control,0
+2769,H0966,0. Baseline,11,pasto,0,41,Male,12.827518,19.5277,-71.504807,dajabón,partido,no recuerda,no recuerda,no recuerda,,,7576.421875,0. Pure Control,0
+2769,H0966,0. Baseline,11,tomate ensalada,1,41,Male,12.827518,19.5277,-71.504807,dajabón,partido,octubre,2011,1999,enero,2012,7576.421875,0. Pure Control,0
+2769,H0966,0. Baseline,11,sandia,1,41,Male,12.827518,19.5277,-71.504807,dajabón,partido,octubre,2011,1999,enero,2012,7576.421875,0. Pure Control,0
+2769,H0966,0. Baseline,11,berenjena,1,41,Male,12.827518,19.5277,-71.504807,dajabón,partido,octubre,2011,1999,enero,2012,7576.421875,0. Pure Control,0
+2771,H0961,0. Baseline,12,pasto,0,62,Male,.44015995,19.46372,-71.541611,dajabón,partido,octubre,2009,1987,,,377.0314636230469,0. Pure Control,0
+2771,H0961,0. Baseline,11,pasto,0,62,Male,18.612478,19.56122,-71.554489,dajabón,partido,junio,2007,1987,,,377.0314636230469,0. Pure Control,0
+2771,H0961,0. Baseline,11,pasto,0,62,Male,18.612478,19.56122,-71.554489,dajabón,partido,no recuerda,1987,1987,,,377.0314636230469,0. Pure Control,0
+2772,H0979,0. Baseline,11,pasto,0,52,Male,4.4015994,19.5604,-71.53733099999999,dajabón,partido,no recuerda,1980,1980,,,0,0. Pure Control,0
+2773,H0989,0. Baseline,11,pasto,0,32,Male,10.500958,19.475939,-71.504288,dajabón,partido,no recuerda,2010,2010,,,0,0. Pure Control,0
+2774,H0962,0. Baseline,11,pasto,0,59,Male,1.3833598,19.47588,-71.504425,dajabón,partido,no recuerda,1996,1996,,,0,0. Pure Control,0
+2843,H1009,0. Baseline,11,arroz,1,66,Female,18.863998,19.333319,-71.72135900000001,dajabón,restauracion,julio,2011,2005,octubre,2011,3280.173645019531,0. Pure Control,0
+2843,H1009,0. Baseline,11,yuca,1,66,Female,18.863998,19.333319,-71.72135900000001,dajabón,restauracion,marzo,2011,2005,diciembre,2011,3280.173645019531,0. Pure Control,0
+2843,H1009,0. Baseline,11,pasto,0,66,Female,18.863998,19.333319,-71.72135900000001,dajabón,restauracion,noviembre,2011,2011,,,3280.173645019531,0. Pure Control,0
+2911,H1163,0. Baseline,11,,0,49,Male,.94319987,19.786821,-71.622347,monte cristi,san fernando montecristi,,,,,,0,0. Pure Control,0
+2914,H0988,0. Baseline,13,pasto,0,53,Male,9.1175985,19.441469,-71.478928,dajabón,el pino,no recuerda,2009,1998,,,0,0. Pure Control,0
+2914,H0988,0. Baseline,14,pasto,0,53,Male,13.393438,19.450449,-71.479477,dajabón,el pino,no recuerda,2011,1998,,,0,0. Pure Control,0
+2914,H0988,0. Baseline,12,pasto,0,53,Male,1.6977597,19.439569,-71.476707,dajabón,el pino,no recuerda,2009,1998,,,0,0. Pure Control,0
+2914,H0988,0. Baseline,11,pasto,0,53,Male,8.8031988,19.438929,-71.496887,dajabón,el pino,no recuerda,1998,1998,,,0,0. Pure Control,0
+2919,H1124,0. Baseline,21,,0,49,Male,1.8863997,19.656133,-71.027343,valverde,maizal,,,,,,0,0. Pure Control,0
+2920,H1123,0. Baseline,21,guineo,0,52,Male,1.8863997,19.656112,-71.02733000000001,valverde,maizal,mayo,2011,2011,,,0,0. Pure Control,0
+3055,H0605,0. Baseline,13,pasto,0,51,Male,.31439996,19.427655,-70.61919899999999,santiago,licey al medio,febrero,2002,2002,,,1885.1572265625,3. Treated Beneficiaries,1
+3055,H0605,0. Baseline,12,,0,51,Male,.50303996,19.428365,-70.617025,santiago,licey al medio,,,,,,1885.1572265625,3. Treated Beneficiaries,1
+3055,H0605,0. Baseline,11,plátano,0,51,Male,1.1947198,19.421964,-70.63533099999999,santiago,licey al medio,septiembre,2010,2010,,,1885.1572265625,3. Treated Beneficiaries,1
+3056,H0622,0. Baseline,11,tomate industrial,1,70,Male,2.3265598,19.544158,-70.773385,santiago,villa gonzalez,octubre,2011,2008,enero,2012,6479.507202148438,3. Treated Beneficiaries,1
+3056,H0622,0. Baseline,11,melon,1,70,Male,2.3265598,19.544158,-70.773385,santiago,villa gonzalez,marzo,2011,2008,junio,2011,6479.507202148438,3. Treated Beneficiaries,1
+3056,H0622,0. Baseline,11,tomate industrial,1,70,Male,2.3265598,19.544158,-70.773385,santiago,villa gonzalez,marzo,2011,2008,junio,2011,6479.507202148438,3. Treated Beneficiaries,1
+3056,H0622,0. Baseline,11,melon,1,70,Male,2.3265598,19.544158,-70.773385,santiago,villa gonzalez,octubre,2011,2008,enero,2012,6479.507202148438,3. Treated Beneficiaries,1
+3059,H0598,0. Baseline,21,plátano,0,61,Male,9.4319992,19.424403,-70.60901200000001,santiago,licey al medio,septiembre,2008,2008,,,4882.55712890625,3. Treated Beneficiaries,1
+3064,H0648,0. Baseline,11,,0,61,Male,1.4462398,19.540077,-70.79137,santiago,villa bisono navarrete,,,,,,0,1. Contaminated Control,0
+3066,H0649,0. Baseline,11,habichuela negra,1,76,Male,1.3204799,19.511011,-70.69891699999999,santiago,villa gonzalez,octubre,2011,1984,enero,2012,10125.98718261719,1. Contaminated Control,0
+3066,H0649,0. Baseline,11,cebolla,1,76,Male,1.3204799,19.511011,-70.69891699999999,santiago,villa gonzalez,julio,2011,1996,octubre,2011,10125.98718261719,1. Contaminated Control,0
+3069,H0651,0. Baseline,11,tabaco,1,77,Male,1.2575998,19.458625,-70.675365,santiago,villa bisono navarrete,noviembre,2011,1986,abril,2012,5174.7568359375,2. Intended Beneficiaries,1
+3071,H0486,0. Baseline,21,chinola,0,43,Male,5.0303993,19.489452,-70.669652,santiago,tamboril,octubre,2011,2011,,,0,0. Pure Control,0
+3079,H0083,0. Baseline,11,pasto,0,43,Male,2.5151997,19.669685,-70.36463999999999,espaillat,gaspar hernandez,no recuerda,2002,2002,,,0,2. Intended Beneficiaries,1
+3088,H0153,0. Baseline,11,,0,73,Male,1.2575998,19.394108,-70.55745899999999,espaillat,moca,,,,,,0,0. Pure Control,0
+3088,H0153,0. Baseline,12,,0,73,Male,.44015995,19.401528,-70.55583300000001,espaillat,moca,,,,,,0,0. Pure Control,0
+3090,H0612,0. Baseline,11,,0,48,Male,2.8295996,19.526313,-70.804149,santiago,villa gonzalez,,,,,,0,2. Intended Beneficiaries,1
+3091,H0630,0. Baseline,11,tabaco,1,64,Male,1.2575998,19.577316,-70.868375,santiago,villa bisono navarrete,noviembre,2011,1978,abril,2012,4241.60400390625,1. Contaminated Control,0
+3093,H0620,0. Baseline,11,tabaco,1,64,Male,.62879992,19.577367,-70.868313,santiago,villa bisono navarrete,octubre,2011,1978,marzo,2012,4117.18359375,1. Contaminated Control,0
+3101,H0281,0. Baseline,11,yuca,1,55,Male,1.5719998,19.856601,-71.054034,puerto plata,villa isabela,enero,2011,1997,septiembre,2011,3642.123779296875,1. Contaminated Control,0
+3102,H0251,0. Baseline,11,ají,1,42,Male,1.5719998,19.870113,-71.069412,puerto plata,villa isabela,mayo,2011,2011,0,0,429.8158569335938,3. Treated Beneficiaries,1
+3103,H0272,0. Baseline,11,plátano,0,39,Male,.88031989,19.848955,-71.034357,puerto plata,villa isabela,mayo,2010,2007,,,2827.736083984375,3. Treated Beneficiaries,1
+3104,H0307,0. Baseline,21,,0,24,Male,1.5719998,19.830977,-71.16703200000001,puerto plata,villa isabela,,,,,,0,3. Treated Beneficiaries,1
+3105,H0308,0. Baseline,11,pasto,0,56,Male,7.6713591,19.841818,-71.060158,puerto plata,villa isabela,diciembre,2010,2009,,,0,3. Treated Beneficiaries,1
+3106,H0255,0. Baseline,11,yuca,1,52,Male,1.5719998,19.854653,-71.03615600000001,puerto plata,villa isabela,enero,2011,1999,agosto,2011,1462.882080078125,2. Intended Beneficiaries,1
+3115,H0157,0. Baseline,22,plátano,0,57,Male,2.7038395,19.400257,-70.548322,espaillat,moca,marzo,2003,1996,,,11706.17553710938,0. Pure Control,0
+3115,H0157,0. Baseline,21,plátano,0,57,Male,2.4523196,19.411885,-70.537537,espaillat,moca,febrero,2003,1994,,,11706.17553710938,0. Pure Control,0
+3115,H0157,0. Baseline,11,tabaco,1,57,Male,2.0750396,19.410179,-70.53961200000001,espaillat,moca,enero,2011,1975,abril,2011,11706.17553710938,0. Pure Control,0
+3115,H0157,0. Baseline,11,habichuela roja,1,57,Male,2.0750396,19.410179,-70.53961200000001,espaillat,moca,marzo,2011,1996,julio,2011,11706.17553710938,0. Pure Control,0
+3121,H0160,0. Baseline,21,yuca,1,46,Male,1.8863997,19.44372,-70.522221,espaillat,moca,febrero,2011,2003,diciembre,2011,5655.4716796875,0. Pure Control,0
+3122,H0150,0. Baseline,11,plátano,0,57,Male,.37727994,19.392992,-70.56028000000001,espaillat,moca,marzo,2011,1970,,,0,0. Pure Control,0
+3125,H0309,0. Baseline,11,plátano,0,43,Male,1.0689598,19.845718,-71.057986,puerto plata,villa isabela,octubre,2008,2008,,,7540.62890625,3. Treated Beneficiaries,1
+3126,H0264,0. Baseline,12,pasto,0,65,Male,1.5719998,19.812097,-70.994175,puerto plata,luperon,octubre,1997,1997,,,3732.611572265625,3. Treated Beneficiaries,1
+3126,H0264,0. Baseline,11,plátano,0,65,Male,2.5151997,19.815397,-70.994339,puerto plata,luperon,octubre,2008,2008,,,3732.611572265625,3. Treated Beneficiaries,1
+3126,H0264,0. Baseline,11,pasto,0,65,Male,2.5151997,19.815397,-70.994339,puerto plata,luperon,febrero,2011,1997,,,3732.611572265625,3. Treated Beneficiaries,1
+3127,H0269,0. Baseline,11,yuca,1,54,Male,4.7159996,19.854517,-71.036073,puerto plata,luperon,febrero,2011,2007,octubre,2011,2259.172607421875,3. Treated Beneficiaries,1
+3127,H0269,0. Baseline,11,plátano,0,54,Male,4.7159996,19.854517,-71.036073,puerto plata,luperon,mayo,2011,2002,,,2259.172607421875,3. Treated Beneficiaries,1
+3128,H0257,0. Baseline,11,yuca,1,44,Male,2.2007997,19.855895,-71.054553,puerto plata,luperon,marzo,2011,2000,octubre,2011,4683.219543457031,1. Contaminated Control,0
+3128,H0257,0. Baseline,11,ají,1,44,Male,2.2007997,19.855895,-71.054553,puerto plata,luperon,abril,2011,2011,julio,2011,4683.219543457031,1. Contaminated Control,0
+3130,H0273,0. Baseline,11,pasto,0,37,Male,3.7727995,19.890525,-70.969421,puerto plata,luperon,no recuerda,1992,1992,,,0,3. Treated Beneficiaries,1
+3135,H0311,0. Baseline,11,pasto,0,48,Male,12.575998,19.848343,-71.058477,puerto plata,villa isabela,octubre,1997,1997,,,0,2. Intended Beneficiaries,1
+3139,H0314,0. Baseline,11,pasto,0,53,Male,6.6023993,19.845183,-71.09666199999999,puerto plata,villa isabela,noviembre,1993,1993,,,0,3. Treated Beneficiaries,1
+3139,H0314,0. Baseline,12,pasto,0,53,Male,2.3265598,19.844476,-71.095462,puerto plata,villa isabela,noviembre,2005,1993,,,0,3. Treated Beneficiaries,1
+3139,H0314,0. Baseline,21,pasto,0,53,Male,5.9735994,19.842879,-71.09998299999999,puerto plata,villa isabela,noviembre,2007,1993,,,0,3. Treated Beneficiaries,1
+3140,H0305,0. Baseline,11,pasto,0,45,Male,19.178398,19.816608,-71.190628,puerto plata,villa isabela,julio,2011,2011,,,0,3. Treated Beneficiaries,1
+3140,H0305,0. Baseline,12,,0,45,Male,.88031989,19.827747,-71.17570000000001,puerto plata,villa isabela,,,,,,0,3. Treated Beneficiaries,1
+3140,H0305,0. Baseline,14,,0,45,Male,.69167989,19.84361,-71.20741,puerto plata,villa isabela,,,,,,0,3. Treated Beneficiaries,1
+3140,H0305,0. Baseline,13,pasto,0,45,Male,16.034397,19.603542,-71.402012,monte cristi,guaybin,no recuerda,2011,2011,,,0,3. Treated Beneficiaries,1
+3140,H0305,0. Baseline,11,plátano,0,45,Male,19.178398,19.816608,-71.190628,puerto plata,villa isabela,julio,2011,2011,,,0,3. Treated Beneficiaries,1
+3141,H0312,0. Baseline,12,pasto,0,45,Male,31.439997,19.823997,-71.07162599999999,puerto plata,villa isabela,octubre,2005,1999,,,0,1. Contaminated Control,0
+3141,H0312,0. Baseline,11,pasto,0,45,Male,11.318398,19.836315,-71.08594600000001,puerto plata,villa isabela,octubre,1999,1999,,,0,1. Contaminated Control,0
+3153,H0134,0. Baseline,21,melon indu,1,33,Male,.62879992,19.444792,-70.577854,espaillat,moca,mayo,2011,2011,mayo,2011,13573.13232421875,0. Pure Control,0
+3153,H0134,0. Baseline,21,melon indu,1,33,Male,.62879992,19.444792,-70.577854,espaillat,moca,febrero,2011,2011,agosto,2011,13573.13232421875,0. Pure Control,0
+3155,H0128,0. Baseline,21,batata,1,53,Male,2.2636797,19.441659,-70.568966,espaillat,moca,abril,2011,2011,enero,2012,9897.07568359375,0. Pure Control,0
+3155,H0128,0. Baseline,21,batata,1,53,Male,2.2636797,19.441659,-70.568966,espaillat,moca,octubre,2011,2011,agosto,2011,9897.07568359375,0. Pure Control,0
+3157,H0155,0. Baseline,21,,0,41,Male,2.5151997,19.398432,-70.57930899999999,espaillat,moca,,,,,,0,0. Pure Control,0
+3159,H0148,0. Baseline,11,plátano,0,38,Male,1.0060799,19.402562,-70.565725,espaillat,moca,enero,2011,2010,,,0,0. Pure Control,0
+3161,H0149,0. Baseline,21,plátano,0,57,Male,2.8924797,19.403155,-70.569496,espaillat,moca,mayo,2002,1994,,,1413.868041992188,0. Pure Control,0
+3163,H0167,0. Baseline,12,plátano,0,51,Male,1.5091197,19.405811,-70.564705,espaillat,moca,mayo,2010,2010,,,1696.641479492188,0. Pure Control,0
+3163,H0167,0. Baseline,11,pasto,0,51,Male,6.2879992,19.365777,-70.50559,espaillat,moca,mayo,2010,2010,,,1696.641479492188,0. Pure Control,0
+3168,H0145,0. Baseline,12,batata,1,59,Male,1.6348798,19.406655,-70.57192000000001,santiago,licey al medio,septiembre,2011,2010,febrero,2012,5582.96533203125,0. Pure Control,0
+3168,H0145,0. Baseline,11,,0,59,Male,4.1500793,19.390899,-70.57975,espaillat,moca,,,,,,5582.96533203125,0. Pure Control,0
+3173,H0752,0. Baseline,11,,0,47,Male,1.6977597,19.302261,-70.851682,santiago,pedro garcia,,,,,,0,2. Intended Beneficiaries,1
+3179,H0293,0. Baseline,11,auyama,1,84,Female,1.8863997,19.819866,-70.989842,puerto plata,luperon,octubre,2011,2011,febrero,2012,942.57861328125,2. Intended Beneficiaries,1
+3179,H0293,0. Baseline,21,plátano,0,84,Female,2.5151997,19.818452,-70.992009,puerto plata,luperon,noviembre,2009,2009,,,942.57861328125,2. Intended Beneficiaries,1
+3180,H0260,0. Baseline,11,pasto,0,59,Male,.94319987,19.823502,-71.012337,puerto plata,villa isabela,enero,2011,2011,,,0,2. Intended Beneficiaries,1
+3182,H0286,0. Baseline,11,batata,1,62,Male,1.5719998,19.848177,-71.0347,puerto plata,villa isabela,noviembre,2011,2005,marzo,2012,4524.37744140625,3. Treated Beneficiaries,1
+3183,H0283,0. Baseline,12,yuca,1,55,Male,1.2575998,19.844526,-71.04449099999999,puerto plata,villa isabela,diciembre,2011,2006,octubre,2012,7557.021728515625,3. Treated Beneficiaries,1
+3183,H0283,0. Baseline,14,ají,1,55,Male,.37727994,19.855169,-71.054818,puerto plata,villa isabela,diciembre,2011,2007,julio,2012,7557.021728515625,3. Treated Beneficiaries,1
+3183,H0283,0. Baseline,11,yuca,1,55,Male,1.4462398,19.854802,-71.030102,puerto plata,villa isabela,noviembre,2011,2006,julio,2012,7557.021728515625,3. Treated Beneficiaries,1
+3183,H0283,0. Baseline,13,batata,1,55,Male,.81743991,19.848287,-71.043958,puerto plata,villa isabela,noviembre,2011,2006,abril,2012,7557.021728515625,3. Treated Beneficiaries,1
+3183,H0283,0. Baseline,31,,0,55,Male,1.2575998,19.850727,-71.04418800000001,puerto plata,villa isabela,,,,,,7557.021728515625,3. Treated Beneficiaries,1
+3186,H0254,0. Baseline,11,,0,72,Male,1.2575998,19.815224,-70.994214,puerto plata,villa isabela,,,,,,0,3. Treated Beneficiaries,1
+3187,H0284,0. Baseline,11,cereza,0,64,Male,.94319987,19.8285,-71.013699,puerto plata,villa isabela,abril,1999,1999,,,10179.8486328125,3. Treated Beneficiaries,1
+3188,H0261,0. Baseline,11,cereza,0,54,Male,.81743991,19.8386,-71.024368,puerto plata,villa isabela,diciembre,2000,1999,,,807.9246000000001,3. Treated Beneficiaries,1
+3188,H0261,0. Baseline,12,cereza,0,54,Male,1.1318399,19.837363,-71.012287,puerto plata,villa isabela,noviembre,2009,2009,,,807.9246000000001,3. Treated Beneficiaries,1
+3188,H0261,0. Baseline,13,chinola,0,54,Male,1.1318399,19.828547,-71.013614,puerto plata,villa isabela,diciembre,2008,2008,,,807.9246000000001,3. Treated Beneficiaries,1
+3189,H0259,0. Baseline,11,plátano,0,41,Male,3.1439996,19.834648,-71.00523800000001,puerto plata,villa isabela,noviembre,2010,1990,,,12009.44421386719,3. Treated Beneficiaries,1
+3212,H0606,0. Baseline,21,tindora,0,54,Male,.62879992,19.435397,-70.616793,santiago,licey al medio,junio,2010,2010,,,2221.343994140625,2. Intended Beneficiaries,1
+3213,H0593,0. Baseline,21,,0,50,Female,1.8863997,19.435403,-70.61610899999999,santiago,santiago,,,,,,0,3. Treated Beneficiaries,1
+3214,H0503,0. Baseline,11,pasto,0,90,Male,7.0425591,19.482258,-70.84116,santiago,la canela,no recuerda,1980,2000,,,10858.50573730469,0. Pure Control,0
+3214,H0503,0. Baseline,13,berenjena,1,90,Male,.94319987,19.32213,-71.243369,santiago,la canela,septiembre,2011,1940,febrero,2012,10858.50573730469,0. Pure Control,0
+3214,H0503,0. Baseline,11,tabaco,1,90,Male,7.0425591,19.482258,-70.84116,santiago,la canela,noviembre,2011,1940,abril,2012,10858.50573730469,0. Pure Control,0
+3214,H0503,0. Baseline,12,batata,1,90,Male,1.8863997,19.3231,-71.23315599999999,santiago,la canela,octubre,2011,1940,febrero,2012,10858.50573730469,0. Pure Control,0
+3216,H0632,0. Baseline,11,guineo,0,33,Male,3.7727995,19.380452,-70.656353,santiago,villa bisono navarrete,junio,2011,2007,,,0,2. Intended Beneficiaries,1
+3222,H0619,0. Baseline,11,yuca,1,86,Female,1.3204799,19.534753,-70.79369199999999,santiago,villa bisono navarrete,marzo,2011,1992,enero,2012,5294.150024414063,2. Intended Beneficiaries,1
+3228,H0137,0. Baseline,21,yuca,1,40,Male,4.0871997,19.416498,-70.479935,espaillat,juan lopez,enero,2011,2011,diciembre,2011,4241.603515625,0. Pure Control,0
+3245,H0159,0. Baseline,21,yuca,1,50,Male,.62879992,19.430553,-70.50953800000001,espaillat,moca,enero,2011,1996,diciembre,2011,4090.791259765625,0. Pure Control,0
+3258,H0805,0. Baseline,12,yuca,1,78,Male,5.0303993,19.492004,-70.580743,santiago,tamboril,febrero,2011,1994,diciembre,2011,7314.410095214844,0. Pure Control,0
+3258,H0805,0. Baseline,12,plátano,0,78,Male,5.0303993,19.492004,-70.580743,santiago,tamboril,enero,2011,1994,,,7314.410095214844,0. Pure Control,0
+3258,H0805,0. Baseline,12,habichuela roja,1,78,Male,5.0303993,19.492004,-70.580743,santiago,tamboril,octubre,2011,1994,enero,2012,7314.410095214844,0. Pure Control,0
+3258,H0805,0. Baseline,11,pasto,0,78,Male,4.7159996,19.490293,-70.582925,santiago,tamboril,no recuerda,1976,1976,,,7314.410095214844,0. Pure Control,0
+3261,H0829,0. Baseline,21,plátano,0,35,Male,6.036479,19.433189,-70.62728300000001,santiago,licey al medio,enero,2011,2011,,,5278.440185546875,0. Pure Control,0
+3266,H0608,0. Baseline,11,plátano,0,53,Male,3.2068796,19.390644,-70.598162,santiago,licey al medio,octubre,2010,2010,,,1418.3564453125,3. Treated Beneficiaries,1
+3267,H0602,0. Baseline,11,,0,61,Male,.94319987,19.428438,-70.634528,santiago,licey al medio,,,,,,0,3. Treated Beneficiaries,1
+3267,H0602,0. Baseline,21,pasto,0,61,Male,.31439996,19.434099,-70.62769900000001,santiago,licey al medio,no recuerda,1995,1995,,,0,3. Treated Beneficiaries,1
+3268,H0603,0. Baseline,21,,0,78,Male,2.2007997,19.42468,-70.60079399999999,santiago,licey al medio,,,,,,0,2. Intended Beneficiaries,1
+3295,H0478,0. Baseline,11,ñame,1,56,Male,2.5151997,19.798827,-70.908378,puerto plata,imbert,febrero,2011,2009,noviembre,2011,807.9246000000001,2. Intended Beneficiaries,1
+3295,H0478,0. Baseline,11,yautia,1,56,Male,2.5151997,19.798827,-70.908378,puerto plata,imbert,febrero,2011,2009,julio,2011,807.9246000000001,2. Intended Beneficiaries,1
+3295,H0478,0. Baseline,11,plátano,0,56,Male,2.5151997,19.798827,-70.908378,puerto plata,imbert,enero,2011,1992,,,807.9246000000001,2. Intended Beneficiaries,1
+3295,H0478,0. Baseline,11,guandul,1,56,Male,2.5151997,19.798827,-70.908378,puerto plata,imbert,enero,2011,2009,agosto,2011,807.9246000000001,2. Intended Beneficiaries,1
+3296,H0457,0. Baseline,11,plátano,0,44,Male,.94319987,19.840521,-71.020905,puerto plata,luperon,septiembre,2010,2010,,,6158.180297851563,1. Contaminated Control,0
+3307,H0438,0. Baseline,11,pasto,0,51,Male,1.2575998,19.80262,-70.958983,puerto plata,luperon,no recuerda,1980,1993,,,3167.064208984375,2. Intended Beneficiaries,1
+3308,H0426,0. Baseline,11,plátano,0,65,Male,.69167989,19.818288,-70.935631,puerto plata,luperon,agosto,2009,1980,,,6786.56640625,3. Treated Beneficiaries,1
+3312,H0430,0. Baseline,11,tabaco,1,49,Male,1.8863997,19.812873,-70.95701800000001,puerto plata,luperon,diciembre,2011,1980,agosto,2012,1206.500610351563,3. Treated Beneficiaries,1
+3313,H0381,0. Baseline,11,pasto,0,68,Male,1.8863997,19.801866,-70.951336,puerto plata,luperon,agosto,2009,2001,,,0,2. Intended Beneficiaries,1
+3314,H0452,0. Baseline,11,plátano,0,74,Female,1.5719998,19.843331,-71.03322,puerto plata,luperon,noviembre,2011,2002,,,0,3. Treated Beneficiaries,1
+3324,H0276,0. Baseline,11,plátano,0,33,Male,.37727994,19.816218,-70.99267999999999,puerto plata,luperon,octubre,2010,1998,,,3299.025390625,2. Intended Beneficiaries,1
+3326,H0291,0. Baseline,12,cebolla,1,45,Male,.88031989,19.799531,-70.97548500000001,puerto plata,luperon,octubre,2011,1990,febrero,2012,21113.76171875,3. Treated Beneficiaries,1
+3326,H0291,0. Baseline,12,plátano,0,45,Male,.88031989,19.799531,-70.97548500000001,puerto plata,luperon,mayo,2011,1990,,,21113.76171875,3. Treated Beneficiaries,1
+3326,H0291,0. Baseline,11,lechoza,1,45,Male,.94319987,19.803971,-70.980963,puerto plata,luperon,noviembre,2011,2005,marzo,2012,21113.76171875,3. Treated Beneficiaries,1
+3327,H0316,0. Baseline,11,plátano,0,46,Male,5.0303993,19.848061,-71.048097,puerto plata,villa isabela,octubre,2010,1991,,,13181.01953125,3. Treated Beneficiaries,1
+3327,H0316,0. Baseline,11,lechoza,1,46,Male,5.0303993,19.848061,-71.048097,puerto plata,villa isabela,noviembre,2011,2011,junio,2012,13181.01953125,3. Treated Beneficiaries,1
+3331,H0247,0. Baseline,11,plátano,0,46,Male,1.8235197,19.812097,-70.994175,puerto plata,luperon,octubre,2010,2008,,,5850.488220214844,1. Contaminated Control,0
+3332,H0294,0. Baseline,11,pasto,0,69,Male,7.1054392,19.801353,-70.973865,puerto plata,luperon,noviembre,1976,1976,,,2362.73046875,3. Treated Beneficiaries,1
+3332,H0294,0. Baseline,12,pasto,0,69,Male,4.2129593,19.806517,-70.976491,puerto plata,luperon,octubre,1977,1977,,,2362.73046875,3. Treated Beneficiaries,1
+3332,H0294,0. Baseline,13,pasto,0,69,Male,1.4462398,19.798123,-70.97024399999999,puerto plata,luperon,noviembre,1986,1986,,,2362.73046875,3. Treated Beneficiaries,1
+3332,H0294,0. Baseline,13,tabaco,1,69,Male,1.4462398,19.798123,-70.97024399999999,puerto plata,luperon,diciembre,2011,2010,mayo,2012,2362.73046875,3. Treated Beneficiaries,1
+3332,H0294,0. Baseline,14,pasto,0,69,Male,18.863998,19.80833,-70.96745900000001,puerto plata,luperon,octubre,2006,2006,,,2362.73046875,3. Treated Beneficiaries,1
+3342,H0158,0. Baseline,21,auyama,1,46,Male,1.3833598,,,espaillat,moca,marzo,2011,2005,noviembre,2011,3410.4208984375,0. Pure Control,0
+3345,H0143,0. Baseline,11,plátano,0,84,Male,1.8863997,19.38417,-70.48817200000001,espaillat,cayetano germosen,enero,2011,1982,,,1862.535400390625,0. Pure Control,0
+3349,H0299,0. Baseline,11,pasto,0,30,Male,15.719998,19.80066,-70.968183,puerto plata,los hidalgos,noviembre,2007,2007,,,0,3. Treated Beneficiaries,1
+3350,H0267,0. Baseline,11,plátano,0,46,Male,1.5719998,19.812097,-70.994175,puerto plata,luperon,septiembre,2010,1992,,,807.9246000000001,1. Contaminated Control,0
+3350,H0267,0. Baseline,12,plátano,0,46,Male,1.8863997,19.793445,-71.013729,puerto plata,luperon,febrero,2009,1992,,,807.9246000000001,1. Contaminated Control,0
+3350,H0267,0. Baseline,13,plátano,0,46,Male,.31439996,19.80717,-71.014782,puerto plata,luperon,julio,2010,1992,,,807.9246000000001,1. Contaminated Control,0
+3356,H0268,0. Baseline,11,pasto,0,52,Female,2.5151997,19.887165,-70.957801,puerto plata,luperon,octubre,2010,2010,,,0,2. Intended Beneficiaries,1
+3359,H0130,0. Baseline,11,batata,1,35,Male,1.8863997,,,espaillat,moca,septiembre,2011,2011,febrero,2012,3666.305908203125,0. Pure Control,0
+3365,H0152,0. Baseline,11,cilantro verde,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,noviembre,2011,1982,agosto,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,puerro,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,mayo,2011,1982,octubre,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,puerro,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,noviembre,2011,1982,abril,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,rabano,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,marzo,2011,1982,octubre,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,cilantro verde,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,julio,2011,1982,diciembre,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,rabano,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,julio,2011,1982,diciembre,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,puerro,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,marzo,2011,1982,junio,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,lechuga,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,julio,2011,1982,diciembre,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,puerro,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,septiembre,2011,1982,agosto,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,espinaca,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,julio,2011,1982,abril,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,espinaca,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,marzo,2011,1982,febrero,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,rabano,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,enero,2011,1982,febrero,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,lechuga,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,noviembre,2011,1982,junio,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,puerro,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,julio,2011,1982,diciembre,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,rabano,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,septiembre,2011,1982,agosto,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,lechuga,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,enero,2011,1982,febrero,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,lechuga,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,marzo,2011,1982,agosto,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,espinaca,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,septiembre,2011,1982,agosto,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,rabano,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,noviembre,2011,1982,abril,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,puerro,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,enero,2011,1982,febrero,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,lechuga,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,mayo,2011,1982,octubre,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,rabano,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,mayo,2011,1982,junio,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,lechuga,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,septiembre,2011,1982,abril,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,espinaca,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,enero,2011,1982,noviembre,2001,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,apio,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,septiembre,2011,1982,diciembre,2011,807.9246000000001,0. Pure Control,0
+3365,H0152,0. Baseline,11,espinaca,1,47,Male,.75455987,19.396272,-70.55483700000001,espaillat,moca,mayo,2011,1982,junio,2011,807.9246000000001,0. Pure Control,0
+3374,H0156,0. Baseline,12,plátano,0,48,Male,.94319987,19.428423,-70.607866,santiago,licey al medio,mayo,2002,2002,,,2262.188720703125,0. Pure Control,0
+3374,H0156,0. Baseline,11,plátano,0,48,Male,2.8295996,19.397899,-70.584081,espaillat,moca,mayo,2002,2002,,,2262.188720703125,0. Pure Control,0
+3375,H0138,0. Baseline,21,berenjena,1,63,Male,2.0121598,19.431086,-70.506591,espaillat,juan lopez,marzo,2011,2005,diciembre,2011,7069.33984375,0. Pure Control,0
+3380,H0151,0. Baseline,21,espinaca,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,enero,2011,1975,septiembre,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,lechuga,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,enero,2011,1975,marzo,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,puerro,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,julio,2011,1975,mayo,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,puerro,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,enero,2011,1975,julio,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,espinaca,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,julio,2011,1975,marzo,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,lechuga,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,mayo,2011,1975,noviembre,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,lechuga,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,marzo,2011,1975,julio,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,lechuga,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,septiembre,2011,1975,septiembre,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,rabano,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,mayo,2011,1975,mayo,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,espinaca,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,mayo,2011,1975,mayo,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,puerro,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,marzo,2011,1975,septiembre,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,rabano,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,julio,2011,1975,septiembre,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,plátano,0,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,mayo,2008,1975,,,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,espinaca,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,marzo,2011,1975,julio,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,rabano,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,marzo,2011,1975,noviembre,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,rabano,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,septiembre,2011,1975,marzo,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,puerro,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,mayo,2011,1975,noviembre,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,rabano,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,enero,2011,1975,julio,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,lechuga,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,julio,2011,1975,mayo,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,espinaca,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,septiembre,2011,1975,noviembre,2011,807.9246000000001,0. Pure Control,0
+3380,H0151,0. Baseline,21,puerro,1,55,Male,.23265597,19.398208,-70.55718899999999,espaillat,moca,septiembre,2011,1975,marzo,2011,807.9246000000001,0. Pure Control,0
+3384,H0131,0. Baseline,11,plátano,0,81,Male,1.5719998,19.431721,-70.57383400000001,espaillat,moca,octubre,2007,1952,,,2827.73583984375,0. Pure Control,0
+3386,H0129,0. Baseline,11,plátano,0,50,Female,1.2575998,19.444803,-70.57051300000001,espaillat,moca,octubre,2010,2010,,,1696.641479492188,0. Pure Control,0
+3415,H0458,0. Baseline,11,plátano,0,51,Male,1.8863997,19.83031,-71.001232,puerto plata,luperon,octubre,2010,2000,,,4524.37744140625,3. Treated Beneficiaries,1
+3424,H0380,0. Baseline,11,,0,49,Male,1.8863997,19.798814,-70.991668,puerto plata,luperon,,,,,,0,2. Intended Beneficiaries,1
+3431,H0282,0. Baseline,12,cereza,0,47,Male,.94319987,19.753255,-70.82124899999999,puerto plata,luperon,octubre,2008,2008,,,6786.56640625,3. Treated Beneficiaries,1
+3431,H0282,0. Baseline,11,lechoza,1,47,Male,1.5719998,19.752398,-70.823576,puerto plata,luperon,octubre,2011,2011,abril,2012,6786.56640625,3. Treated Beneficiaries,1
+3443,H0220,0. Baseline,12,pasto,0,71,Male,44.015995,19.737462,-70.895504,puerto plata,imbert,mayo,1974,1974,,,0,1. Contaminated Control,0
+3443,H0220,0. Baseline,11,pasto,0,71,Male,17.606398,19.73231,-70.91127400000001,puerto plata,imbert,mayo,1974,1974,,,0,1. Contaminated Control,0
+3445,H0318,0. Baseline,13,pasto,0,42,Male,4.2129593,19.816955,-71.06750599999999,puerto plata,villa isabela,no recuerda,2001,2001,,,3341.869873046875,1. Contaminated Control,0
+3445,H0318,0. Baseline,12,pasto,0,42,Male,5.4705591,19.806528,-71.01754200000001,puerto plata,villa isabela,no recuerda,2001,2001,,,3341.869873046875,1. Contaminated Control,0
+3445,H0318,0. Baseline,11,plátano,0,42,Male,1.3833598,19.81977,-71.057382,puerto plata,villa isabela,mayo,2010,2011,,,3341.869873046875,1. Contaminated Control,0
+3448,H0275,0. Baseline,12,pasto,0,70,Female,5.0303993,19.813858,-71.00832800000001,puerto plata,villa isabela,no recuerda,1970,1970,,,3079.090148925781,1. Contaminated Control,0
+3448,H0275,0. Baseline,11,pasto,0,70,Female,1.8863997,19.814559,-71.003044,puerto plata,villa isabela,no recuerda,1970,1970,,,3079.090148925781,1. Contaminated Control,0
+3449,H0280,0. Baseline,11,plátano,0,52,Male,2.5151997,19.841034,-71.022453,puerto plata,villa isabela,noviembre,2010,2010,,,2827.73583984375,3. Treated Beneficiaries,1
+3449,H0280,0. Baseline,12,pasto,0,52,Male,5.0303993,19.819747,-71.042114,puerto plata,villa isabela,no recuerda,2002,1998,,,2827.73583984375,3. Treated Beneficiaries,1
+3449,H0280,0. Baseline,21,pasto,0,52,Male,2.5151997,19.753579,-70.824797,puerto plata,villa isabela,no recuerda,2004,1998,,,2827.73583984375,3. Treated Beneficiaries,1
+3449,H0280,0. Baseline,13,pasto,0,52,Male,1.7606398,19.819593,-71.041167,puerto plata,villa isabela,no recuerda,2003,1998,,,2827.73583984375,3. Treated Beneficiaries,1
+3458,H0799,0. Baseline,11,pasto,0,60,Male,10.752479,19.396808,-70.93876400000001,santiago,san jose de las matas,no recuerda,2009,1990,,,0,2. Intended Beneficiaries,1
+3514,H0140,0. Baseline,21,berenjena,1,42,Male,2.2007997,19.425526,-70.513926,espaillat,juan lopez,marzo,2011,2009,diciembre,2011,8143.87939453125,0. Pure Control,0
+3540,H1244,0. Baseline,11,,0,52,Male,1.2575998,18.406295,-71.62893699999999,independencia,duverge,,,,,,0,0. Pure Control,0
+3542,H1243,0. Baseline,11,,0,70,Male,1.8863997,18.399213,-71.617684,independencia,duverge,,,,,,0,0. Pure Control,0
+3554,H1237,0. Baseline,11,,0,61,Male,1.6977597,18.486563,-71.85119299999999,independencia,jimani,,,,,,0,0. Pure Control,0
+3557,H1249,0. Baseline,11,,0,51,Male,3.1439996,18.395203,-71.592804,independencia,duverge,,,,,,0,0. Pure Control,0
+3558,H1242,0. Baseline,11,yuca,1,68,Male,1.2575998,18.394247,-71.624122,independencia,duverge,marzo,2011,1981,enero,2012,659.8050537109375,0. Pure Control,0
+3560,H1265,0. Baseline,11,,0,49,Male,2.2007997,18.402499,-71.594126,independencia,duverge,,,,,,0,0. Pure Control,0
+3566,H1253,0. Baseline,11,guineo,0,47,Male,1.8863997,18.409788,-71.632244,independencia,duverge,mayo,2007,1991,,,0,0. Pure Control,0
+3625,H1287,0. Baseline,11,,0,76,Male,1.8863997,18.433421,-71.776312,independencia,jimani,,,,,,0,0. Pure Control,0
+3627,H1279,0. Baseline,11,,0,45,Male,1.5719998,18.435236,-71.771978,independencia,distrito,,,,,,0,0. Pure Control,0
+3631,H1240,0. Baseline,21,plátano,0,72,Male,.31439996,18.39906,-71.59379800000001,independencia,duverge,diciembre,2002,1952,,,2171.701171875,0. Pure Control,0
+3632,H1288,0. Baseline,11,,0,58,Male,1.2575998,18.43593,-71.777091,independencia,distrito,,,,,,0,0. Pure Control,0
+3689,H1284,0. Baseline,11,,0,42,Male,1.8863997,18.432705,-71.77879,independencia,jimani,,,,,,0,0. Pure Control,0
+3692,H1292,0. Baseline,21,plátano,0,44,Male,2.5151997,18.483487,-71.85855100000001,independencia,duverge,marzo,2010,1990,,,377.0314636230469,0. Pure Control,0
+3692,H1292,0. Baseline,11,,0,44,Male,1.8863997,18.487378,-71.859054,independencia,duverge,,,,,,377.0314636230469,0. Pure Control,0
+3692,H1292,0. Baseline,21,sandia,1,44,Male,2.5151997,18.483487,-71.85855100000001,independencia,duverge,septiembre,2011,1990,diciembre,2011,377.0314636230469,0. Pure Control,0
+3694,H1293,0. Baseline,11,,0,54,Male,1.5719998,18.490254,-71.858086,independencia,duverge,,,,,,0,0. Pure Control,0
+3705,H1221,0. Baseline,11,guineo,0,64,Male,2.5151997,18.308657,-71.418711,independencia,mella,agosto,2008,1992,,,4712.89306640625,0. Pure Control,0
+3709,H1298,0. Baseline,11,pasto,0,27,Male,1.8863997,18.485699,-71.86015999999999,independencia,jimani,no recuerda,1998,1998,,,0,0. Pure Control,0
+3711,H1295,0. Baseline,11,,0,43,Male,4.4015994,18.484362,-71.855839,independencia,jimani,,,,,,0,0. Pure Control,0
+3712,H1275,0. Baseline,11,,0,72,Female,1.8863997,18.431412,-71.77257299999999,independencia,jimani,,,,,,0,0. Pure Control,0
+3713,H1278,0. Baseline,11,,0,66,Male,1.5091197,18.429019,-71.78328399999999,independencia,jimani,,,,,,0,0. Pure Control,0
+3714,H1277,0. Baseline,11,limon,0,62,Male,1.8863997,18.427899,-71.768443,independencia,jimani,no recuerda,2008,2008,,,2262.188720703125,0. Pure Control,0
+3715,H1274,0. Baseline,11,,0,58,Male,1.8863997,18.427404,-71.77179599999999,independencia,jimani,,,,,,0,0. Pure Control,0
+3718,H1282,0. Baseline,11,,0,67,Male,1.2575998,18.424549,-71.78182099999999,independencia,jimani,,,,,,0,0. Pure Control,0
+3719,H1276,0. Baseline,11,maiz grano/mazorca,1,63,Male,1.8863997,18.433942,-71.769092,independencia,duverge,mayo,2011,1977,septiembre,2011,565.5471801757813,0. Pure Control,0
+3720,H1230,0. Baseline,11,habichuela negra,1,70,Female,2.2007997,18.317827,-71.593568,independencia,duverge,octubre,2011,1992,diciembre,2011,2183.012084960938,0. Pure Control,0
+3720,H1230,0. Baseline,11,maiz grano/mazorca,1,70,Female,2.2007997,18.317827,-71.593568,independencia,duverge,mayo,2011,1992,septiembre,2011,2183.012084960938,0. Pure Control,0
+3721,H1285,0. Baseline,11,plátano,0,58,Male,1.8863997,18.429946,-71.780366,independencia,jimani,agosto,2010,2000,,,2827.735900878906,0. Pure Control,0
+3721,H1285,0. Baseline,11,maiz grano/mazorca,1,58,Male,1.8863997,18.429946,-71.780366,independencia,jimani,abril,2011,2000,agosto,2011,2827.735900878906,0. Pure Control,0
+3722,H1228,0. Baseline,11,habichuela negra,1,68,Male,2.5151997,18.346994,-71.568029,independencia,duverge,octubre,2011,1974,diciembre,2011,601.3651733398438,0. Pure Control,0
+3723,H1231,0. Baseline,12,berenjena,1,49,Male,2.5151997,18.350104,-71.567941,independencia,duverge,marzo,2011,2005,octubre,2011,2431.852905273438,0. Pure Control,0
+3723,H1231,0. Baseline,11,habichuela negra,1,49,Male,2.2636797,18.347488,-71.569351,independencia,duverge,octubre,2011,2006,diciembre,2011,2431.852905273438,0. Pure Control,0
+3726,H1629,0. Baseline,11,limon,0,73,Male,20.121597,18.692118,-70.988297,azua,padre las casas,marzo,2010,2010,,,809.36083984375,3. Treated Beneficiaries,1
+3726,H1629,0. Baseline,11,ají,1,73,Male,20.121597,18.692118,-70.988297,azua,padre las casas,junio,2011,2011,septiembre,2011,809.36083984375,3. Treated Beneficiaries,1
+3726,H1629,0. Baseline,11,guineo,0,73,Male,20.121597,18.692118,-70.988297,azua,padre las casas,abril,1990,1990,,,809.36083984375,3. Treated Beneficiaries,1
+3727,H1603,0. Baseline,12,maiz grano/mazorca,1,45,Male,9.1175985,18.633328,-70.754194,azua,padre las casas,abril,2011,1990,agosto,2011,4806.763036727905,1. Contaminated Control,0
+3727,H1603,0. Baseline,11,maiz grano/mazorca,1,45,Male,1.5091197,18.62768,-70.75964500000001,azua,padre las casas,agosto,2011,1990,enero,2012,4806.763036727905,1. Contaminated Control,0
+3727,H1603,0. Baseline,14,aguacate,0,45,Male,9.872159,18.467002,-70.578204,azua,padre las casas,abril,2000,2000,,,4806.763036727905,1. Contaminated Control,0
+3727,H1603,0. Baseline,11,habichuela roja,1,45,Male,1.5091197,18.62768,-70.75964500000001,azua,padre las casas,agosto,2011,1990,noviembre,2011,4806.763036727905,1. Contaminated Control,0
+3727,H1603,0. Baseline,13,auyama,1,45,Male,4.0871997,18.634757,-70.767438,azua,padre las casas,abril,2011,1990,diciembre,2011,4806.763036727905,1. Contaminated Control,0
+3727,H1603,0. Baseline,12,guandul,1,45,Male,9.1175985,18.633328,-70.754194,azua,padre las casas,abril,2011,1990,noviembre,2011,4806.763036727905,1. Contaminated Control,0
+3727,H1603,0. Baseline,13,yuca,1,45,Male,4.0871997,18.634757,-70.767438,azua,padre las casas,abril,2011,1990,abril,2012,4806.763036727905,1. Contaminated Control,0
+3727,H1603,0. Baseline,12,habichuela roja,1,45,Male,9.1175985,18.633328,-70.754194,azua,padre las casas,abril,2011,1990,julio,2011,4806.763036727905,1. Contaminated Control,0
+3728,H1677,0. Baseline,11,maiz grano/mazorca,1,35,Female,1.8863997,18.773368,-70.891994,azua,padre las casas,abril,2011,2009,agosto,2011,2415.514904022217,2. Intended Beneficiaries,1
+3728,H1677,0. Baseline,11,guandul,1,35,Female,1.8863997,18.773368,-70.891994,azua,padre las casas,abril,2011,2009,diciembre,2011,2415.514904022217,2. Intended Beneficiaries,1
+3728,H1677,0. Baseline,11,auyama,1,35,Female,1.8863997,18.773368,-70.891994,azua,padre las casas,abril,2011,2009,noviembre,2011,2415.514904022217,2. Intended Beneficiaries,1
+3753,H1289,0. Baseline,11,,0,31,Male,1.2575998,18.430068,-71.772694,independencia,jimani,,,,,,0,0. Pure Control,0
+3755,H1286,0. Baseline,11,maiz grano/mazorca,1,36,Male,1.2575998,18.425169,-71.77547,independencia,jimani,febrero,2011,1980,junio,2011,527.8440551757813,0. Pure Control,0
+3767,H1280,0. Baseline,11,maiz grano/mazorca,1,54,Male,1.2575998,18.426375,-71.781766,independencia,jimani,marzo,2011,1986,agosto,2011,603.2503051757813,0. Pure Control,0
+3768,H1281,0. Baseline,11,,0,56,Male,.62879992,18.430436,-71.76933699999999,independencia,jimani,,,,,,0,0. Pure Control,0
+3776,H2086,0. Baseline,11,maiz grano/mazorca,1,57,Male,3.1439996,18.79905,-71.073384,san juan,juan de herrera,mayo,2011,2010,septiembre,2011,562.5309448242188,2. Intended Beneficiaries,1
+3776,H2086,0. Baseline,11,guandul,1,57,Male,3.1439996,18.79905,-71.073384,san juan,juan de herrera,mayo,2011,2010,septiembre,2011,562.5309448242188,2. Intended Beneficiaries,1
+3776,H2086,0. Baseline,11,yautia,1,57,Male,3.1439996,18.79905,-71.073384,san juan,juan de herrera,mayo,2011,2010,mayo,2012,562.5309448242188,2. Intended Beneficiaries,1
+3781,H1631,0. Baseline,11,,0,60,Male,3.7727995,18.728467,-70.94636199999999,azua,padre las casas,,,,,,0,1. Contaminated Control,0
+3782,H1678,0. Baseline,11,aguacate,0,63,Male,8.1743994,18.728161,-70.94939100000001,azua,padre las casas,no recuerda,2002,2002,,,3076.57666015625,2. Intended Beneficiaries,1
+3782,H1678,0. Baseline,12,,0,63,Male,7.8599992,18.746346,-70.914641,azua,padre las casas,,,,,,3076.57666015625,2. Intended Beneficiaries,1
+3782,H1678,0. Baseline,11,cafe,0,63,Male,8.1743994,18.728161,-70.94939100000001,azua,padre las casas,no recuerda,1997,1997,,,3076.57666015625,2. Intended Beneficiaries,1
+3783,H1541,0. Baseline,11,cafe,0,42,Male,2.2007997,18.721062,-70.882015,azua,padre las casas,julio,2007,2008,,,3544.095703125,3. Treated Beneficiaries,1
+3783,H1541,0. Baseline,11,aguacate,0,42,Male,2.2007997,18.721062,-70.882015,azua,padre las casas,mayo,2008,2007,,,3544.095703125,3. Treated Beneficiaries,1
+3783,H1541,0. Baseline,12,auyama,1,42,Male,4.4015994,18.902799,-70.858002,azua,padre las casas,mayo,2011,1997,noviembre,2011,3544.095703125,3. Treated Beneficiaries,1
+3783,H1541,0. Baseline,12,guandul,1,42,Male,4.4015994,18.902799,-70.858002,azua,padre las casas,abril,2011,1997,noviembre,2011,3544.095703125,3. Treated Beneficiaries,1
+3787,H1683,0. Baseline,11,limon,0,41,Male,11.632798,18.733993,-70.91039000000001,azua,padre las casas,abril,2010,2010,,,496.9274749755859,3. Treated Beneficiaries,1
+3787,H1683,0. Baseline,11,habichuela roja,1,41,Male,11.632798,18.733993,-70.91039000000001,azua,padre las casas,abril,2011,no recuerda,julio,2011,496.9274749755859,3. Treated Beneficiaries,1
+3787,H1683,0. Baseline,11,guandul,1,41,Male,11.632798,18.733993,-70.91039000000001,azua,padre las casas,abril,2011,no recuerda,noviembre,2011,496.9274749755859,3. Treated Beneficiaries,1
+3787,H1683,0. Baseline,11,maiz grano/mazorca,1,41,Male,11.632798,18.733993,-70.91039000000001,azua,padre las casas,abril,2011,no recuerda,septiembre,2011,496.9274749755859,3. Treated Beneficiaries,1
+3787,H1683,0. Baseline,11,aguacate,0,41,Male,11.632798,18.733993,-70.91039000000001,azua,padre las casas,abril,2010,2010,,,496.9274749755859,3. Treated Beneficiaries,1
+3789,H1681,0. Baseline,11,,0,45,Male,2.2007997,18.725346,-70.892527,azua,padre las casas,,,,,,1083.588424682617,3. Treated Beneficiaries,1
+3790,H1672,0. Baseline,11,limon,0,56,Male,12.575998,18.713262,-70.94209600000001,azua,padre las casas,abril,2000,2000,,,6594.123062133789,2. Intended Beneficiaries,1
+3790,H1672,0. Baseline,11,aguacate,0,56,Male,12.575998,18.713262,-70.94209600000001,azua,padre las casas,abril,2000,2000,,,6594.123062133789,2. Intended Beneficiaries,1
+3790,H1672,0. Baseline,11,maiz grano/mazorca,1,56,Male,12.575998,18.713262,-70.94209600000001,azua,padre las casas,abril,2011,no recuerda,agosto,2011,6594.123062133789,2. Intended Beneficiaries,1
+3790,H1672,0. Baseline,11,guandul,1,56,Male,12.575998,18.713262,-70.94209600000001,azua,padre las casas,abril,2011,1987,noviembre,2011,6594.123062133789,2. Intended Beneficiaries,1
+3790,H1672,0. Baseline,11,habichuela roja,1,56,Male,12.575998,18.713262,-70.94209600000001,azua,padre las casas,abril,2011,1987,julio,2011,6594.123062133789,2. Intended Beneficiaries,1
+3792,H1622,0. Baseline,11,,0,38,Male,1.6348798,18.505151,-70.587416,azua,padre las casas,,,,,,0,2. Intended Beneficiaries,1
+3807,H1467,0. Baseline,11,,0,58,Male,1.2575998,18.452733,-70.643343,azua,azua,,,,,,0,0. Pure Control,0
+3832,H2159,0. Baseline,11,pasto,0,36,Female,3.1439996,18.882355,-71.26045499999999,san juan,vallejuelo,marzo,2009,2009,,,0,3. Treated Beneficiaries,1
+3837,H2214,0. Baseline,11,pasto,0,65,Male,.94319987,18.775982,-71.549012,san juan,vallejuelo,agosto,2001,2000,,,0,2. Intended Beneficiaries,1
+3846,H2116,0. Baseline,11,pasto,0,55,Male,6.4766393,18.924435,-71.51804199999999,san juan,pedro corto,no recuerda,1990,1990,,,0,0. Pure Control,0
+3850,H2102,0. Baseline,11,pasto,0,58,Male,2.8295996,18.945386,-71.262174,san juan,san juan de la maguana,no recuerda,1980,1980,,,2639.22021484375,3. Treated Beneficiaries,1
+3861,H1978,0. Baseline,11,,0,68,Male,6.036479,18.888173,-71.710384,elías piña,comendador,,,,,,0,3. Treated Beneficiaries,1
+3863,H1984,0. Baseline,11,tabaco,1,49,Male,4.2758393,18.892192,-71.707842,elías piña,comendador,noviembre,2011,2011,febrero,2012,5954.87890625,3. Treated Beneficiaries,1
+3865,H1973,0. Baseline,12,yuca,1,80,Male,1.8863997,18.709612,-71.68393399999999,elías piña,comendador,abril,2011,2005,enero,2012,1290.704360961914,3. Treated Beneficiaries,1
+3865,H1973,0. Baseline,12,ñame,1,80,Male,1.8863997,18.709612,-71.68393399999999,elías piña,comendador,abril,2011,2005,noviembre,2011,1290.704360961914,3. Treated Beneficiaries,1
+3865,H1973,0. Baseline,11,pasto,0,80,Male,1.5719998,18.87754,-71.680492,elías piña,comendador,no recuerda,2007,2007,,,1290.704360961914,3. Treated Beneficiaries,1
+3867,H2209,0. Baseline,11,cebolla,1,56,Male,1.8863997,18.81643,-71.14840599999999,san juan,vallejuelo,diciembre,2011,1997,abril,2012,6937.37890625,3. Treated Beneficiaries,1
+3867,H2209,0. Baseline,11,habichuela roja,1,56,Male,1.8863997,18.81643,-71.14840599999999,san juan,vallejuelo,septiembre,2011,1997,noviembre,2011,6937.37890625,3. Treated Beneficiaries,1
+3868,H2150,0. Baseline,11,cebolla,1,48,Male,1.1318399,18.734852,-71.12656,san juan,vallejuelo,febrero,2011,1987,abril,2011,8789.021728515625,3. Treated Beneficiaries,1
+3868,H2150,0. Baseline,11,habichuela roja,1,48,Male,1.1318399,18.734852,-71.12656,san juan,vallejuelo,septiembre,2011,1987,noviembre,2011,8789.021728515625,3. Treated Beneficiaries,1
+3870,H2192,0. Baseline,11,habichuela roja,1,56,Male,1.8863997,18.819372,-71.150986,san juan,vallejuelo,septiembre,2011,1998,noviembre,2011,10149.68627929688,1. Contaminated Control,0
+3870,H2192,0. Baseline,11,cebolla,1,56,Male,1.8863997,18.819372,-71.150986,san juan,vallejuelo,febrero,2011,1998,abril,2011,10149.68627929688,1. Contaminated Control,0
+3873,H2212,0. Baseline,11,cebolla,1,54,Male,1.2575998,18.824062,-71.153756,san juan,vallejuelo,febrero,2011,1991,abril,2011,8262.644653320313,3. Treated Beneficiaries,1
+3873,H2212,0. Baseline,11,habichuela roja,1,54,Male,1.2575998,18.824062,-71.153756,san juan,vallejuelo,septiembre,2011,1991,noviembre,2011,8262.644653320313,3. Treated Beneficiaries,1
+3874,H2206,0. Baseline,11,habichuela negra,1,56,Male,1.8863997,18.666923,-71.352908,san juan,vallejuelo,septiembre,2011,1989,noviembre,2011,7264.139038085938,3. Treated Beneficiaries,1
+3874,H2206,0. Baseline,11,cebolla,1,56,Male,1.8863997,18.666923,-71.352908,san juan,vallejuelo,febrero,2011,1989,abril,2011,7264.139038085938,3. Treated Beneficiaries,1
+3880,H2197,0. Baseline,11,habichuela roja,1,37,Male,3.7727995,18.764958,-71.56382499999999,san juan,vallejuelo,agosto,2011,1994,noviembre,2011,12190.68383789063,1. Contaminated Control,0
+3880,H2197,0. Baseline,11,cebolla,1,37,Male,3.7727995,18.764958,-71.56382499999999,san juan,vallejuelo,diciembre,2011,1994,abril,2012,12190.68383789063,1. Contaminated Control,0
+3887,H2211,0. Baseline,11,cebolla,1,44,Male,1.2575998,18.667746,-71.34596500000001,san juan,vallejuelo,noviembre,2011,2000,abril,2012,7947.823059082031,1. Contaminated Control,0
+3887,H2211,0. Baseline,11,habichuela roja,1,44,Male,1.2575998,18.667746,-71.34596500000001,san juan,vallejuelo,septiembre,2011,2000,noviembre,2011,7947.823059082031,1. Contaminated Control,0
+3888,H2204,0. Baseline,11,,0,54,Male,.81743991,18.678475,-71.341936,san juan,vallejuelo,,,,,,0,2. Intended Beneficiaries,1
+3889,H2158,0. Baseline,11,habichuela roja,1,65,Female,1.8863997,18.886786,-71.25621599999999,san juan,vallejuelo,septiembre,2011,2006,noviembre,2011,8973.3486328125,1. Contaminated Control,0
+3889,H2158,0. Baseline,11,cebolla,1,65,Female,1.8863997,18.886786,-71.25621599999999,san juan,vallejuelo,noviembre,2011,2006,abril,2012,8973.3486328125,1. Contaminated Control,0
+3893,H2213,0. Baseline,11,habichuela roja,1,73,Female,1.8863997,18.798549,-71.123673,san juan,vallejuelo,septiembre,2011,2006,noviembre,2011,7613.521728515625,3. Treated Beneficiaries,1
+3893,H2213,0. Baseline,11,cebolla,1,73,Female,1.8863997,18.798549,-71.123673,san juan,vallejuelo,diciembre,2011,2006,abril,2012,7613.521728515625,3. Treated Beneficiaries,1
+3894,H2199,0. Baseline,11,habichuela roja,1,60,Male,1.8863997,18.771108,-71.561762,san juan,vallejuelo,septiembre,2011,2003,noviembre,2011,6434.67041015625,2. Intended Beneficiaries,1
+3894,H2199,0. Baseline,11,cebolla,1,60,Male,1.8863997,18.771108,-71.561762,san juan,vallejuelo,diciembre,2011,2003,abril,2012,6434.67041015625,2. Intended Beneficiaries,1
+3895,H2200,0. Baseline,11,habichuela roja,1,43,Male,1.2575998,18.823267,-71.151101,san juan,vallejuelo,septiembre,2011,2009,noviembre,2011,6877.053588867188,3. Treated Beneficiaries,1
+3895,H2200,0. Baseline,11,cebolla,1,43,Male,1.2575998,18.823267,-71.151101,san juan,vallejuelo,diciembre,2011,2009,abril,2012,6877.053588867188,3. Treated Beneficiaries,1
+3900,H2203,0. Baseline,11,habichuela roja,1,75,Male,.75455987,18.82052,-71.15329,san juan,vallejuelo,septiembre,2011,1973,noviembre,2011,7260.9970703125,2. Intended Beneficiaries,1
+3900,H2203,0. Baseline,11,cebolla,1,75,Male,.75455987,18.82052,-71.15329,san juan,vallejuelo,diciembre,2011,1973,abril,2012,7260.9970703125,2. Intended Beneficiaries,1
+3901,H2210,0. Baseline,11,habichuela roja,1,65,Male,.94319987,18.822064,-71.152366,san juan,vallejuelo,septiembre,2011,1997,noviembre,2011,6855.688537597656,2. Intended Beneficiaries,1
+3901,H2210,0. Baseline,11,cebolla,1,65,Male,.94319987,18.822064,-71.152366,san juan,vallejuelo,febrero,2011,1997,abril,2011,6855.688537597656,2. Intended Beneficiaries,1
+3903,H2208,0. Baseline,11,habichuela roja,1,70,Female,1.8863997,18.802134,-71.123458,san juan,vallejuelo,septiembre,2011,2006,noviembre,2011,7088.19140625,2. Intended Beneficiaries,1
+3903,H2208,0. Baseline,11,cebolla,1,70,Female,1.8863997,18.802134,-71.123458,san juan,vallejuelo,diciembre,2011,2006,abril,2012,7088.19140625,2. Intended Beneficiaries,1
+3909,H1615,0. Baseline,11,limon,0,50,Male,5.0303993,18.533346,-70.805848,azua,padre las casas,abril,2005,2002,,,1417.638290405273,1. Contaminated Control,0
+3909,H1615,0. Baseline,11,aguacate,0,50,Male,5.0303993,18.533346,-70.805848,azua,padre las casas,abril,2005,2002,,,1417.638290405273,1. Contaminated Control,0
+3909,H1615,0. Baseline,11,guandul,1,50,Male,5.0303993,18.533346,-70.805848,azua,padre las casas,abril,2011,no recuerda,diciembre,2011,1417.638290405273,1. Contaminated Control,0
+3909,H1615,0. Baseline,11,habichuela roja,1,50,Male,5.0303993,18.533346,-70.805848,azua,padre las casas,abril,2011,no recuerda,agosto,2011,1417.638290405273,1. Contaminated Control,0
+3912,H1547,0. Baseline,11,aguacate,0,64,Male,3.7727995,18.694243,-70.950913,azua,padre las casas,abril,2002,2002,,,1633.802978515625,2. Intended Beneficiaries,1
+3912,H1547,0. Baseline,11,limon,0,64,Male,3.7727995,18.694243,-70.950913,azua,padre las casas,marzo,2009,2009,,,1633.802978515625,2. Intended Beneficiaries,1
+3914,H1696,0. Baseline,11,,0,27,Male,1.8863997,18.890127,-70.853212,azua,padre las casas,,,,,,0,2. Intended Beneficiaries,1
+3915,H1692,0. Baseline,11,habichuela roja,1,24,Male,1.8863997,18.889566,-70.85396799999999,azua,padre las casas,abril,2011,2010,julio,2011,254.4962310791016,1. Contaminated Control,0
+3915,H1692,0. Baseline,11,maiz grano/mazorca,1,24,Male,1.8863997,18.889566,-70.85396799999999,azua,padre las casas,abril,2011,2010,julio,2011,254.4962310791016,1. Contaminated Control,0
+3915,H1692,0. Baseline,11,guandul,1,24,Male,1.8863997,18.889566,-70.85396799999999,azua,padre las casas,abril,2011,2010,diciembre,2011,254.4962310791016,1. Contaminated Control,0
+3918,H1626,0. Baseline,11,guandul,1,44,Male,6.2879992,18.90349,-70.861009,azua,padre las casas,mayo,2011,1990,diciembre,2011,468.5663108825684,1. Contaminated Control,0
+3918,H1626,0. Baseline,11,auyama,1,44,Male,6.2879992,18.90349,-70.861009,azua,padre las casas,mayo,2011,1990,diciembre,2011,468.5663108825684,1. Contaminated Control,0
+3918,H1626,0. Baseline,11,maiz grano/mazorca,1,44,Male,6.2879992,18.90349,-70.861009,azua,padre las casas,mayo,2011,1990,septiembre,2011,468.5663108825684,1. Contaminated Control,0
+3918,H1626,0. Baseline,11,habichuela negra,1,44,Male,6.2879992,18.90349,-70.861009,azua,padre las casas,mayo,2011,1990,agosto,2011,468.5663108825684,1. Contaminated Control,0
+3920,H1624,0. Baseline,11,guandul,1,69,Male,2.8295996,18.482028,-70.688897,azua,padre las casas,abril,2011,1970,diciembre,2011,2141.492752075195,2. Intended Beneficiaries,1
+3920,H1624,0. Baseline,11,maiz grano/mazorca,1,69,Male,2.8295996,18.482028,-70.688897,azua,padre las casas,abril,2011,1970,agosto,2011,2141.492752075195,2. Intended Beneficiaries,1
+3920,H1624,0. Baseline,11,aguacate,0,69,Male,2.8295996,18.482028,-70.688897,azua,padre las casas,abril,2004,2004,,,2141.492752075195,2. Intended Beneficiaries,1
+3922,H1617,0. Baseline,11,habichuela negra,1,58,Male,2.5151997,18.523028,-70.57157599999999,azua,padre las casas,abril,2011,1972,agosto,2011,3627.880363464355,2. Intended Beneficiaries,1
+3922,H1617,0. Baseline,11,aguacate,0,58,Male,2.5151997,18.523028,-70.57157599999999,azua,padre las casas,abril,2008,2000,,,3627.880363464355,2. Intended Beneficiaries,1
+3923,H1565,0. Baseline,11,guandul,1,65,Male,6.2879992,18.75421,-70.843647,azua,guayabal,abril,2011,1980,diciembre,2011,3573.572689056396,2. Intended Beneficiaries,1
+3923,H1565,0. Baseline,11,auyama,1,65,Male,6.2879992,18.75421,-70.843647,azua,guayabal,abril,2011,1980,diciembre,2011,3573.572689056396,2. Intended Beneficiaries,1
+3923,H1565,0. Baseline,11,yuca,1,65,Male,6.2879992,18.75421,-70.843647,azua,guayabal,mayo,2011,1980,abril,2012,3573.572689056396,2. Intended Beneficiaries,1
+3923,H1565,0. Baseline,11,habichuela roja,1,65,Male,6.2879992,18.75421,-70.843647,azua,guayabal,abril,2011,1980,julio,2011,3573.572689056396,2. Intended Beneficiaries,1
+3923,H1565,0. Baseline,11,aguacate,0,65,Male,6.2879992,18.75421,-70.843647,azua,guayabal,abril,2008,1980,,,3573.572689056396,2. Intended Beneficiaries,1
+3923,H1565,0. Baseline,12,,0,65,Male,5.0303993,18.531743,-70.615954,azua,guayabal,,,,,,3573.572689056396,2. Intended Beneficiaries,1
+3923,H1565,0. Baseline,11,cafe,0,65,Male,6.2879992,18.75421,-70.843647,azua,guayabal,abril,2008,1980,,,3573.572689056396,2. Intended Beneficiaries,1
+3924,H1638,0. Baseline,12,,0,46,Male,.25151998,18.736294,-70.93756,azua,las charcas,,,,,,0,3. Treated Beneficiaries,1
+3924,H1638,0. Baseline,11,pasto,0,46,Male,4.4015994,18.734517,-70.93642800000001,azua,padre las casas,no recuerda,2005,2005,,,0,3. Treated Beneficiaries,1
+3925,H1647,0. Baseline,11,limon,0,56,Male,.88031989,18.58207,-70.94789,azua,padre las casas,abril,2010,2010,,,1357.313232421875,3. Treated Beneficiaries,1
+3925,H1647,0. Baseline,12,,0,56,Male,3.1439996,18.733282,-70.93554399999999,azua,padre las casas,,,,,,1357.313232421875,3. Treated Beneficiaries,1
+3925,H1647,0. Baseline,11,aguacate,0,56,Male,.88031989,18.58207,-70.94789,azua,padre las casas,abril,2010,2010,,,1357.313232421875,3. Treated Beneficiaries,1
+3927,H1559,0. Baseline,11,aguacate,0,44,Female,1.1318399,18.755153,-70.837808,azua,guayabal,mayo,2008,2008,,,452.437744140625,2. Intended Beneficiaries,1
+3927,H1559,0. Baseline,11,cafe,0,44,Female,1.1318399,18.755153,-70.837808,azua,guayabal,abril,2009,2009,,,452.437744140625,2. Intended Beneficiaries,1
+3927,H1559,0. Baseline,21,habichuela roja,1,44,Female,.94319987,18.720926,-70.779257,azua,guayabal,abril,2011,2004,julio,2011,452.437744140625,2. Intended Beneficiaries,1
+3934,H1537,0. Baseline,11,guandul,1,45,Male,37.727997,18.663993,-70.859514,azua,las yayas de viajama,junio,2011,2011,noviembre,2011,605.1354827880859,2. Intended Beneficiaries,1
+3934,H1537,0. Baseline,11,maiz grano/mazorca,1,45,Male,37.727997,18.663993,-70.859514,azua,las yayas de viajama,abril,2011,2011,septiembre,2011,605.1354827880859,2. Intended Beneficiaries,1
+3934,H1537,0. Baseline,11,auyama,1,45,Male,37.727997,18.663993,-70.859514,azua,las yayas de viajama,abril,2011,2011,septiembre,2011,605.1354827880859,2. Intended Beneficiaries,1
+3937,H2025,0. Baseline,12,arroz,1,48,Male,1.8863997,18.758489,-71.486891,san juan,las matas de farfan,mayo,2011,1995,noviembre,2011,4013.499877929688,2. Intended Beneficiaries,1
+3937,H2025,0. Baseline,11,batata,1,48,Male,2.5151997,18.758929,-71.490442,san juan,las matas de farfan,septiembre,2011,1995,febrero,2012,4013.499877929688,2. Intended Beneficiaries,1
+3940,H2009,0. Baseline,12,,0,56,Female,.75455987,18.704881,-71.64855,elías piña,hondo valle,,,,,,0,0. Pure Control,0
+3940,H2009,0. Baseline,11,,0,56,Female,.75455987,18.680107,-71.652912,elías piña,hondo valle,,,,,,0,0. Pure Control,0
+3949,H1583,0. Baseline,11,,0,43,Male,.62879992,18.607033,-70.75088700000001,azua,padre las casas,,,,,,4497.9853515625,2. Intended Beneficiaries,1
+3950,H1567,0. Baseline,11,aguacate,0,33,Male,1.8863997,18.70911,-70.799988,azua,guayabal,mayo,2011,2011,,,919.537841796875,1. Contaminated Control,0
+3950,H1567,0. Baseline,11,guandul,1,33,Male,1.8863997,18.70911,-70.799988,azua,guayabal,abril,2011,1998,diciembre,2011,919.537841796875,1. Contaminated Control,0
+3952,H1680,0. Baseline,11,,0,59,Male,1.8863997,18.681203,-70.88990800000001,azua,padre las casas,,,,,,1885.1572265625,2. Intended Beneficiaries,1
+3959,H1393,0. Baseline,11,mango,0,49,Male,1.8863997,18.451866,-70.793211,azua,azua,julio,2002,2000,,,2010.83447265625,0. Pure Control,0
+3959,H1393,0. Baseline,12,mango,0,49,Male,2.2636797,18.453374,-70.807918,azua,azua,julio,2002,2000,,,2010.83447265625,0. Pure Control,0
+3960,H1464,0. Baseline,11,sandia,1,38,Male,1.8863997,18.398572,-70.828074,azua,nuevo sabana yegua,abril,2011,2011,julio,2011,7226.43603515625,0. Pure Control,0
+3962,H1428,0. Baseline,11,limon,0,50,Male,2.2007997,18.460707,-70.885188,azua,azua,no recuerda,2006,2006,,,1077.232788085938,0. Pure Control,0
+3964,H1394,0. Baseline,11,guineo,0,50,Male,1.8863997,18.411609,-70.73773300000001,azua,azua,no recuerda,1993,1993,,,1932.286254882813,0. Pure Control,0
+3968,H1504,0. Baseline,11,habichuela negra,1,50,Male,3.3955195,18.648573,-70.87280800000001,azua,las yayas de viajama,abril,2011,2011,agosto,2011,238.7865905761719,2. Intended Beneficiaries,1
+3968,H1504,0. Baseline,21,,0,50,Male,1.5719998,18.344586,-70.49626600000001,azua,las yayas de viajama,,,,,,238.7865905761719,2. Intended Beneficiaries,1
+3974,H1655,0. Baseline,11,aguacate,0,53,Male,4.0871997,18.738645,-70.928724,azua,padre las casas,abril,2008,2008,,,150.8125762939453,1. Contaminated Control,0
+3974,H1655,0. Baseline,11,limon,0,53,Male,4.0871997,18.738645,-70.928724,azua,padre las casas,abril,2010,2010,,,150.8125762939453,1. Contaminated Control,0
+3978,H1623,0. Baseline,21,maiz grano/mazorca,1,46,Male,2.5151997,18.625235,-70.83473499999999,azua,padre las casas,marzo,2011,1990,agosto,2011,1405.573303222656,1. Contaminated Control,0
+3978,H1623,0. Baseline,21,yuca,1,46,Male,2.5151997,18.625235,-70.83473499999999,azua,padre las casas,marzo,2011,1990,noviembre,2011,1405.573303222656,1. Contaminated Control,0
+3980,H1634,0. Baseline,11,,0,49,Male,1.8863997,18.740351,-70.93136199999999,azua,padre las casas,,,,,,0,1. Contaminated Control,0
+3981,H1659,0. Baseline,11,cafe,0,53,Male,5.1561594,18.737134,-70.927778,azua,padre las casas,no recuerda,1978,1986,,,5203.0341796875,2. Intended Beneficiaries,1
+3981,H1659,0. Baseline,11,aguacate,0,53,Male,5.1561594,18.737134,-70.927778,azua,padre las casas,marzo,2000,2000,,,5203.0341796875,2. Intended Beneficiaries,1
+3982,H1652,0. Baseline,11,aguacate,0,72,Male,3.1439996,18.736823,-70.926761,azua,padre las casas,mayo,1990,1990,,,4335.861694335938,2. Intended Beneficiaries,1
+3982,H1652,0. Baseline,11,cafe,0,72,Male,3.1439996,18.736823,-70.926761,azua,padre las casas,abril,1983,1970,,,4335.861694335938,2. Intended Beneficiaries,1
+3982,H1652,0. Baseline,12,cafe,0,72,Male,1.5719998,18.736489,-70.926405,azua,padre las casas,mayo,1984,1990,,,4335.861694335938,2. Intended Beneficiaries,1
+3983,H1695,0. Baseline,11,aguacate,0,26,Male,1.8863997,18.73422,-70.93712600000001,azua,padre las casas,junio,2010,2010,,,0,3. Treated Beneficiaries,1
+3987,H2136,0. Baseline,11,guandul,1,36,Male,2.2007997,18.516534,-70.6778,san juan,las matas de farfan,enero,2011,2001,junio,2011,1809.7509765625,0. Pure Control,0
+3991,H1712,0. Baseline,11,habichuela negra,1,86,Female,5.3447995,18.754737,-70.861374,azua,peralta,septiembre,2011,1985,diciembre,2011,1123.5537109375,3. Treated Beneficiaries,1
+3991,H1712,0. Baseline,12,cafe,0,86,Female,6.2879992,18.606781,-70.72791100000001,azua,peralta,no recuerda,1985,1985,,,1123.5537109375,3. Treated Beneficiaries,1
+3991,H1712,0. Baseline,11,ají,1,86,Female,5.3447995,18.754737,-70.861374,azua,peralta,junio,2011,1985,agosto,2011,1123.5537109375,3. Treated Beneficiaries,1
+3996,H1713,0. Baseline,11,cafe,0,64,Female,6.2879992,18.61272,-70.74106,azua,peralta,no recuerda,1942,1995,,,3664.368713378906,3. Treated Beneficiaries,1
+3996,H1713,0. Baseline,12,habichuela negra,1,64,Female,.94319987,18.620642,-70.728013,azua,peralta,abril,2011,2002,julio,2011,3664.368713378906,3. Treated Beneficiaries,1
+3996,H1713,0. Baseline,12,maiz grano/mazorca,1,64,Female,.94319987,18.620642,-70.728013,azua,peralta,abril,2011,2002,julio,2011,3664.368713378906,3. Treated Beneficiaries,1
+3996,H1713,0. Baseline,12,guandul,1,64,Female,.94319987,18.620642,-70.728013,azua,peralta,abril,2011,2002,diciembre,2011,3664.368713378906,3. Treated Beneficiaries,1
+4001,H1817,0. Baseline,11,habichuela negra,1,71,Male,3.7727995,18.593641,-70.74679500000001,azua,peralta,abril,2011,1988,julio,2011,1392.274230957031,2. Intended Beneficiaries,1
+4005,H1724,0. Baseline,11,ají,1,40,Male,2.5151997,18.605342,-70.72984,azua,peralta,septiembre,2011,2000,diciembre,2011,3657.205200195313,1. Contaminated Control,0
+4005,H1724,0. Baseline,12,cafe,0,40,Male,1.2575998,18.604681,-70.728398,azua,peralta,no recuerda,1980,1990,,,3657.205200195313,1. Contaminated Control,0
+4006,H1704,0. Baseline,11,aguacate,0,44,Male,1.2575998,18.607828,-70.72654300000001,azua,peralta,septiembre,2009,2000,,,211.1376190185547,2. Intended Beneficiaries,1
+4012,H1758,0. Baseline,11,plátano,0,62,Male,2.5151997,18.536668,-70.764944,azua,azua,diciembre,2009,2006,,,10672.81799316406,2. Intended Beneficiaries,1
+4022,H1998,0. Baseline,11,,0,68,Male,.62879992,18.685825,-71.652824,elías piña,hondo valle,,,,,,691.224365234375,0. Pure Control,0
+4022,H1998,0. Baseline,12,habichuela blanca,1,68,Male,1.8863997,18.71692,-71.700621,elías piña,hondo valle,marzo,2011,1980,julio,2011,691.224365234375,0. Pure Control,0
+4031,H1972,0. Baseline,12,maiz grano/mazorca,1,48,Male,.75455987,18.713684,-71.69728000000001,elías piña,el llano,junio,2011,2010,octubre,2011,1029.695755004883,3. Treated Beneficiaries,1
+4031,H1972,0. Baseline,12,guandul,1,48,Male,.75455987,18.713684,-71.69728000000001,elías piña,el llano,junio,2011,2010,diciembre,2011,1029.695755004883,3. Treated Beneficiaries,1
+4031,H1972,0. Baseline,11,guandul,1,48,Male,7.2311993,18.875421,-71.67961699999999,elías piña,comendador,abril,2011,2007,diciembre,2011,1029.695755004883,3. Treated Beneficiaries,1
+4031,H1972,0. Baseline,11,maiz grano/mazorca,1,48,Male,7.2311993,18.875421,-71.67961699999999,elías piña,comendador,abril,2011,2007,agosto,2011,1029.695755004883,3. Treated Beneficiaries,1
+4034,H2021,0. Baseline,11,mani,1,55,Male,24.774717,18.907774,-71.62027,san juan,las matas de farfan,noviembre,2011,1990,febrero,2012,812.0676879882813,2. Intended Beneficiaries,1
+4034,H2021,0. Baseline,11,pasto,0,55,Male,24.774717,18.907774,-71.62027,san juan,las matas de farfan,no recuerda,1990,1990,,,812.0676879882813,2. Intended Beneficiaries,1
+4036,H2138,0. Baseline,11,arroz,1,31,Male,2.8295996,18.88709,-71.46507,san juan,las matas de farfan,marzo,2011,1998,julio,2011,1960.563598632813,0. Pure Control,0
+4039,H2132,0. Baseline,11,maiz grano/mazorca,1,73,Male,12.575998,18.763881,-71.15208199999999,san juan,las matas de farfan,marzo,2011,2004,julio,2011,678.6566162109375,0. Pure Control,0
+4043,H1722,0. Baseline,12,habichuela negra,1,74,Male,.94319987,18.612488,-70.726214,azua,peralta,septiembre,2011,1965,diciembre,2011,1511.896057128906,1. Contaminated Control,0
+4043,H1722,0. Baseline,11,cafe,0,74,Male,5.0303993,18.615945,-70.73347,azua,peralta,no recuerda,1963,1963,,,1511.896057128906,1. Contaminated Control,0
+4045,H1837,0. Baseline,12,cafe,0,55,Male,5.0303993,18.75217,-70.89662199999999,azua,peralta,abril,1990,1990,,,1979.415100097656,2. Intended Beneficiaries,1
+4045,H1837,0. Baseline,11,pasto,0,55,Male,1.8863997,,,azua,peralta,septiembre,1998,1990,,,1979.415100097656,2. Intended Beneficiaries,1
+4045,H1837,0. Baseline,11,habichuela negra,1,55,Male,1.8863997,,,azua,peralta,marzo,2011,1998,julio,2011,1979.415100097656,2. Intended Beneficiaries,1
+4047,H1838,0. Baseline,11,limon,0,69,Male,1.2575998,18.68592,-71.047668,azua,peralta,septiembre,2010,2006,,,0,1. Contaminated Control,0
+4047,H1838,0. Baseline,11,aguacate,0,69,Male,1.2575998,18.68592,-71.047668,azua,peralta,septiembre,2010,2006,,,0,1. Contaminated Control,0
+4047,H1838,0. Baseline,11,zapote,0,69,Male,1.2575998,18.68592,-71.047668,azua,peralta,septiembre,2010,2006,,,0,1. Contaminated Control,0
+4055,H2020,0. Baseline,11,batata,1,77,Male,1.8863997,18.922563,-71.61138699999999,san juan,las matas de farfan,marzo,2011,1991,agosto,2011,1885.157318115234,2. Intended Beneficiaries,1
+4058,H2023,0. Baseline,11,habichuela blanca,1,59,Male,1.8863997,18.879918,-71.562083,san juan,las matas de farfan,noviembre,2011,1970,febrero,2012,678.6566162109375,2. Intended Beneficiaries,1
+4061,H2024,0. Baseline,12,pasto,0,52,Male,10.312319,18.782872,-71.31698799999999,san juan,las matas de farfan,no recuerda,1970,1970,,,780.4551391601563,3. Treated Beneficiaries,1
+4061,H2024,0. Baseline,11,maiz grano/mazorca,1,52,Male,6.6023993,18.842133,-71.541675,san juan,las matas de farfan,agosto,2011,1970,diciembre,2011,780.4551391601563,3. Treated Beneficiaries,1
+4062,H2031,0. Baseline,11,maiz grano/mazorca,1,62,Male,1.8863997,18.932328,-71.57615800000001,san juan,las matas de farfan,junio,2011,2009,noviembre,2011,565.5471801757813,2. Intended Beneficiaries,1
+4065,H2030,0. Baseline,11,,0,32,Male,1.8863997,18.932324,-71.56765300000001,san juan,las matas de farfan,,,,,,0,2. Intended Beneficiaries,1
+4074,H1627,0. Baseline,11,,0,53,Female,1.5719998,18.839817,-70.922793,azua,padre las casas,,,,,,2097.237487792969,1. Contaminated Control,0
+4078,H1668,0. Baseline,12,cafe,0,42,Male,4.4015994,18.746051,-70.87940999999999,azua,padre las casas,abril,2005,1990,,,8545.795013427734,2. Intended Beneficiaries,1
+4078,H1668,0. Baseline,13,habichuela roja,1,42,Male,1.5719998,18.893727,-70.852062,azua,padre las casas,abril,2011,1985,agosto,2011,8545.795013427734,2. Intended Beneficiaries,1
+4078,H1668,0. Baseline,11,tayota,0,42,Male,3.7727995,18.746476,-70.89022799999999,azua,padre las casas,marzo,1990,1990,,,8545.795013427734,2. Intended Beneficiaries,1
+4078,H1668,0. Baseline,13,auyama,1,42,Male,1.5719998,18.893727,-70.852062,azua,padre las casas,abril,2011,1985,diciembre,2011,8545.795013427734,2. Intended Beneficiaries,1
+4078,H1668,0. Baseline,13,guandul,1,42,Male,1.5719998,18.893727,-70.852062,azua,padre las casas,abril,2011,1985,diciembre,2011,8545.795013427734,2. Intended Beneficiaries,1
+4078,H1668,0. Baseline,12,aguacate,0,42,Male,4.4015994,18.746051,-70.87940999999999,azua,padre las casas,abril,2005,1990,,,8545.795013427734,2. Intended Beneficiaries,1
+4078,H1668,0. Baseline,11,cafe,0,42,Male,3.7727995,18.746476,-70.89022799999999,azua,padre las casas,marzo,1990,1990,,,8545.795013427734,2. Intended Beneficiaries,1
+4078,H1668,0. Baseline,11,aguacate,0,42,Male,3.7727995,18.746476,-70.89022799999999,azua,padre las casas,abril,1997,1997,,,8545.795013427734,2. Intended Beneficiaries,1
+4078,H1668,0. Baseline,13,aguacate,0,42,Male,1.5719998,18.893727,-70.852062,azua,padre las casas,mayo,2011,1997,,,8545.795013427734,2. Intended Beneficiaries,1
+4079,H1544,0. Baseline,11,limon,0,57,Male,12.575998,18.741578,-70.933241,azua,padre las casas,mayo,2008,2008,,,0,3. Treated Beneficiaries,1
+4080,H1562,0. Baseline,11,aguacate,0,59,Male,25.151997,18.733081,-70.91066600000001,azua,guayabal,julio,2011,2011,,,573.0878295898438,1. Contaminated Control,0
+4080,H1562,0. Baseline,11,habichuela roja,1,59,Male,25.151997,18.733081,-70.91066600000001,azua,guayabal,julio,2011,1982,diciembre,2011,573.0878295898438,1. Contaminated Control,0
+4080,H1562,0. Baseline,11,pasto,0,59,Male,25.151997,18.733081,-70.91066600000001,azua,guayabal,no recuerda,1984,1984,,,573.0878295898438,1. Contaminated Control,0
+4084,H1639,0. Baseline,12,limon,0,64,Male,62.879993,18.712127,-70.97170300000001,azua,padre las casas,mayo,2011,2011,,,2714.626708984375,1. Contaminated Control,0
+4084,H1639,0. Baseline,12,pasto,0,64,Male,62.879993,18.712127,-70.97170300000001,azua,padre las casas,no recuerda,1977,no recuerda,,,2714.626708984375,1. Contaminated Control,0
+4084,H1639,0. Baseline,11,arroz,1,64,Male,.81743991,18.729731,-70.961163,azua,padre las casas,mayo,2011,no recuerda,agosto,2011,2714.626708984375,1. Contaminated Control,0
+4088,H1770,0. Baseline,11,guandul,1,40,Male,1.2575998,18.534755,-70.76722100000001,azua,azua,abril,2011,1980,noviembre,2011,746.5222778320313,1. Contaminated Control,0
+4111,H2022,0. Baseline,11,habichuela blanca,1,42,Male,2.5151997,18.870944,-71.56679699999999,san juan,las matas de farfan,noviembre,2011,1998,febrero,2012,1885.1572265625,2. Intended Beneficiaries,1
+4111,H2022,0. Baseline,12,pasto,0,42,Male,1.8863997,18.847534,-71.569126,san juan,las matas de farfan,no recuerda,1998,1998,,,1885.1572265625,2. Intended Beneficiaries,1
+4114,H1463,0. Baseline,11,tomate industrial,1,67,Male,3.8985596,18.431298,-70.845022,azua,azua,noviembre,2011,2011,enero,2012,14010.9755859375,0. Pure Control,0

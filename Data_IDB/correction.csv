@@ -1,0 +1,168 @@
+,correccion,count,percent,cumulative_count,cumulative_percent
+0,ok,73,16.7816091954023,73,16.7816091954023
+1,revisar área,66,15.172413793103448,139,31.95402298850575
+2,mover hacia el centro del cultivo,27,6.206896551724138,166,38.160919540229884
+3,mover hacia el centro del cultivo y revisar área,19,4.3678160919540225,185,42.5287356321839
+4,mover hacia el centro del cultivo y revisar el área,17,3.9080459770114944,202,46.43678160919541
+5,revisar el área,14,3.218390804597701,216,49.6551724137931
+6,zona de influencia contiene edificaciones,10,2.2988505747126435,226,51.95402298850574
+7,revisar tipo de cultivo,8,1.839080459770115,234,53.79310344827586
+8,"punto sobre la vía, mover hacía arriba",5,1.1494252873563218,239,54.94252873563218
+9,"punto sobre vía, revisar tipo de cultivo",4,0.9195402298850575,243,55.86206896551724
+10,"punto sobre la vía, mover hacía la izquierda",4,0.9195402298850575,247,56.7816091954023
+11,"punto sobre la vía, mover hacía abajo",4,0.9195402298850575,251,57.701149425287355
+12,"punto sobre copa de árbol, revisar área",4,0.9195402298850575,255,58.620689655172406
+13,centrar punto hacía la derecha,4,0.9195402298850575,259,59.54022988505747
+14,revisar área y tipo de cultivo,3,0.6896551724137931,262,60.229885057471265
+15,revisar el área y centrar,3,0.6896551724137931,265,60.91954022988506
+16,"punto sobre vía, mover hacía la derecha",3,0.6896551724137931,268,61.60919540229885
+17,"punto sobre la vía, mover hacía la derecha",3,0.6896551724137931,271,62.29885057471264
+18,"el punto esta en la vía, correlo hacia la izquierda de la vía",3,0.6896551724137931,274,62.98850574712643
+19,"zona de influencia contiene edificaciones, revisar área",2,0.45977011494252873,276,63.44827586206897
+20,revisar tipo de cultivo y área,2,0.45977011494252873,278,63.9080459770115
+21,"punto sobre vía, mover hacía arriba",2,0.45977011494252873,280,64.36781609195403
+22,"punto sobre la vía, revisar área",2,0.45977011494252873,282,64.82758620689654
+23,"punto sobre la vía, mover y revisar el área",2,0.45977011494252873,284,65.28735632183908
+24,"punto sobre la vía, mover hacía la derecha y revisar área",2,0.45977011494252873,286,65.74712643678161
+25,"punto sobre la vía, mover hacía la derecha o izquierda",2,0.45977011494252873,288,66.20689655172414
+26,"punto sobre la vía, mover hacia abajo",2,0.45977011494252873,290,66.66666666666666
+27,"punto sobre copa de árbol, mover y revisar el área",2,0.45977011494252873,292,67.1264367816092
+28,mover hacia la izquierda,2,0.45977011494252873,294,67.58620689655173
+29,"el punto esta sobre la vía, mover hacia la izquierda",2,0.45977011494252873,296,68.04597701149426
+30,el punto esta sobre la vía mover hacia la izquierda,2,0.45977011494252873,298,68.50574712643677
+31,centrar punto,2,0.45977011494252873,300,68.96551724137932
+32,"zona de influencia contiene edificaciones, revisar tipo de cultivo",1,0.22988505747126436,301,69.19540229885057
+33,"teniendo en cuenta el área, el cultivo posiblemente esta hacia la derecha, sin embargo revisar el cultivo ya que dicha zona contiene varias edifcaciones",1,0.22988505747126436,302,69.42528735632185
+34,"revisar área, se observa un área mayor en el cultivo a la escrita.",1,0.22988505747126436,303,69.6551724137931
+35,"revisar área, centrar punto",1,0.22988505747126436,304,69.88505747126436
+36,revisar área y zona de influencia contiene edificaciones,1,0.22988505747126436,305,70.11494252873564
+37,revisar área y la zona de influencia contiene edificaciones,1,0.22988505747126436,306,70.34482758620689
+38,"revisar tipo de cultivo, el punto se encuentra sobre edificación",1,0.22988505747126436,307,70.57471264367817
+39,revisar el tipo de cultivo y el área,1,0.22988505747126436,308,70.80459770114943
+40,revisar el tipo de cultivo,1,0.22988505747126436,309,71.03448275862068
+41,revisa área,1,0.22988505747126436,310,71.26436781609196
+42,recisar área,1,0.22988505747126436,311,71.49425287356321
+43,"punto sobre árbol, revisar área",1,0.22988505747126436,312,71.72413793103448
+44,"punto sobre vía, moverlo hacia el lado izquierdo",1,0.22988505747126436,313,71.95402298850576
+45,"punto sobre vía, mover y revisar el área",1,0.22988505747126436,314,72.183908045977
+46,"punto sobre vía, mover hacía la izquierda",1,0.22988505747126436,315,72.41379310344827
+47,"punto sobre vía, mover hacía abajo",1,0.22988505747126436,316,72.64367816091955
+48,"punto sobre vía, el área del cultivo contiene lagunas",1,0.22988505747126436,317,72.8735632183908
+49,"punto sobre vía, centrar hacía la izquierda",1,0.22988505747126436,318,73.10344827586206
+50,"punto sobre vía, centrar hacía la derecha",1,0.22988505747126436,319,73.33333333333333
+51,"punto sobre vía mover, pasto hacía la izquierda y derecha",1,0.22988505747126436,320,73.5632183908046
+52,"punto sobre sombra de árbol, revisar tipo de cultivo",1,0.22988505747126436,321,73.79310344827587
+53,"punto sobre sombra de árbol, mover hacía abajo",1,0.22988505747126436,322,74.02298850574712
+54,"punto sobre la vía, revisar área y tipo de cultivo",1,0.22988505747126436,323,74.25287356321839
+55,"punto sobre la vía, revisar área y mover hacía arriba o abajo",1,0.22988505747126436,324,74.48275862068967
+56,"punto sobre la vía, revisar tipo de cultivo",1,0.22988505747126436,325,74.71264367816092
+57,"punto sobre la vía, revisar si es cultivo",1,0.22988505747126436,326,74.94252873563218
+58,"punto sobre la vía, revisar cultivo",1,0.22988505747126436,327,75.17241379310344
+59,"punto sobre la vía, podria moverse hacia abajo o arriba",1,0.22988505747126436,328,75.40229885057471
+60,"punto sobre la vía, mover y revisar área",1,0.22988505747126436,329,75.63218390804597
+61,"punto sobre la vía, mover hcía la derecha",1,0.22988505747126436,330,75.86206896551724
+62,"punto sobre la vía, mover hacía la mitad del cultivo",1,0.22988505747126436,331,76.0919540229885
+63,"punto sobre la vía, mover hacía la mitad de la parcela",1,0.22988505747126436,332,76.32183908045977
+64,"punto sobre la vía, mover hacía la izquiersa, revisar área",1,0.22988505747126436,333,76.55172413793103
+65,"punto sobre la vía, mover hacía la izquierda y centrar",1,0.22988505747126436,334,76.7816091954023
+66,"punto sobre la vía, mover hacía la derecha y abajo",1,0.22988505747126436,335,77.01149425287356
+67,"punto sobre la vía, mover hacía la derecha o izquierda, revisar área",1,0.22988505747126436,336,77.24137931034483
+68,"punto sobre la vía, mover hacía izquierda o derecha",1,0.22988505747126436,337,77.47126436781609
+69,"punto sobre la vía, mover hacía arriba y derecha",1,0.22988505747126436,338,77.70114942528735
+70,"punto sobre la vía, mover hacia la izquierda",1,0.22988505747126436,339,77.93103448275862
+71,"punto sobre la vía, mover hacia la derecha",1,0.22988505747126436,340,78.16091954022988
+72,"punto sobre la vía, mover hacia el centro del cultivo y revisar el área",1,0.22988505747126436,341,78.39080459770115
+73,"punto sobre la vía, mover hacia el centro del cultivo",1,0.22988505747126436,342,78.62068965517241
+74,"punto sobre la vía, cultivo hacia la derecha e izquierda",1,0.22988505747126436,343,78.85057471264368
+75,"punto sobre la vía, comprende el lado izquierdo y derecho",1,0.22988505747126436,344,79.08045977011494
+76,"punto sobre la vía, centrar punto hacía la derecha",1,0.22988505747126436,345,79.3103448275862
+77,"punto sobre la vía, centrar hacía la derecha",1,0.22988505747126436,346,79.54022988505747
+78,punto sobre la vía y revisar tipo de cultivo,1,0.22988505747126436,347,79.77011494252874
+79,"punto sobre la vía podría moverse hacía la derecha o izquierda, revisar el área",1,0.22988505747126436,348,80.0
+80,punto sobre la vía mover hacía la izquierda y hacía arriba,1,0.22988505747126436,349,80.22988505747126
+81,punto sobre la vía mover hacía la izquierda,1,0.22988505747126436,350,80.45977011494253
+82,punto sobre la vía mover hacía la derecha,1,0.22988505747126436,351,80.6896551724138
+83,punto sobre la vía mover hacía arriba,1,0.22988505747126436,352,80.91954022988506
+84,punto sobre la vía mover hacía abajo,1,0.22988505747126436,353,81.14942528735632
+85,"punto sobre la vía , mover hacía la izquierda",1,0.22988505747126436,354,81.37931034482759
+86,"punto sobre la sombra de un árbol, centrar en el cultivo",1,0.22988505747126436,355,81.60919540229885
+87,"punto sobre la copa, revisar área",1,0.22988505747126436,356,81.83908045977012
+88,"punto sobre la copa de árbol, centrar y revisar área",1,0.22988505747126436,357,82.06896551724138
+89,"punto sobre la copa de un árbol, mover y revisar el área",1,0.22988505747126436,358,82.29885057471265
+90,"punto sobre la copa de un árbol, mover hacía la izquierda y arriba",1,0.22988505747126436,359,82.5287356321839
+91,"punto sobre la carreterea, mover hacía arriba",1,0.22988505747126436,360,82.75862068965517
+92,"punto sobre edificación, moverlo",1,0.22988505747126436,361,82.98850574712644
+93,"punto sobre edificación, mover hacia abajo",1,0.22988505747126436,362,83.2183908045977
+94,"punto sobre edificación, contiene al cultivo 2707 parcela 11, su ubicación es muy parecida",1,0.22988505747126436,363,83.44827586206897
+95,"punto sobre copa de árbol, revisar área y mover",1,0.22988505747126436,364,83.67816091954023
+96,"punto sobre copa de árbol, podría moverse hacía arriba o abajo",1,0.22988505747126436,365,83.9080459770115
+97,"punto sobre copa de árbol, mover hacía la derecha",1,0.22988505747126436,366,84.13793103448276
+98,"punto sobre copa de árbol, mover hacía abajo y revisar área",1,0.22988505747126436,367,84.36781609195401
+99,"punto sobre copa de árbol, mover hacía abajo",1,0.22988505747126436,368,84.59770114942529
+100,"punto sobre copa de árbol, centrar y revisar área",1,0.22988505747126436,369,84.82758620689656
+101,punto sobre copa de árbol,1,0.22988505747126436,370,85.0574712643678
+102,"punto sobre copa de un árbol, revisar área",1,0.22988505747126436,371,85.28735632183908
+103,"punto sobre copa de un árbol, mover y revisar el área",1,0.22988505747126436,372,85.51724137931035
+104,"punto sobre copa de arbol, revisar cultivo",1,0.22988505747126436,373,85.74712643678161
+105,"punto sobre arbusto, mover hacía la derecha y centrar",1,0.22988505747126436,374,85.97701149425288
+106,"punto sobre arbusto, mover hacía izquierda y abajo",1,0.22988505747126436,375,86.20689655172413
+107,"punto sobre arbusto, mover hacía arriba y centrar",1,0.22988505747126436,376,86.4367816091954
+108,"punto sobre arbusto, mover hacía abajo",1,0.22988505747126436,377,86.66666666666667
+109,punto sobre arbusto mover hacía arriba,1,0.22988505747126436,378,86.89655172413792
+110,"punto repetido en el cultivo 2380, parcela 22",1,0.22988505747126436,379,87.1264367816092
+111,punto repetido cultivo 2390 parcela 11,1,0.22988505747126436,380,87.35632183908046
+112,"punto cercano al de la parcela 15, mover hacia la mitad del cultivo",1,0.22988505747126436,381,87.58620689655172
+113,"punto cercano a la vía, mover hacia la derecha",1,0.22988505747126436,382,87.816091954023
+114,punto cercano a edificación,1,0.22988505747126436,383,88.04597701149424
+115,"punto cerca a árboles, mover hace el pasto y revisar área",1,0.22988505747126436,384,88.27586206896552
+116,posicionarlo hacia el centro del cultivo,1,0.22988505747126436,385,88.50574712643679
+117,"mover, misma ubicación del punto con cuets ide 277 y parcela 12",1,0.22988505747126436,386,88.73563218390804
+118,mover y revisar área,1,0.22988505747126436,387,88.96551724137932
+119,mover punto y revisar área,1,0.22988505747126436,388,89.19540229885058
+120,mover punto hacía abajo,1,0.22988505747126436,389,89.42528735632183
+121,mover mas hacia el centro del cultivo,1,0.22988505747126436,390,89.65517241379311
+122,mover hacía la derecha,1,0.22988505747126436,391,89.88505747126436
+123,mover hacía arriba,1,0.22988505747126436,392,90.11494252873563
+124,"mover hacía abajo, centrar en el cultivo",1,0.22988505747126436,393,90.3448275862069
+125,"mover hacia la izquierda,hacia el centro del cultivo",1,0.22988505747126436,394,90.57471264367815
+126,mover hacia la derecha,1,0.22988505747126436,395,90.80459770114942
+127,"mover hacia el centro del cultivo, la zona de influencia contiene edificaciones y revisar área",1,0.22988505747126436,396,91.0344827586207
+128,mover hacia el centro del cultivo y zona de influencia contiene edificaciones,1,0.22988505747126436,397,91.26436781609195
+129,mover hacia el centro del cultivo y revisar el tipo de cultivo,1,0.22988505747126436,398,91.49425287356323
+130,mover hacia el centro del cultivo y la zona de influencia contiene edificaciones,1,0.22988505747126436,399,91.72413793103448
+131,mover hacia el cenro del cultivo,1,0.22988505747126436,400,91.95402298850574
+132,mover hacia arriba,1,0.22988505747126436,401,92.18390804597702
+133,mover el punto hacia el centro del cultivo,1,0.22988505747126436,402,92.41379310344827
+134,mover el punto a la mitad del cultivo,1,0.22988505747126436,403,92.64367816091954
+135,mover al centro del cultivo y revisar área,1,0.22988505747126436,404,92.87356321839081
+136,"esta sobre la vía, revisar su área y ubicación",1,0.22988505747126436,405,93.10344827586206
+137,"esta sobre la vía, mover hacia la izquierda",1,0.22988505747126436,406,93.33333333333333
+138,"esta sobre la vía, mover hacia la derecha",1,0.22988505747126436,407,93.5632183908046
+139,"esta sobre la vía, mover hacia arriba",1,0.22988505747126436,408,93.79310344827586
+140,"esta sobre la vía, mover hacia abajo",1,0.22988505747126436,409,94.02298850574712
+141,"esta sobre camino, revisar área y ubicación",1,0.22988505747126436,410,94.25287356321839
+142,esta en la vía mover hacia arriba,1,0.22988505747126436,411,94.48275862068965
+143,"el punto se encuetra sobre un arbol, mover el punto al centro del cultivo",1,0.22988505747126436,412,94.71264367816093
+144,el punto se encuentra sobre una edificación,1,0.22988505747126436,413,94.94252873563218
+145,"el punto se encuentra sobre la vía, revisar el área, se encuentran edificaciones.",1,0.22988505747126436,414,95.17241379310344
+146,"el punto se encuentra sobre la vía, mover hacia el cultivo",1,0.22988505747126436,415,95.40229885057471
+147,"el punto se encuentra sobre la vía, mover",1,0.22988505747126436,416,95.63218390804597
+148,"el punto se encuentra sobre la vía, es posible que el cultivo se encuentre hacia la derecha o a la izquierda, revisa área, al lado derecho cerca al punto se encuentra un río",1,0.22988505747126436,417,95.86206896551724
+149,"el punto se encuentra en un arbol, muy cercano a un lago que atraviesa el cultivo",1,0.22988505747126436,418,96.0919540229885
+150,el punto se encuentra cercano al otro cultivo se recomienda mover el punto al centro de este,1,0.22988505747126436,419,96.32183908045977
+151,"el punto se encuentra cercano a un predio, se puede mover al centro del cultivo",1,0.22988505747126436,420,96.55172413793103
+152,"el punto esta sobre un predio, mover hacia el centro del cultivo y revisar área",1,0.22988505747126436,421,96.7816091954023
+153,el punto esta sobre un pedio mover hacia el centro del cultivo,1,0.22988505747126436,422,97.01149425287356
+154,"el punto esta sobre un arbusto, mover hacia arriba",1,0.22988505747126436,423,97.24137931034483
+155,"el punto esta sobre la vía, mover hacia la derecha y abajo",1,0.22988505747126436,424,97.47126436781609
+156,"el punto esta sobre la vía, mover hacia la derecha",1,0.22988505747126436,425,97.70114942528735
+157,"el punto esta sobre la vía, mover hacia arriba y  revisar el área",1,0.22988505747126436,426,97.93103448275862
+158,"el punto esta sobre la vía, mover hacia arriba",1,0.22988505747126436,427,98.16091954022988
+159,el punto esta sobre la vía mover hacia la derecha,1,0.22988505747126436,428,98.39080459770115
+160,"el punto esta sobre la copa de un árbol, mover hacia el centro del cultivo y revisar el área",1,0.22988505747126436,429,98.62068965517241
+161,"el punto esta sobre edificación, mover hacia la izquierda",1,0.22988505747126436,430,98.85057471264368
+162,centrar punto sobre el cultivo de pasto y revisar el área,1,0.22988505747126436,431,99.08045977011494
+163,centrar punto hacía la izquierda,1,0.22988505747126436,432,99.3103448275862
+164,"centrar punto hacía arriba, revisar área",1,0.22988505747126436,433,99.54022988505747
+165,centrar hacía la derecha,1,0.22988505747126436,434,99.77011494252874
+166,centrar hacía abajo,1,0.22988505747126436,435,100.0
