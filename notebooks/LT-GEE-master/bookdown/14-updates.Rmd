@@ -1,0 +1,77 @@
+# Updates
+
+If you have questions or find that updates introduce errors, please post an issue in the [LT-GEE GitHub repository](https://github.com/eMapR/LT-GEE/issues) - if you don't have a GitHub account, email Justin at: jstnbraaten@gmail.com
+
+## 2019-04-26
+
++ Added the [UI LandTrendr Time Series Animator](./ui-applications.html#ui-landtrendr-time-series-animator)
+App. It makes an animated GIF from a Landsat time series that has been smoothed by LandTrendr spectral-temporal segmentation.
+
+## 2019-04-23
+
++ Added the [getFittedRGBcol](./api.html#getFittedRGBcol) function, which creates an RGB visualization image
+collection from LandTrendr segmentation FTV outputs useful for thumbnails, filmstrips, and GIF videos.
+
+## 2019-01-08
+
++ Added the [getSegmentCount](./api.html#getSegmentCount) function, which returns an ee.Image of the number of segments identified by LandTrendr.
+
+
+## 2019-01-06
+
++ Added description of missing DSNR output row and corrected an example for the [getSegmentData](./api.html#getSegmentData) function. Also added a function description to each API function section.
+
+## 2018-12-02
+
++ Added the option to filter change maps by change magnitude standardized by the LandTrendr fit RMSE. This metric is referred to as DSNR. Please see the [getChangeMap](./api.html#getChangeMap) function for more details on using this option and for the metric reference. The change also included exporting the DSNR metric as an additional band to the change map attribute image stack.
+
+## 2018-11-07
+
++ Replaced the `disturbanceMap` API function with [getChangeMap](./api.html#getChangeMap), which fixes many logic problems and adds
+the ability to map vegetation gain as well as loss.
++ Updated the [UI Change Mapping app](https://emapr.github.io/LT-GEE/ui-applications.html) to use the `disturbanceMap` function.
++ Updated [example scripts](./example-scripts.html) to include an example of mapping vegetation loss and gain using the new 
+`disturbanceMap` function.
+
+## 2018-10-09
+
++ Added the option to define the CFMASK classes to include in the image mask to functions [buildSRcollection](./api.html#buildsrcollection) and [runLT](./api.html#runlt). The default is ['cloud', 'shadow', 'snow']. Also added the function [buildClearPixelCountCollection](./api.html#buildclearpixelcountcollection), which returns the count of unmasked pixels per year that are available for compositing for the provided years and date ranges.
+
+## 2018-10-08
+
++ Added [collectionToBandStack](./api.html#collectionToBandStack) function to the API. Transforms an image collection into an image stack where each band of each image in the collection is concatenated as a band into a single image. Useful for mapping a function over a collection, like transforming surface reflectance to NDVI, and then transforming the resulting collection into a band sequential time series image stack.
+
+## 2018-07-25
+
++ Added the [disturbanceMap](./api.html#disturbanceMap) function to the API. It generates a disturbance map with attributes for: year of disturbance detection, magnitude, duration, -disturbance spectral value, and the rate of spectral change. Each attribute is a band of an ee.Image for easy display and export. Note that at this time it is still being tested. So please do not trust results - let me know if you suspect errors.
+
+## 2018-06-26
+
++ Clarification was made regarding the `distDir` variable being used in the section [6.3 Working with Outputs](./working-with-outputs.html#filter-an-isolated-segment-by-an-attribute). This section now includes information about it.
+
+
+## 2018-06-13
+
++ Added the [transformSRcollection](./api.html#transformsrcollection) function to the API. It transforms the images within an annual surface reflectance collection built by `buildSRcollection` to a list of provided indices or bands. If you just want NDVI (or other index/band) derived from an annual cloud-free surface reflectance medoid composite, this function will do it.
+
++ The [buildSRcollection](./api.html#buildsrcollection) function will now generate composites that cross the new year. For instance, if your study area is in mid- to high-latitudes of the southern hemisphere, your peak leaf-on season is maybe December 20 - February 20, which crosses the new year. Previously, the `buildSRcollection` function did not composite across the new year. This change affects the [UIs](./LT-GEE/ui-applications.html) and the `buildSRcollection`. To apply this functionality, set annual composite start day to something like '12-20' and the end day to '02-20', where the format is mm-dd. If the start day month is greater than the end day month, then the function will composite across the new year, and assign the year of the composite as the new year. So if we built a collection that included images from 2000 (Dec.) and 2001 (Jan-Feb), the composite will be assigned the year 2001. Here is an example of building a surface reflectance collection across the new year (note the `startDay` and `endDay` parameters):
+
+```
+// load the LandTrendr.js module
+var ltgee = require('users/emaprlab/public:Modules/LandTrendr.js');
+
+// define parameters
+var startYear = 1985;
+var endYear = 2017;
+var startDay = '12-20';
+var endDay = '02-20';
+var aoi = ee.Geometry.Point(-122.8848, 43.7929);
+
+// center and zoom the display in case outputs are to be mapped 
+Map.centerObject(aoi,10);
+Map.addLayer(aoi);
+
+// apply LandTrendr.js functions
+var annualSRcollection = ltgee.buildSRcollection(startYear, endYear, startDay, endDay, aoi);
+print(annualSRcollection);
+```
