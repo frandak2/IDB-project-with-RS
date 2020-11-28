@@ -1,2 +1,5 @@
-Data_IDB\trends\*.png
-Data_IDB\trends\*.PNG
+*.png
+*.PNG
+# IGNORE FOLDER
+/Data_IDB/trends/*.png
+/Data_IDB/trends/*.PNG
