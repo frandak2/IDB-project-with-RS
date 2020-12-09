@@ -1,0 +1,112 @@
+,corregido,count,percent,cumulative_count,cumulative_percent
+0,ok,95,25.198938992042443,95,25.198938992042443
+1,se movió hacia la derecha,29,7.6923076923076925,124,32.891246684350136
+2,se movió hacia la izquierda,24,6.36604774535809,148,39.257294429708224
+3,se movió hacia abajo,24,6.36604774535809,172,45.62334217506631
+4,se movió hacia arriba,19,5.039787798408488,191,50.663129973474796
+5,revisar tipo de cultivo,11,2.9177718832891246,202,53.58090185676393
+6,se movió hacia la derecha y abajo,10,2.6525198938992043,212,56.233421750663126
+7,se movió hacia la izquierda y arriba,7,1.8567639257294428,219,58.09018567639257
+8,"se movió hacia la derecha, la zona de influencia contiene árboles",6,1.5915119363395225,225,59.6816976127321
+9,se movió hacia abajo y derecha,6,1.5915119363395225,231,61.273209549071616
+10,se movió hacia la izquierda y abajo,5,1.3262599469496021,236,62.59946949602122
+11,se movió hacia arriba e izquierda,5,1.3262599469496021,241,63.92572944297083
+12,la zona de influencia contiene árboles,5,1.3262599469496021,246,65.25198938992042
+13,se movió hacia la derecha y arriba,4,1.0610079575596816,250,66.3129973474801
+14,se movió hacia arriba y derecha,4,1.0610079575596816,254,67.37400530503979
+15,"se movió hacia la izquierda, zona de influencia contiene arbustos",3,0.7957559681697612,257,68.16976127320955
+16,"se movió hacia la derecha y arriba, zona de influencia contiene arboles",3,0.7957559681697612,260,68.96551724137932
+17,"se movió hacia arriba, la zona de influencia contiene árboles",3,0.7957559681697612,263,69.76127320954907
+18,"se movió hacia abajo, zona de influencia contiene árboles",3,0.7957559681697612,266,70.55702917771883
+19,"se movió hacia abajo, zona de influencia contiene arboles",3,0.7957559681697612,269,71.3527851458886
+20,se movió hacia abajo e izquierda,3,0.7957559681697612,272,72.14854111405835
+21,"ok, revisar tipo",3,0.7957559681697612,275,72.94429708222812
+22,zona de influencia contiene arboles,2,0.5305039787798408,277,73.47480106100795
+23,"se movió hacía la derecha, la zona de influencia contiene edificaciones",2,0.5305039787798408,279,74.0053050397878
+24,se movió hacía la derecha,2,0.5305039787798408,281,74.53580901856765
+25,"se movió hacia la izquierda, zona de influencia contiene arboles",2,0.5305039787798408,283,75.06631299734748
+26,se movió hacia la izquierda y hacia abajo,2,0.5305039787798408,285,75.59681697612733
+27,"se movió hacia la derecha, zona de influencia contiene arboles",2,0.5305039787798408,287,76.12732095490716
+28,"se movió hacia arriba, zona de influencia contiene arbustos",2,0.5305039787798408,289,76.657824933687
+29,"se movió hacia arriba, zona de influencia contiene arboles",2,0.5305039787798408,291,77.18832891246684
+30,"se movió hacia arriba y la izquierda, la zona de influencia contiene árboles",2,0.5305039787798408,293,77.71883289124668
+31,"se movió hacia abajo, revisar tipo de cultivo",2,0.5305039787798408,295,78.24933687002653
+32,"se movió hacia abajo, la zona de influencia contiene árboles",2,0.5305039787798408,297,78.77984084880637
+33,"se movió hacia abajo, la zona de influencia contiene arboles",2,0.5305039787798408,299,79.3103448275862
+34,"revisar tipo de cultivo, se movió hacia la izquierda",2,0.5305039787798408,301,79.84084880636605
+35,zona de influencia contiene árboles,1,0.2652519893899204,302,80.10610079575596
+36,zona de influencia contiene edificaciones,1,0.2652519893899204,303,80.37135278514589
+37,zona de influencia contiene arbustos,1,0.2652519893899204,304,80.63660477453581
+38,zona de inflencia contiene arbustos,1,0.2652519893899204,305,80.90185676392572
+39,se movío hacia la derecha y arriba,1,0.2652519893899204,306,81.16710875331566
+40,"se movió hacía la izquierda, la zona de influencia contiene árboles y edificaciones",1,0.2652519893899204,307,81.43236074270557
+41,"se movió hacía la izquierda, la zona de influencia contiene árboles",1,0.2652519893899204,308,81.6976127320955
+42,se movió hacía la izquierda y arriba,1,0.2652519893899204,309,81.9628647214854
+43,"se movió hacía arriba,  la zona de influencia contiene árboles",1,0.2652519893899204,310,82.22811671087533
+44,"se movió hacia la izquierda, zona de influencia contiene árboles",1,0.2652519893899204,311,82.49336870026525
+45,"se movió hacia la izquierda, la zona de influencia contiene árboles",1,0.2652519893899204,312,82.75862068965517
+46,"se movió hacia la izquierda, la zona de influencia contiene edificaciones",1,0.2652519893899204,313,83.0238726790451
+47,"se movió hacia la izquierda, la zona de influencia contiene arboles",1,0.2652519893899204,314,83.28912466843501
+48,se movió hacia la izquierda ya abajo,1,0.2652519893899204,315,83.55437665782493
+49,se movió hacia la izquierda y arriab,1,0.2652519893899204,316,83.81962864721486
+50,"se movió hacia la izquierda y abajo, zona de influencia tiene edificacion y arboles",1,0.2652519893899204,317,84.08488063660478
+51,"se movió hacia la izquierda y abajo, zona de influencia contiene arbustos",1,0.2652519893899204,318,84.3501326259947
+52,"se movió hacia la izquierda y abajo, zona de influencia contiene arboles",1,0.2652519893899204,319,84.61538461538461
+53,se movió hacia la izquierda dentro del área de influencia hay arboles,1,0.2652519893899204,320,84.88063660477454
+54,se movió hacia la izquieda,1,0.2652519893899204,321,85.14588859416446
+55,"se movió hacia la derecha, zona de influencia contiene árboles",1,0.2652519893899204,322,85.41114058355438
+56,"se movió hacia la derecha, zona de influencia contiene arbustos",1,0.2652519893899204,323,85.6763925729443
+57,"se movió hacia la derecha, el ára de influencia contiene arbustos",1,0.2652519893899204,324,85.94164456233422
+58,"se movió hacia la derecha, donde habia pasto despejado",1,0.2652519893899204,325,86.20689655172413
+59,"se movió hacia la derecha y hacia arriba, donde la zona de influecia era más grande",1,0.2652519893899204,326,86.47214854111405
+60,"se movió hacia la derecha y abajo, zona de influencia contiene árboles",1,0.2652519893899204,327,86.73740053050398
+61,"se movió hacia la derecha y abajo, zona de influencia contiene arboles",1,0.2652519893899204,328,87.0026525198939
+62,"se movió hacia la derecha y abajo, revisar tipo de cultivo",1,0.2652519893899204,329,87.26790450928382
+63,"se movió hacia la derecha y abajo, la zona de influencia contiene árboles",1,0.2652519893899204,330,87.53315649867373
+64,"se movió hacia la derecha y abajo, la zona de influencia contiene edificaciones",1,0.2652519893899204,331,87.79840848806366
+65,se movió hacia la derecha la zona de influencia contiene arboles,1,0.2652519893899204,332,88.06366047745358
+66,se movió hacia la derecha en el área más ancha,1,0.2652519893899204,333,88.3289124668435
+67,"se movió hacia la derecha donde había cultivo, revisar",1,0.2652519893899204,334,88.59416445623343
+68,se movió hacia la derecha donde había cultivo,1,0.2652519893899204,335,88.85941644562334
+69,se movió hacia la derecha dentro del área de influencia hay arboles,1,0.2652519893899204,336,89.12466843501326
+70,se movió hacia la,1,0.2652519893899204,337,89.38992042440319
+71,se movió hacia el lado izquierdo y abajo,1,0.2652519893899204,338,89.65517241379311
+72,se movió hacia el lado izquierdo,1,0.2652519893899204,339,89.92042440318302
+73,se movió hacia el lado iizquierdo,1,0.2652519893899204,340,90.18567639257294
+74,"se movió hacia arriba, la zona de influencia contiene arboles",1,0.2652519893899204,341,90.45092838196287
+75,"se movió hacia arriba, la xona de influencia contiene arboles",1,0.2652519893899204,342,90.71618037135278
+76,"se movió hacia arriba y la derecha, la zona de influencia contiene árboles y arbustos",1,0.2652519893899204,343,90.98143236074272
+77,se movió hacia arriba y a la izquierda. la zona de influencia contiene árboles,1,0.2652519893899204,344,91.24668435013263
+78,"se movió hacia arriba , el área de influencia contiene arbustos",1,0.2652519893899204,345,91.51193633952255
+79,se movió hacia abjo y a la izquierda,1,0.2652519893899204,346,91.77718832891246
+80,se movió hacia abjo e izquierda,1,0.2652519893899204,347,92.04244031830238
+81,"se movió hacia abajo, zona de influencia tiene arboles",1,0.2652519893899204,348,92.3076923076923
+82,"se movió hacia abajo, sin edificaciones",1,0.2652519893899204,349,92.57294429708223
+83,"se movió hacia abajo, la zona de influenciacontiene edificaciones",1,0.2652519893899204,350,92.83819628647215
+84,"se movió hacia abajo, la zona de influencia contiene edificaciones",1,0.2652519893899204,351,93.10344827586206
+85,"se movió hacia abajo y derecha, zona de influencia contiene árboles",1,0.2652519893899204,352,93.36870026525199
+86,"se movió hacia abajo y derecha, zona de influencia contiene arboles",1,0.2652519893899204,353,93.63395225464191
+87,"se movió hacia abajo y a la izquierda, la zona de influencia contiene edificaciones",1,0.2652519893899204,354,93.89920424403184
+88,se movió hacia abajo y a la izquierda,1,0.2652519893899204,355,94.16445623342176
+89,se movió hacia abajo y a la derecha,1,0.2652519893899204,356,94.42970822281167
+90,se movió hacia aabajo,1,0.2652519893899204,357,94.6949602122016
+91,se movió hacia  arriba y la derecha,1,0.2652519893899204,358,94.9602122015915
+92,se movió haacia la derecha,1,0.2652519893899204,359,95.22546419098144
+93,se movió a la izquierda y arriba,1,0.2652519893899204,360,95.49071618037135
+94,se movió a la derecha ya abajo,1,0.2652519893899204,361,95.75596816976127
+95,se movio hacia la izquierda y arriba,1,0.2652519893899204,362,96.02122015915118
+96,se movio hacia la izquierda,1,0.2652519893899204,363,96.28647214854111
+97,se movio hacia la derecha,1,0.2652519893899204,364,96.55172413793103
+98,se movio hacia arriba,1,0.2652519893899204,365,96.81697612732096
+99,se moció hacia abajo,1,0.2652519893899204,366,97.08222811671088
+100,"revisar tipo de cultivo, se movió hacia la derecha",1,0.2652519893899204,367,97.34748010610079
+101,"revisar tipo de cultivo, se movió hacia abajo y derecha",1,0.2652519893899204,368,97.61273209549071
+102,revisar el tipo de cultivo,1,0.2652519893899204,369,97.87798408488064
+103,"ok, se intesecta con el cultivo de aguacate",1,0.2652519893899204,370,98.14323607427056
+104,"ok, no se movió hacia al centro para que no afecte la zona de influencia",1,0.2652519893899204,371,98.40848806366049
+105,mover hacía arriba y a la izquierda,1,0.2652519893899204,372,98.6737400530504
+106,"mover hacia la izquierda, la zona de influencia contiene árboles",1,0.2652519893899204,373,98.93899204244032
+107,la zona de influencia contiene edificaciones y árboles,1,0.2652519893899204,374,99.20424403183023
+108,la zona de influenca tiene árboles,1,0.2652519893899204,375,99.46949602122017
+109,el tipo de cultivo no corresponde,1,0.2652519893899204,376,99.73474801061008
+110,el cultivo comparte el área de influencia con el culitvo de aguacate,1,0.2652519893899204,377,100.0
