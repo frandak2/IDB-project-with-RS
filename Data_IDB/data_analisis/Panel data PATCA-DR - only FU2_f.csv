@@ -1,0 +1,451 @@
+nform,cuest_id,time,parcela,cultivo,nombre_parcela,provparcela_cod,munparcela_cod,superf_parcela_has,superficie_parcela,descanso_sino,temporary_crop,month_siembra,year_siembra,mixto_sino,since_siembra,month_harvest,year_harvest,age,female_head,transporte,tiempo_cant,tiempo_um
+278,H0083,2,11,YUCA,KIARA,Espaillat,Gaspar Hern·ndez,2.6409597,42,No,Temporero,Enero,2019,No,2008,Noviembre,2019,50,0,Motor,30,Minutos
+867,H0128,2,21,CILANTRO VERDE,CANCA,Espaillat,Moca,1.4462398,23,No,Temporero,Junio,2019,S√≠,2010,Julio,2019,60,0,Bicicleta,5,Minutos
+867,H0128,2,21,TABACO,CANCA,Espaillat,Moca,1.4462398,23,No,Temporero,Noviembre,2019,S√≠,2016,0,0,60,0,Bicicleta,5,Minutos
+871,H0129,2,11,,FINCA TURIN,Espaillat,Moca,1.2575998,20,SÌ,,,,,,,,36,0,A pie,1,Minutos
+863,H0131,2,11,PL√ÅTANO,CANCA,Espaillat,Moca,0.75455987,12,No,Permanente,Febrero,2016,No,1990,,,87,0,A pie,0,Minutos
+503,H0137,2,21,√ëAME,JUAN LOPEZ 2,Espaillat,Jamao Al Norte,3.0182395,48,No,Temporero,Febrero,2019,No,2015,,,47,0,Transporte p˙blico,20,Minutos
+28,H0138,2,21,PL√ÅTANO,LOS GONZALEZ,Espaillat,Jamao Al Norte,1.8863997,30,No,Permanente,Mayo,2014,No,2015,,,72,0,Motor,30,Minutos
+31,H0140,2,21,BATATA,JUAN LOPEZ,Espaillat,Jamao Al Norte,1.8863997,30,No,Temporero,Septiembre,2019,No,2014,,,49,0,AutÛmovil,15,Minutos
+1006,H0143,2,11,YUCA,CACIQUE,Espaillat,Moca,1.8863997,30,No,Temporero,Enero,2019,No,2019,Enero,2020,68,1,AutÛmovil,5,Minutos
+30,H0145,2,11,PL√ÅTANO,MONTE LA JAGUA,Espaillat,Moca,0.94319987,15,No,Permanente,Abril,2014,No,2005,,,66,0,AutÛmovil,25,Minutos
+30,H0145,2,12,,SARAMBAMBA,Espaillat,Moca,3.0182395,48,SÌ,,,,,,,,66,0,AutÛmovil,25,Minutos
+770,H0148,2,11,YUCA,LOS MUÒOZ,Espaillat,Moca,1.2575998,20,No,Temporero,Septiembre,2019,No,2019,,,45,0,A pie,2,Minutos
+504,H0150,2,11,PL√ÅTANO,MONTE LA JAGUA,Espaillat,Moca,0.75455987,12,No,Permanente,Abril,2005,No,2002,,,64,0,A pie,0,Minutos
+774,H0151,2,21,PL√ÅTANO,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Permanente,Febrero,2017,No,2000,,,63,0,Motor,5,Minutos
+774,H0151,2,21,ESPINACA,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Temporero,Agosto,2019,No,2005,Noviembre,2019,63,0,Motor,5,Minutos
+774,H0151,2,21,PUERRO,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Temporero,Mayo,2019,No,2005,Junio,2019,63,0,Motor,5,Minutos
+774,H0151,2,21,PUERRO,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Temporero,Enero,2019,No,2005,Septiembre,2019,63,0,Motor,5,Minutos
+774,H0151,2,21,ESPINACA,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Temporero,Mayo,2019,No,2005,Febrero,2019,63,0,Motor,5,Minutos
+774,H0151,2,21,RABANO,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Temporero,Marzo,2019,No,2005,Abril,2019,63,0,Motor,5,Minutos
+774,H0151,2,21,PUERRO,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Temporero,Octubre,2019,No,2005,Abril,2019,63,0,Motor,5,Minutos
+774,H0151,2,21,ESPINACA,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Temporero,Octubre,2019,No,2005,Septiembre,2019,63,0,Motor,5,Minutos
+774,H0151,2,21,PUERRO,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Temporero,Marzo,2019,No,2005,Febrero,2019,63,0,Motor,5,Minutos
+774,H0151,2,21,RABANO,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Temporero,Octubre,2019,No,2005,Febrero,2019,63,0,Motor,5,Minutos
+774,H0151,2,21,RABANO,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Temporero,Agosto,2019,No,2005,Noviembre,2019,63,0,Motor,5,Minutos
+774,H0151,2,21,RABANO,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Temporero,Mayo,2019,No,2005,Septiembre,2019,63,0,Motor,5,Minutos
+774,H0151,2,21,ESPINACA,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Temporero,Enero,2019,No,2005,Abril,2019,63,0,Motor,5,Minutos
+774,H0151,2,21,PUERRO,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Temporero,Agosto,2019,No,2005,Noviembre,2019,63,0,Motor,5,Minutos
+774,H0151,2,21,ESPINACA,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Temporero,Marzo,2019,No,2005,Junio,2019,63,0,Motor,5,Minutos
+774,H0151,2,21,RABANO,MARINGUESES,Espaillat,Moca,2.5151997,40,No,Temporero,Enero,2019,No,2005,Junio,2019,63,0,Motor,5,Minutos
+1016,H0152,2,11,RABANO,LA 1,Espaillat,Moca,0.44015995,7,No,Temporero,Septiembre,2019,No,2005,Noviembre,2019,55,0,A pie,1,Minutos
+1016,H0152,2,11,RABANO,LA 1,Espaillat,Moca,0.44015995,7,No,Temporero,Enero,2019,No,2005,Agosto,2019,55,0,A pie,1,Minutos
+1016,H0152,2,11,PUERRO,LA 1,Espaillat,Moca,0.44015995,7,No,Temporero,Marzo,2019,No,2005,Noviembre,2019,55,0,A pie,1,Minutos
+1016,H0152,2,11,PUERRO,LA 1,Espaillat,Moca,0.44015995,7,No,Temporero,Enero,2019,No,2005,Agosto,2019,55,0,A pie,1,Minutos
+1016,H0152,2,11,PUERRO,LA 1,Espaillat,Moca,0.44015995,7,No,Temporero,Septiembre,2019,No,2005,Febrero,2019,55,0,A pie,1,Minutos
+1016,H0152,2,11,RABANO,LA 1,Espaillat,Moca,0.44015995,7,No,Temporero,Junio,2019,No,2005,Febrero,2019,55,0,A pie,1,Minutos
+1016,H0152,2,11,PUERRO,LA 1,Espaillat,Moca,0.44015995,7,No,Temporero,Junio,2019,No,2005,Mayo,2019,55,0,A pie,1,Minutos
+1016,H0152,2,11,RABANO,LA 1,Espaillat,Moca,0.44015995,7,No,Temporero,Marzo,2019,No,2005,Mayo,2019,55,0,A pie,1,Minutos
+768,H0156,2,11,YUCA,FAMILIA,Santiago,Licey Al Medio,0.94319987,15,No,Temporero,Enero,2019,No,2015,Diciembre,2019,55,0,A pie,1,Minutos
+768,H0156,2,12,,BOROJOL,Santiago,Licey Al Medio,2.5151997,40,SÌ,,,,,,,,55,0,AutÛmovil,10,Minutos
+776,H0157,2,11,YUCA,LA HERMITA,Espaillat,Moca,2.5151997,40,No,Temporero,Octubre,2019,No,2016,,,64,0,AutÛmovil,10,Minutos
+776,H0157,2,21,PL√ÅTANO,KM5,Espaillat,Moca,2.8295996,45,No,Permanente,Mayo,2013,No,2010,,,64,0,A pie,0,Minutos
+776,H0157,2,22,YUCA,LA REYNA,Espaillat,Moca,2.8924797,46,No,Temporero,Junio,2019,No,2016,,,64,0,AutÛmovil,15,Minutos
+502,H0159,2,21,PL√ÅTANO,PASO MOCA,Espaillat,Moca,0.62879992,10,No,Permanente,Abril,2016,No,2016,,,57,0,Motor,20,Minutos
+1011,H0160,2,21,PL√ÅTANO,LAS PALMAS,Espaillat,Moca,3.1439996,50,No,Permanente,Octubre,2019,No,2005,,,53,0,Motor,5,Minutos
+1020,H0167,2,11,PL√ÅTANO,CHANCLETA,Espaillat,Cayetano GermosÈn,6.2879992,100,No,Permanente,Enero,2019,No,2005,,,58,0,Motor,15,Minutos
+1089,H0251,2,11,PASTO,DIEGUITO,Puerto Plata,Villa Isabela,1.5719998,25,No,Permanente,No recuerda,2013,No,2013,,,79,1,AutÛmovil,10,Minutos
+141,H0254,2,11,,ALVAREZ,Puerto Plata,LuperÛn,0.62879992,10,SÌ,,,,,,,,42,0,Motor,10,Minutos
+327,H0255,2,11,YUCA,PARCELA 88,Puerto Plata,LuperÛn,1.5719998,25,No,Temporero,Enero,2019,No,2018,Agosto,2019,59,0,AutÛmovil,10,Minutos
+826,H0259,2,11,PL√ÅTANO,LA JOYA,Puerto Plata,LuperÛn,3.1439996,50,No,Permanente,Noviembre,2019,S√≠,2016,,,48,0,Motor,5,Minutos
+826,H0259,2,11,CEREZA,LA JOYA,Puerto Plata,LuperÛn,3.1439996,50,No,Permanente,Abril,2018,S√≠,2018,,,48,0,Motor,5,Minutos
+736,H0260,2,11,CEREZA,LA TROCHA,Puerto Plata,Guananico,0.94319987,15,No,Permanente,Junio,2010,No,2010,,,66,0,A pie,10,Minutos
+734,H0261,2,11,CEREZA,PARCELA BELLOSO ESTE,Puerto Plata,LuperÛn,0.81743991,13,No,Permanente,No recuerda,2006,No,2006,,,61,0,AutÛmovil,5,Minutos
+734,H0261,2,12,CEREZA,PARCELA BELLOSO OESTE,Puerto Plata,LuperÛn,0.31439996,5,No,Permanente,No recuerda,2006,No,2006,,,61,0,AutÛmovil,5,Minutos
+730,H0264,2,11,YUCA,LA JOYA,Puerto Plata,LuperÛn,2.3265598,37,No,Temporero,Noviembre,2019,No,2015,,,72,0,Motor,5,Minutos
+730,H0264,2,12,PASTO,LOS CONUCOS,Puerto Plata,LuperÛn,0.62879992,10,No,Permanente,No recuerda,2000,No,2000,,,72,0,Motor,10,Minutos
+698,H0268,2,11,PASTO,LA JOYA,Puerto Plata,LuperÛn,5.6591992,90,No,Permanente,No recuerda,2000,No,2000,,,51,0,A pie,1,Minutos
+142,H0269,2,11,PL√ÅTANO,PARCELA,Puerto Plata,LuperÛn,4.7159996,75,No,Permanente,Diciembre,2018,No,1999,,,61,0,Motor,15,Minutos
+732,H0272,2,11,PL√ÅTANO,PROYECTO AMA,Puerto Plata,LuperÛn,0.88031989,14,No,Permanente,Agosto,2019,No,2005,,,46,0,Motor,3,Minutos
+731,H0273,2,11,PASTO,LOS ARQUIES,Puerto Plata,Guananico,2.0121598,32,No,Permanente,No recuerda,2005,No,2005,,,43,0,Motor,10,Minutos
+744,H0276,2,11,PL√ÅTANO,LA JOYA,Puerto Plata,LuperÛn,1.6348798,26,No,Permanente,Octubre,2019,No,2000,,,49,0,A pie,10,Minutos
+1094,H0280,2,11,PL√ÅTANO,EL PROYECTO,Puerto Plata,LuperÛn,2.5151997,40,No,Permanente,Septiembre,2018,No,2000,,,59,0,AutÛmovil,15,Minutos
+1094,H0280,2,12,PASTO,LA BAISA,Puerto Plata,LuperÛn,11.318398,180,No,Permanente,No recuerda,2011,No,2011,,,59,0,AutÛmovil,15,Minutos
+1097,H0282,2,11,CEREZA,LA DE CHAGO,Puerto Plata,LuperÛn,1.5719998,25,No,Permanente,No recuerda,2014,No,2014,,,56,1,CamiÛn / camioneta,1,Horas
+825,H0284,2,11,CEREZA,BELLOSO,Puerto Plata,LuperÛn,1.1318399,18,No,Permanente,Diciembre,2009,No,2009,,,72,0,A pie,2,Minutos
+806,H0286,2,11,CEREZA,LA PARCELITA,Puerto Plata,Villa Isabela,0.94319987,15,No,Permanente,Abril,2017,No,2017,,,69,0,AutÛmovil,30,Minutos
+695,H0291,2,11,PL√ÅTANO,RIO NAVA,Puerto Plata,LuperÛn,0.94319987,15,No,Permanente,Enero,2019,No,1980,,,52,0,Motor,2,Minutos
+695,H0291,2,12,PL√ÅTANO,EL HIGO,Puerto Plata,LuperÛn,0.62879992,10,No,Permanente,Febrero,2019,No,1980,,,52,0,Motor,4,Minutos
+726,H0293,2,11,PL√ÅTANO,LA JOYA,Puerto Plata,LuperÛn,0.94319987,15,No,Permanente,Agosto,2018,No,2015,,,61,0,A pie,1,Minutos
+136,H0294,2,11,PASTO,EL CORRAL,Puerto Plata,LuperÛn,11.318398,180,No,Permanente,No recuerda,1980,No,1979,,,76,0,A pie,1,Minutos
+136,H0294,2,12,PASTO,LA CEYBITA,Puerto Plata,LuperÛn,18.863998,300,No,Permanente,No recuerda,1979,No,1979,,,76,0,Motor,15,Minutos
+138,H0299,2,11,PASTO,EL CORRAL,Puerto Plata,LuperÛn,15.719998,250,No,Permanente,No recuerda,1969,No,1969,,,82,1,A pie,1,Minutos
+124,H0305,2,11,PASTO,RANCHO MANUEL,Puerto Plata,Villa Isabela,19.178398,305,No,Permanente,No recuerda,1993,No,1993,,,47,0,Motor,7,Minutos
+74,H0308,2,11,PASTO,LA FINCA,Puerto Plata,Villa Isabela,7.6713591,122,No,Permanente,No recuerda,2010,No,2010,,,63,0,AutÛmovil,10,Minutos
+74,H0308,2,11,MAIZ VERDE,LA FINCA,Puerto Plata,Villa Isabela,7.6713591,122,No,Temporero,Septiembre,2019,No,2015,Noviembre,2019,63,0,AutÛmovil,10,Minutos
+149,H0309,2,11,MAIZ VERDE,LA FINQUITA,Puerto Plata,Villa Isabela,1.1003999,17.5,No,Temporero,Diciembre,2019,S√≠,2008,,,50,0,AutÛmovil,6,Minutos
+149,H0309,2,11,YUCA,LA FINQUITA,Puerto Plata,Villa Isabela,1.1003999,17.5,No,Temporero,Diciembre,2019,S√≠,2008,,,50,0,AutÛmovil,6,Minutos
+121,H0311,2,11,MAIZ GRANO/MAZORCA,HACIENDA GOMEZ,Puerto Plata,Villa Isabela,12.575998,200,No,Temporero,Enero,2019,No,2019,Mayo,2019,65,0,Motor,5,Minutos
+699,H0314,2,11,PASTO,EL CORRAL,Puerto Plata,LuperÛn,6.2879992,100,No,Permanente,No recuerda,1999,No,1997,,,60,0,A pie,10,Minutos
+699,H0314,2,12,PASTO,LA LOMA,Puerto Plata,LuperÛn,13.833598,220,No,Permanente,No recuerda,1997,No,1997,,,60,0,Transporte p˙blico,1,Horas
+144,H0380,2,11,PASTO,BRITO,Puerto Plata,LuperÛn,1.5719998,25,No,Permanente,No recuerda,1990,No,1990,,,52,0,Motor,2,Minutos
+823,H0381,2,11,PASTO,PARCELA 1,Puerto Plata,LuperÛn,5.3447995,85,No,Permanente,No recuerda,1996,No,1996,,,52,1,AutÛmovil,5,Minutos
+740,H0426,2,11,PL√ÅTANO,LA JOYA 1,Puerto Plata,LuperÛn,2.5151997,40,No,Permanente,Marzo,2019,No,2000,,,72,0,AutÛmovil,10,Minutos
+814,H0430,2,11,,LA JOYA,Puerto Plata,LuperÛn,0.75455987,12,SÌ,,,,,,,,56,0,A pie,1,Horas
+132,H0438,2,11,PL√ÅTANO,LA JOYA,Puerto Plata,LuperÛn,1.0060799,16,No,Permanente,Noviembre,2018,No,1990,,,48,0,A pie,5,Minutos
+689,H0452,2,11,BERENJENA,LA JOYA,Puerto Plata,LuperÛn,0.62879992,10,No,Temporero,Mayo,2019,No,2000,Agosto,2019,71,0,Motor,5,Minutos
+403,H0458,2,11,BATATA,BAJANASO,Puerto Plata,LuperÛn,1.8863997,30,No,Temporero,Noviembre,2019,No,2010,,,58,0,AutÛmovil,50,Minutos
+63,H0478,2,11,PASTO,BOLSILLO,Puerto Plata,Imbert,9.4319992,150,No,Permanente,No recuerda,2018,No,2018,,,86,1,Motor,1,Horas
+590,H0503,2,11,PASTO,LA 11,Santiago,San JosÈ de Las Matas,5.1561594,82,No,Permanente,No recuerda,1980,No,1980,,,97,0,Motor,10,Minutos
+590,H0503,2,12,GUINEO,LA 12,Santiago,San JosÈ de Las Matas,0.94319987,15,No,Permanente,No recuerda,1995,No,1995,,,97,0,Motor,5,Minutos
+38,H0602,2,11,PL√ÅTANO,ANA,Santiago,Licey Al Medio,0.62879992,10,No,Permanente,Marzo,2017,No,2017,,,70,0,Motor,3,Minutos
+33,H0605,2,11,LIMON,FINCA JUAN,Santiago,Santiago,1.8863997,30,No,Permanente,Marzo,2017,No,2017,,,59,0,A pie,5,Minutos
+769,H0608,2,11,,LOS ULERIOS,Santiago,Licey Al Medio,1.8863997,30,SÌ,,,,,,,,60,0,Motor,10,Minutos
+827,H0612,2,11,TABACO,LA PARCELA,Puerto Plata,Sos˙a,9.4319992,150,No,Temporero,Noviembre,2019,No,2019,,,45,0,AutÛmovil,30,Minutos
+595,H0619,2,11,PASTO,LA 11,Santiago,BisonÛ,2.2007997,35,No,Permanente,No recuerda,2001,No,2001,,,53,0,Motor,10,Minutos
+997,H0622,2,11,MELON,11,Santiago,Villa Gonz·lez,2.2007997,35,No,Temporero,No recuerda,2019,No,2014,Octubre,2019,77,0,Motor,10,Minutos
+998,H0651,2,11,YUCA,11,Santiago,Villa Gonz·lez,2.5151997,40,No,Temporero,No recuerda,2019,No,2015,Octubre,2019,85,0,A pie,10,Minutos
+762,H0752,2,11,PASTO,EL CERRO,Santiago,Santiago,3.4583995,55,No,Permanente,Abril,2000,No,2000,,,54,0,AutÛmovil,30,Minutos
+995,H0799,2,11,YUCA,11,Santiago,San JosÈ de Las Matas,8.7403193,139,No,Temporero,No recuerda,2019,No,2010,Noviembre,2019,30,0,Motor,15,Minutos
+995,H0799,2,11,BERENJENA,11,Santiago,San JosÈ de Las Matas,8.7403193,139,No,Temporero,No recuerda,2019,No,2010,Agosto,2019,30,0,Motor,15,Minutos
+995,H0799,2,11,HABICHUELA ROJA,11,Santiago,San JosÈ de Las Matas,8.7403193,139,No,Temporero,No recuerda,2019,No,2018,Julio,2019,30,0,Motor,15,Minutos
+773,H0805,2,11,,LA GRANJA,Santiago,Licey Al Medio,0.31439996,5,No,,,,,,,,58,0,A pie,2,Minutos
+773,H0805,2,12,PL√ÅTANO,LOS PLATANOS,Santiago,Licey Al Medio,0.31439996,5,No,Permanente,Octubre,2018,No,2018,,,58,0,Motor,2,Minutos
+756,H0833,2,11,MAIZ GRANO/MAZORCA,TORO CENIZO,La Vega,La Vega,1.8863997,30,No,Temporero,Marzo,2019,No,1992,Julio,2019,61,0,Motor,5,Minutos
+756,H0833,2,11,BATATA,TORO CENIZO,La Vega,La Vega,1.8863997,30,No,Temporero,Septiembre,2019,No,1992,0,0,61,0,Motor,5,Minutos
+491,H0842,2,11,PL√ÅTANO,HOYA GRANDE,La Vega,La Vega,5.2190394,83,No,Permanente,Octubre,2019,No,1979,,,79,1,AutÛmovil,30,Minutos
+485,H0844,2,21,YUCA,EL CANO,La Vega,La Vega,1.7606398,28,No,Temporero,Enero,2019,S√≠,1985,Agosto,2019,58,0,Motor,3,Minutos
+485,H0844,2,21,PL√ÅTANO,EL CANO,La Vega,La Vega,1.7606398,28,No,Permanente,Octubre,2019,S√≠,1985,,,58,0,Motor,3,Minutos
+455,H0848,2,11,PL√ÅTANO,HOJA,La Vega,La Vega,1.8863997,30,No,Permanente,Enero,2019,No,2000,,,67,0,A pie,5,Minutos
+557,H0849,2,11,BERENJENAS CHINAS,SABANETA 1,La Vega,La Vega,0.62879992,10,No,Temporero,Enero,2019,No,1980,Marzo,2019,79,0,A pie,2,Minutos
+634,H0850,2,21,AJ√ç,MATANZA,La Vega,La Vega,0.31439996,5,No,Temporero,Enero,2019,S√≠,2009,Febrero,2019,59,0,Motor,5,Minutos
+634,H0850,2,21,BERENJENAS CHINAS,MATANZA,La Vega,La Vega,0.31439996,5,No,Temporero,Marzo,2019,S√≠,2009,Febrero,2019,59,0,Motor,5,Minutos
+634,H0850,2,21,BERENJENA,MATANZA,La Vega,La Vega,0.31439996,5,No,Temporero,Febrero,2019,S√≠,2009,Febrero,2019,59,0,Motor,5,Minutos
+554,H0852,2,11,PL√ÅTANO,EL PINITO,La Vega,La Vega,1.1318399,18,No,Permanente,Abril,2019,No,1992,,,77,0,A pie,1,Minutos
+489,H0854,2,21,MELON INDU,SABANETA,La Vega,La Vega,2.2007997,35,No,Temporero,Octubre,2019,S√≠,2011,,,41,0,Motor,5,Minutos
+489,H0854,2,21,TINDORA,SABANETA,La Vega,La Vega,2.2007997,35,No,Permanente,Abril,2019,S√≠,2011,,,41,0,Motor,5,Minutos
+636,H0859,2,11,PASTO,JIMAYA ARRIBA,La Vega,La Vega,16.348799,260,No,Permanente,No recuerda,1995,No,1995,,,55,1,A pie,1,Minutos
+636,H0859,2,11,YUCA,JIMAYA ARRIBA,La Vega,La Vega,16.348799,260,No,Temporero,Julio,2019,No,1995,,,55,1,A pie,1,Minutos
+636,H0859,2,11,AGUACATE,JIMAYA ARRIBA,La Vega,La Vega,16.348799,260,No,Permanente,No recuerda,1995,S√≠,1995,,,55,1,A pie,1,Minutos
+636,H0859,2,11,LIMON,JIMAYA ARRIBA,La Vega,La Vega,16.348799,260,No,Permanente,No recuerda,1995,S√≠,1995,,,55,1,A pie,1,Minutos
+636,H0859,2,11,PL√ÅTANO,JIMAYA ARRIBA,La Vega,La Vega,16.348799,260,No,Permanente,No recuerda,1995,No,1995,,,55,1,A pie,1,Minutos
+636,H0859,2,11,MANGO,JIMAYA ARRIBA,La Vega,La Vega,16.348799,260,No,Permanente,No recuerda,1995,S√≠,1995,,,55,1,A pie,1,Minutos
+753,H0883,2,11,PEPINO,LOS VELAQUITOS,La Vega,La Vega,1.9492798,31,No,Temporero,Octubre,2019,No,2002,Diciembre,2019,51,0,A pie,1,Minutos
+753,H0883,2,11,AJ√ç,LOS VELAQUITOS,La Vega,La Vega,1.9492798,31,No,Temporero,Junio,2019,No,2000,0,0,51,0,A pie,1,Minutos
+753,H0883,2,11,TOMATE ENSALADA,LOS VELAQUITOS,La Vega,La Vega,1.9492798,31,No,Temporero,Septiembre,2019,No,1995,Noviembre,2019,51,0,A pie,1,Minutos
+610,H0902,2,11,YUCA,LA PARCELA,MonseÒor Nouel,Piedra Blanca,1.2575998,20,No,Temporero,Marzo,2019,No,2000,Septiembre,2019,62,0,Motor,5,Minutos
+603,H0913,2,11,GUANABANA,EL 77,MonseÒor Nouel,Piedra Blanca,1.5719998,25,No,Permanente,No recuerda,2016,No,2016,,,48,0,Bicicleta,15,Minutos
+59,H0938,2,11,PL√ÅTANO,LA CUEVA,Hermanas Mirabal,Salcedo,3.7727995,60,No,Permanente,Diciembre,2017,No,2000,,,45,0,Motor,20,Minutos
+56,H0939,2,11,AUYAMA,CARIDAD,Hermanas Mirabal,Tenares,3.4583995,55,No,Temporero,Abril,2019,No,2016,Agosto,2019,67,0,A pie,0,Minutos
+58,H0940,2,11,AUYAMA,LOS ARACENES,Hermanas Mirabal,Tenares,2.8295996,45,No,Temporero,Mayo,2019,No,2017,Septiembre,2019,67,0,A pie,0,Minutos
+57,H0944,2,11,CILANTRO VERDE,LOREN,Hermanas Mirabal,Salcedo,0.44015995,7,No,Temporero,Febrero,2019,No,2016,Abril,2019,59,0,A pie,0,Minutos
+588,H0945,2,11,PL√ÅTANO,SAN JOSE,Hermanas Mirabal,Salcedo,0.94319987,15,No,Permanente,No recuerda,2018,No,2000,,,54,0,A pie,0,Minutos
+248,H0951,2,11,PASTO,ANON,DajabÛn,Partido,14.147998,225,No,Permanente,Febrero,2010,No,2019,,,52,0,A pie,15,Minutos
+836,H0954,2,11,PASTO,TAWIKE,DajabÛn,Partido,14.022238,223,No,Permanente,Marzo,2017,No,2017,,,64,0,Motor,10,Minutos
+836,H0954,2,12,PASTO,EL LLANO,DajabÛn,Partido,18.863998,300,No,Permanente,Abril,2018,No,2013,,,64,0,Motor,30,Minutos
+839,H0956,2,11,PASTO,HATICO VIEJO,DajabÛn,Partido,19.618557,312,No,Permanente,Febrero,2018,No,2018,,,70,0,AutÛmovil,20,Minutos
+21,H0957,2,11,PASTO,LOS INDIOS,DajabÛn,Partido,12.575998,200,No,Permanente,Marzo,2017,No,2017,,,88,0,Motor,20,Minutos
+421,H0959,2,11,PASTO,EL LLANO,DajabÛn,Partido,15.719998,250,No,Permanente,No recuerda,1996,No,1996,,,58,0,Motor,30,Minutos
+421,H0959,2,12,PASTO,AMINILLA,DajabÛn,Partido,9.4319992,150,No,Permanente,Marzo,2018,No,2016,,,58,0,Motor,30,Minutos
+423,H0961,2,11,PASTO,LA DE BATE,DajabÛn,Partido,22.007998,350,No,Permanente,No recuerda,1989,No,1989,,,68,1,Motor,30,Minutos
+423,H0961,2,11,PASTO,LA DE BATE,DajabÛn,Partido,22.007998,350,No,Permanente,Marzo,2019,No,2015,,,68,1,Motor,30,Minutos
+425,H0962,2,11,PASTO,BUEN GUSTO,DajabÛn,Partido,1.7606398,28,No,Permanente,Marzo,2018,No,2018,,,66,0,A pie,5,Minutos
+425,H0962,2,11,PASTO,BUEN GUSTO,DajabÛn,Partido,1.7606398,28,No,Permanente,No recuerda,1990,No,1990,,,66,0,A pie,5,Minutos
+18,H0963,2,11,PASTO,LA GALLINA,DajabÛn,Partido,2.3265598,37,No,Permanente,No recuerda,2011,No,2011,,,54,0,Transporte p˙blico,10,Minutos
+18,H0963,2,12,PASTO,LOS CERROS,DajabÛn,Partido,5.3447995,85,No,Permanente,No recuerda,1985,No,1985,,,54,0,Transporte p˙blico,20,Minutos
+18,H0963,2,13,PASTO,PARTIDO ARRIBA,DajabÛn,Partido,0.47159994,7.5,No,Permanente,No recuerda,2012,No,2012,,,54,0,Transporte p˙blico,0,Minutos
+19,H0965,2,11,PASTO,LA GORRA,DajabÛn,Partido,8.0486393,128,No,Permanente,Marzo,2015,No,1996,,,63,0,Motor,5,Minutos
+19,H0965,2,11,YUCA,LA GORRA,DajabÛn,Partido,8.0486393,128,No,Temporero,Junio,2019,No,2018,Diciembre,2019,63,0,Motor,5,Minutos
+242,H0966,2,11,PASTO,LLANO,DajabÛn,Partido,6.2879992,100,No,Permanente,Marzo,2018,No,2018,,,50,0,A pie,1,Minutos
+246,H0969,2,11,PASTO,EL LLANO,DajabÛn,Partido,7.9228787,126,No,Permanente,No recuerda,2002,No,2002,,,59,0,Motor,5,Minutos
+246,H0969,2,12,,ARQUISES,DajabÛn,Partido,5.9735994,95,SÌ,,,,,,,,59,0,Motor,10,Minutos
+246,H0969,2,13,,BAMBUSAS,DajabÛn,Partido,12.575998,200,SÌ,,,,,,,,59,0,Motor,10,Minutos
+422,H0971,2,11,GUANDUL,LA CANCA,DajabÛn,Partido,1.5719998,25,No,Temporero,Junio,2019,No,1995,Diciembre,2019,63,1,A pie,15,Minutos
+422,H0971,2,11,PASTO,LA CANCA,DajabÛn,Partido,1.5719998,25,No,Permanente,Marzo,2017,No,1995,,,63,1,A pie,15,Minutos
+422,H0971,2,12,PASTO,LOS CERROS,DajabÛn,Partido,1.1318399,18,No,Permanente,Marzo,2017,No,1995,,,63,1,A pie,15,Minutos
+419,H0972,2,11,PASTO,RODEO,DajabÛn,Partido,2.5780797,41,No,Permanente,Septiembre,2019,No,2018,,,62,0,A pie,2,Minutos
+244,H0974,2,11,PASTO,RODEO,DajabÛn,Partido,3.7727995,60,No,Permanente,Abril,2015,No,2015,,,51,0,Motor,10,Minutos
+245,H0975,2,11,PASTO,RODEO MI CASA,DajabÛn,Partido,9.8092785,156,No,Permanente,Marzo,2015,No,2015,,,64,0,A pie,0,Minutos
+426,H0978,2,11,PASTO,PABELLON I,DajabÛn,Partido,5.0303993,80,No,Permanente,Febrero,2018,No,2018,,,51,0,A pie,0,Minutos
+426,H0978,2,12,PASTO,PABELLON II,DajabÛn,Partido,2.8295996,45,No,Permanente,No recuerda,2008,No,2008,,,51,0,A pie,0,Minutos
+426,H0978,2,13,PASTO,LOS CERROS,DajabÛn,Partido,6.2879992,100,No,Permanente,No recuerda,1981,No,1981,,,51,0,Motor,5,Minutos
+428,H0979,2,11,PASTO,BOHUCO,DajabÛn,Partido,8.1743994,130,No,Permanente,Marzo,2019,No,2016,,,59,0,Motor,2,Minutos
+20,H0980,2,11,PASTO,LA GALLINA,DajabÛn,Partido,6.9167991,110,No,Permanente,Marzo,2016,No,2016,,,48,0,Motor,15,Minutos
+427,H0982,2,11,SANDIA,LOS CERROS,DajabÛn,Partido,1.5719998,25,No,Temporero,Septiembre,2019,No,2002,Diciembre,2019,55,0,Motor,25,Minutos
+1125,H0983,2,11,MAIZ VERDE,CERROS TALANGUNE,DajabÛn,Partido,9.4319992,150,No,Temporero,Agosto,2019,No,2018,Diciembre,2019,66,0,Motor,10,Minutos
+1125,H0983,2,11,PASTO,CERROS TALANGUNE,DajabÛn,Partido,9.4319992,150,No,Permanente,Marzo,2017,No,9999,,,66,0,Motor,10,Minutos
+247,H0986,2,11,PASTO,LO DE GELO,DajabÛn,Partido,5.8478394,93,No,Permanente,No recuerda,2016,No,2016,,,42,0,Motor,5,Minutos
+247,H0986,2,12,PASTO,LA TUMBA,DajabÛn,Partido,25.151997,400,No,Permanente,Marzo,2016,No,2016,,,42,0,Motor,3,Minutos
+424,H0989,2,11,YUCA,BUEN GUSTO,DajabÛn,Partido,1.5091197,24,No,Temporero,Marzo,2019,No,2003,Noviembre,2019,39,0,Motor,5,Minutos
+241,H0993,2,11,,PINARA,DajabÛn,Partido,14.210878,226,SÌ,,,,,,,,79,0,A pie,5,Minutos
+243,H0994,2,11,PASTO,GALLO FLACO,DajabÛn,Partido,6.2879992,100,No,Permanente,No recuerda,2018,No,2018,,,58,0,Motor,3,Minutos
+243,H0994,2,11,YUCA,GALLO FLACO,DajabÛn,Partido,6.2879992,100,No,Temporero,Junio,2019,No,2015,Diciembre,2019,58,0,Motor,3,Minutos
+842,H1000,2,11,GUANDUL,MARIANO C,DajabÛn,RestauraciÛn,18.863998,300,No,Temporero,Marzo,2019,No,2018,Diciembre,2019,37,0,Motor,30,Minutos
+1127,H1009,2,11,GUANDUL,VALLE NUEVO,DajabÛn,RestauraciÛn,4.4015994,70,No,Temporero,Abril,2019,No,2012,Diciembre,2019,73,1,A pie,0,Minutos
+225,H1038,2,11,PASTO,DON TATAN III,Santiago Rodriguez,San Ignacio de Sabaneta,3.5212796,56,No,Permanente,No recuerda,2008,No,2008,,,65,0,A pie,0,Minutos
+225,H1038,2,12,PASTO,DON TATAN IV,Santiago Rodriguez,San Ignacio de Sabaneta,5.0932794,81,No,Permanente,No recuerda,2008,No,2008,,,65,0,A pie,0,Minutos
+237,H1040,2,11,PASTO,CIENEGA,Santiago Rodriguez,San Ignacio de Sabaneta,6.2879992,100,No,Permanente,No recuerda,2006,No,2006,,,47,0,Motor,7,Minutos
+232,H1041,2,11,PL√ÅTANO,LOS BAMBUES,Santiago Rodriguez,San Ignacio de Sabaneta,9.1175985,145,No,Permanente,Abril,2019,No,1990,,,58,0,Motor,5,Minutos
+232,H1041,2,11,PASTO,LOS BAMBUES,Santiago Rodriguez,San Ignacio de Sabaneta,9.1175985,145,No,Permanente,No recuerda,1990,No,1990,,,58,0,Motor,5,Minutos
+226,H1042,2,11,PASTO,CORDERO,Santiago Rodriguez,San Ignacio de Sabaneta,31.439997,500,No,Permanente,No recuerda,2000,No,2000,,,66,0,AutÛmovil,20,Minutos
+231,H1043,2,11,PASTO,LA CASA,Santiago Rodriguez,San Ignacio de Sabaneta,18.863998,300,No,Permanente,No recuerda,2001,No,2001,,,29,0,A pie,0,Minutos
+163,H1047,2,11,PASTO,CERCADILLO,Santiago Rodriguez,San Ignacio de Sabaneta,6.2879992,100,No,Permanente,No recuerda,2004,No,2004,,,56,0,AutÛmovil,10,Minutos
+166,H1052,2,11,AUYAMA,LUNA,Santiago Rodriguez,San Ignacio de Sabaneta,2.8924797,46,No,Temporero,Septiembre,2019,No,2019,,,63,0,AutÛmovil,10,Minutos
+166,H1052,2,11,LECHOZA,LUNA,Santiago Rodriguez,San Ignacio de Sabaneta,2.8924797,46,No,Temporero,Septiembre,2019,No,2019,,,63,0,AutÛmovil,10,Minutos
+166,H1052,2,12,PASTO,LIBRADO,Santiago Rodriguez,San Ignacio de Sabaneta,0.62879992,10,No,Permanente,No recuerda,2008,No,2008,,,63,0,AutÛmovil,10,Minutos
+166,H1052,2,13,LECHOZA,RAMONCITO,Santiago Rodriguez,San Ignacio de Sabaneta,2.4523196,39,No,Temporero,Septiembre,2019,No,2019,,,63,0,AutÛmovil,10,Minutos
+166,H1052,2,13,PASTO,RAMONCITO,Santiago Rodriguez,San Ignacio de Sabaneta,2.4523196,39,No,Permanente,No recuerda,2000,No,2000,,,63,0,AutÛmovil,10,Minutos
+154,H1053,2,11,CEREZA,LOS PINONES,Santiago Rodriguez,San Ignacio de Sabaneta,18.863998,300,No,Permanente,No recuerda,2016,S√≠,2016,,,63,0,AutÛmovil,10,Minutos
+154,H1053,2,11,LIMON,LOS PINONES,Santiago Rodriguez,San Ignacio de Sabaneta,18.863998,300,No,Permanente,No recuerda,2016,S√≠,2016,,,63,0,AutÛmovil,10,Minutos
+154,H1053,2,11,PASTO,LOS PINONES,Santiago Rodriguez,San Ignacio de Sabaneta,18.863998,300,No,Permanente,No recuerda,1974,No,1974,,,63,0,AutÛmovil,10,Minutos
+239,H1055,2,11,PASTO,LA CASA,Santiago Rodriguez,San Ignacio de Sabaneta,3.8356795,61,No,Permanente,No recuerda,1985,No,1985,,,76,0,A pie,0,Minutos
+239,H1055,2,12,PASTO,TRES MALINA,Santiago Rodriguez,San Ignacio de Sabaneta,1.7606398,28,No,Permanente,No recuerda,2005,No,2005,,,76,0,A pie,0,Minutos
+239,H1055,2,13,PASTO,LIBERTO,Santiago Rodriguez,San Ignacio de Sabaneta,1.9492798,31,No,Permanente,No recuerda,2005,No,2005,,,76,0,A pie,0,Minutos
+571,H1056,2,11,TABACO,MILO,Santiago Rodriguez,San Ignacio de Sabaneta,50.303993,800,No,Temporero,Noviembre,2019,No,2016,,,54,0,Motor,7,Minutos
+571,H1056,2,11,PASTO,MILO,Santiago Rodriguez,San Ignacio de Sabaneta,50.303993,800,No,Permanente,No recuerda,1972,No,1972,,,54,0,Motor,7,Minutos
+571,H1056,2,12,PASTO,FLORE,Santiago Rodriguez,San Ignacio de Sabaneta,30.182396,480,No,Permanente,No recuerda,1972,No,1972,,,54,0,Motor,7,Minutos
+571,H1056,2,13,PASTO,CANA,Santiago Rodriguez,San Ignacio de Sabaneta,6.036479,96,No,Permanente,No recuerda,1972,No,1972,,,54,0,Motor,7,Minutos
+571,H1056,2,13,TABACO,CANA,Santiago Rodriguez,San Ignacio de Sabaneta,6.036479,96,No,Temporero,Noviembre,2019,No,2016,,,54,0,Motor,7,Minutos
+571,H1056,2,14,PASTO,ENRIQUE,Santiago Rodriguez,San Ignacio de Sabaneta,20.121597,320,No,Permanente,No recuerda,1972,No,1972,,,54,0,Motor,7,Minutos
+236,H1057,2,11,PASTO,LA BRE—A,Santiago Rodriguez,San Ignacio de Sabaneta,6.036479,96,No,Permanente,No recuerda,1980,No,1980,,,52,0,Motor,10,Minutos
+234,H1061,2,11,PASTO,BELLACO,Santiago Rodriguez,San Ignacio de Sabaneta,7.545599,120,No,Permanente,No recuerda,2000,No,2000,,,45,0,Motor,1,Minutos
+229,H1063,2,11,PASTO,EL PLAY,Santiago Rodriguez,San Ignacio de Sabaneta,4.4015994,70,No,Permanente,No recuerda,2000,No,2000,,,59,0,Motor,5,Minutos
+229,H1063,2,12,PASTO,BELLOSO,Santiago Rodriguez,San Ignacio de Sabaneta,3.7099195,59,No,Permanente,No recuerda,2000,No,2000,,,59,0,A pie,0,Minutos
+161,H1065,2,11,YUCA,SEBASTIAN,Santiago Rodriguez,San Ignacio de Sabaneta,12.575998,200,No,Temporero,Mayo,2019,No,1980,,,57,0,Motor,10,Minutos
+161,H1065,2,11,PASTO,SEBASTIAN,Santiago Rodriguez,San Ignacio de Sabaneta,12.575998,200,No,Permanente,No recuerda,1974,No,1974,,,57,0,Motor,10,Minutos
+569,H1066,2,11,PASTO,LA CASA,Santiago Rodriguez,San Ignacio de Sabaneta,1.8863997,30,No,Permanente,No recuerda,2000,No,1999,,,55,0,A pie,0,Minutos
+569,H1066,2,12,PASTO,LOAQUIN,Santiago Rodriguez,San Ignacio de Sabaneta,6.1622391,98,No,Permanente,No recuerda,1999,No,1999,,,55,0,Motor,5,Minutos
+227,H1067,2,11,PASTO,JUAN HERNARDEZ,Santiago Rodriguez,San Ignacio de Sabaneta,7.545599,120,No,Permanente,No recuerda,1990,No,1990,,,55,0,Motor,3,Minutos
+227,H1067,2,12,PASTO,PANCHO ALMANZAR,Santiago Rodriguez,San Ignacio de Sabaneta,2.3894396,38,No,Permanente,No recuerda,1990,No,1990,,,55,0,Motor,3,Minutos
+227,H1067,2,13,PASTO,CHICHIN,Santiago Rodriguez,San Ignacio de Sabaneta,3.1439996,50,No,Permanente,No recuerda,1990,No,1990,,,55,0,Motor,3,Minutos
+227,H1067,2,14,PASTO,RAFAEL ESPINAL,Santiago Rodriguez,San Ignacio de Sabaneta,14.713918,234,No,Permanente,No recuerda,1990,No,1990,,,55,0,Motor,3,Minutos
+228,H1073,2,11,PASTO,LUIS,Santiago Rodriguez,San Ignacio de Sabaneta,6.2879992,100,No,Permanente,No recuerda,1998,No,1998,,,67,0,A pie,0,Minutos
+228,H1073,2,12,PASTO,TIBURCIO,Santiago Rodriguez,San Ignacio de Sabaneta,1.8863997,30,No,Permanente,No recuerda,1997,No,1997,,,67,0,Motor,1,Minutos
+228,H1073,2,13,PASTO,JARDIN,Santiago Rodriguez,San Ignacio de Sabaneta,3.1439996,50,No,Permanente,No recuerda,1997,No,1997,,,67,0,Motor,1,Minutos
+228,H1073,2,14,PASTO,HECTOR,Santiago Rodriguez,San Ignacio de Sabaneta,7.1683192,114,No,Permanente,No recuerda,2005,No,2005,,,67,0,A pie,0,Minutos
+228,H1073,2,15,PASTO,LOS QUEMADOS,Santiago Rodriguez,San Ignacio de Sabaneta,62.879993,1000,No,Permanente,No recuerda,2007,No,2007,,,67,0,AutÛmovil,15,Minutos
+228,H1073,2,15,YUCA,LOS QUEMADOS,Santiago Rodriguez,San Ignacio de Sabaneta,62.879993,1000,No,Temporero,Mayo,2019,No,2019,,,67,0,AutÛmovil,15,Minutos
+238,H1079,2,11,PASTO,LA CASA,Santiago Rodriguez,San Ignacio de Sabaneta,2.0750396,33,No,Permanente,No recuerda,1970,No,1970,,,64,0,A pie,0,Minutos
+159,H1084,2,11,PASTO,SABANA LARGA,Santiago Rodriguez,San Ignacio de Sabaneta,1.8863997,30,No,Permanente,No recuerda,2004,No,2004,,,59,0,Motor,10,Minutos
+999,H1090,2,11,LIMON,EL RANCHO,Santiago Rodriguez,San Ignacio de Sabaneta,2.5151997,40,No,Permanente,No recuerda,2014,S√≠,2014,,,53,0,A pie,5,Minutos
+999,H1090,2,11,NARANJA(TODAS),EL RANCHO,Santiago Rodriguez,San Ignacio de Sabaneta,2.5151997,40,No,Permanente,No recuerda,2016,S√≠,2016,,,53,0,A pie,5,Minutos
+999,H1090,2,11,MANGO,EL RANCHO,Santiago Rodriguez,San Ignacio de Sabaneta,2.5151997,40,No,Permanente,No recuerda,2016,S√≠,2016,,,53,0,A pie,5,Minutos
+999,H1090,2,12,,MAGUANA,Santiago Rodriguez,San Ignacio de Sabaneta,11.318398,180,SÌ,,,,,,,,53,0,A pie,10,Minutos
+164,H1102,2,11,PASTO,CERCADILLO ARRIBA,Santiago Rodriguez,San Ignacio de Sabaneta,2.4523196,39,No,Permanente,No recuerda,1994,No,1994,,,54,0,Motor,15,Minutos
+164,H1102,2,12,PASTO,CERCADILLO ABAJO,Santiago Rodriguez,San Ignacio de Sabaneta,5.7849593,92,No,Permanente,No recuerda,1995,No,1995,,,54,0,Motor,15,Minutos
+637,H1103,2,11,ARROZ,LA AMARGA,La Vega,La Vega,8.7403193,139,No,Temporero,Enero,2019,No,2009,Mayo,2019,47,0,AutÛmovil,15,Minutos
+1132,H1112,2,11,PASTO,CANOYTA,Santiago Rodriguez,San Ignacio de Sabaneta,16.914719,269,No,Permanente,No recuerda,2004,No,2004,,,42,0,Motor,4,Minutos
+1132,H1112,2,12,PASTO,ARQUIMEDES,Santiago Rodriguez,San Ignacio de Sabaneta,2.2007997,35,No,Permanente,No recuerda,2010,No,2010,,,42,0,A pie,0,Minutos
+1132,H1112,2,13,PASTO,EULOGIO,Santiago Rodriguez,San Ignacio de Sabaneta,1.2575998,20,No,Permanente,No recuerda,2010,No,2010,,,42,0,A pie,0,Minutos
+233,H1113,2,11,PASTO,LOS BAMBUES,Santiago Rodriguez,San Ignacio de Sabaneta,5.0932794,81,No,Permanente,No recuerda,2002,No,2002,,,41,0,Motor,5,Minutos
+224,H1114,2,11,PASTO,BELLACO,Santiago Rodriguez,San Ignacio de Sabaneta,18.863998,300,No,Permanente,No recuerda,1970,No,1970,,,65,0,Motor,3,Minutos
+156,H1115,2,11,PASTO,PERUCHO,Santiago Rodriguez,San Ignacio de Sabaneta,8.1743994,130,No,Permanente,No recuerda,1980,No,1980,,,74,0,Motor,1,Minutos
+156,H1115,2,11,YUCA,PERUCHO,Santiago Rodriguez,San Ignacio de Sabaneta,8.1743994,130,No,Temporero,Febrero,2019,No,1980,Diciembre,2019,74,0,Motor,1,Minutos
+240,H1120,2,11,PASTO,MAGUANA,Santiago Rodriguez,San Ignacio de Sabaneta,25.151997,400,No,Permanente,No recuerda,2005,No,2005,,,70,0,A pie,0,Minutos
+13,H1124,2,21,GUINEO,LA 21,Valverde,Esperanza,1.8863997,30,No,Permanente,Abril,2014,No,2014,,,55,0,Motor,20,Minutos
+9,H1128,2,11,YUCA,LA 11,Valverde,Mao,3.3955195,54,No,Temporero,Octubre,2018,S√≠,2018,Julio,2019,45,0,Motor,10,Minutos
+9,H1128,2,11,PL√ÅTANO,LA 11,Valverde,Mao,3.3955195,54,No,Permanente,Septiembre,2019,S√≠,2019,,,45,0,Motor,10,Minutos
+191,H1129,2,11,PASTO,LA 70,Valverde,Esperanza,4.4015994,70,No,Permanente,Junio,2005,No,1996,,,55,0,A pie,5,Minutos
+782,H1145,2,11,GUINEO,LA 40,Monte Cristi,GuayubÌn,2.5151997,40,No,Permanente,Septiembre,2010,No,2010,,,42,0,AutÛmovil,5,Minutos
+10,H1146,2,11,PASTO,LOS PINOS,Valverde,Esperanza,5.0303993,80,No,Permanente,No recuerda,1950,No,1950,,,55,1,A pie,1,Horas
+15,H1148,2,11,PASTO,LA 11,Valverde,Esperanza,4.0871997,65,No,Permanente,No recuerda,1998,No,1998,,,71,0,A pie,30,Minutos
+16,H1150,2,11,PASTO,LA 11,Valverde,Laguna Salada,18.863998,300,No,Permanente,No recuerda,1965,No,1965,,,70,0,AutÛmovil,20,Minutos
+14,H1152,2,11,PASTO,LA 11,Valverde,Esperanza,1.8863997,30,No,Permanente,No recuerda,1998,No,1998,,,36,0,A pie,5,Minutos
+794,H1163,2,11,PASTO,LAS 204,Monte Cristi,Monte Cristi,12.827518,204,No,Permanente,No recuerda,1995,No,1995,,,57,0,AutÛmovil,5,Minutos
+791,H1192,2,11,TOMATE INDUSTRIAL,LAS 50,Monte Cristi,Monte Cristi,3.1439996,50,No,Temporero,Agosto,2019,No,2011,Diciembre,2019,39,0,A pie,5,Minutos
+793,H1193,2,11,PASTO,LAS 200,Monte Cristi,Pepillo Salcedo,12.575998,200,No,Permanente,No recuerda,1963,No,1963,,,72,0,Motor,5,Minutos
+788,H1197,2,11,GUINEO,LAS 100,Monte Cristi,CastaÒuelas,6.2879992,100,No,Permanente,Septiembre,2016,No,2016,,,66,0,AutÛmovil,20,Minutos
+216,H1200,2,11,MANGO,HACIENDA PEREZ,Peravia,Nizao,2.5151997,40,No,Permanente,Marzo,2016,S√≠,2016,,,50,1,AutÛmovil,30,Minutos
+216,H1200,2,11,LIMON,HACIENDA PEREZ,Peravia,Nizao,2.5151997,40,No,Permanente,Marzo,2016,S√≠,2016,,,50,1,AutÛmovil,30,Minutos
+216,H1200,2,11,AGUACATE,HACIENDA PEREZ,Peravia,Nizao,2.5151997,40,No,Permanente,Marzo,2016,S√≠,2016,,,50,1,AutÛmovil,30,Minutos
+671,H1201,2,11,MANGO,H. RUIZ,Peravia,BanÌ,6.9167991,110,No,Permanente,Abril,2011,S√≠,2011,,,70,0,AutÛmovil,45,Minutos
+671,H1201,2,11,LIMON,H. RUIZ,Peravia,BanÌ,6.9167991,110,No,Permanente,Abril,2011,S√≠,2011,,,70,0,AutÛmovil,45,Minutos
+671,H1201,2,11,PASTO,H. RUIZ,Peravia,BanÌ,6.9167991,110,No,Permanente,Enero,9999,No,9999,,,70,0,AutÛmovil,45,Minutos
+671,H1201,2,11,PL√ÅTANO,H. RUIZ,Peravia,BanÌ,6.9167991,110,No,Permanente,Abril,2011,S√≠,2011,,,70,0,AutÛmovil,45,Minutos
+670,H1213,2,11,MANGO,PROYECTO FUNDACION,Peravia,BanÌ,1.6977597,27,No,Permanente,Abril,2007,No,2007,,,64,0,A pie,5,Minutos
+663,H1214,2,11,AGUACATE,LA 11,Peravia,BanÌ,6.099359,97,No,Permanente,Febrero,2015,No,2015,,,46,0,Motor,40,Minutos
+663,H1214,2,11,MANGO,LA 11,Peravia,BanÌ,6.099359,97,No,Permanente,Julio,2018,No,2016,,,46,0,Motor,40,Minutos
+667,H1216,2,11,PL√ÅTANO,PROYECTO P. O.,Peravia,BanÌ,5.5963192,89,No,Permanente,Marzo,2017,No,2017,,,58,0,Motor,10,Minutos
+667,H1216,2,11,CEBOLLA,PROYECTO P. O.,Peravia,BanÌ,5.5963192,89,No,Temporero,Septiembre,2019,No,2019,Diciembre,2019,58,0,Motor,10,Minutos
+678,H1217,2,11,AGUACATE,LA ALTAGRACIA,Peravia,Nizao,4.5273595,72,No,Permanente,Enero,2019,S√≠,2019,,,64,0,AutÛmovil,15,Minutos
+678,H1217,2,11,MANGO,LA ALTAGRACIA,Peravia,Nizao,4.5273595,72,No,Permanente,Enero,2015,S√≠,2015,,,64,0,AutÛmovil,15,Minutos
+678,H1217,2,11,PL√ÅTANO,LA ALTAGRACIA,Peravia,Nizao,4.5273595,72,No,Permanente,Enero,2019,S√≠,2019,,,64,0,AutÛmovil,15,Minutos
+221,H1218,2,11,PL√ÅTANO,CARDERA III,Peravia,BanÌ,5.1875992,82.5,No,Permanente,Abril,2019,No,2019,,,49,0,Motor,10,Minutos
+269,H1221,2,11,MAIZ GRANO/MAZORCA,ACISI,Independencia,Mella,4.2129593,67,No,Temporero,Febrero,2019,No,1975,Junio,2019,71,0,A pie,15,Minutos
+269,H1221,2,11,AUYAMA,ACISI,Independencia,Mella,4.2129593,67,No,Temporero,Noviembre,2019,S√≠,1975,0,0,71,0,A pie,15,Minutos
+269,H1221,2,11,MAIZ GRANO/MAZORCA,ACISI,Independencia,Mella,4.2129593,67,No,Temporero,Noviembre,2019,S√≠,1975,0,0,71,0,A pie,15,Minutos
+203,H1230,2,11,HABICHUELA NEGRA,AC 128,Independencia,DuvergÈ,2.5151997,40,No,Temporero,Diciembre,2019,No,2000,0,0,77,1,Motor,20,Minutos
+203,H1230,2,11,AGUACATE,AC 128,Independencia,DuvergÈ,2.5151997,40,No,Permanente,Junio,2017,No,2017,,,77,1,Motor,20,Minutos
+203,H1230,2,11,MAIZ GRANO/MAZORCA,AC 128,Independencia,DuvergÈ,2.5151997,40,No,Temporero,Agosto,2019,No,2000,Diciembre,2019,77,1,Motor,20,Minutos
+215,H1231,2,11,MAIZ GRANO/MAZORCA,ACIZY 1,Independencia,DuvergÈ,2.2007997,35,No,Temporero,Septiembre,2019,S√≠,1988,Enero,2020,56,0,Motor,5,Minutos
+215,H1231,2,11,HABICHUELA NEGRA,ACIZY 1,Independencia,DuvergÈ,2.2007997,35,No,Temporero,Septiembre,2019,S√≠,1988,Diciembre,2019,56,0,Motor,5,Minutos
+215,H1231,2,12,MAIZ GRANO/MAZORCA,ACIZY 2,Independencia,DuvergÈ,2.2007997,35,No,Temporero,Septiembre,2019,S√≠,1988,Enero,2020,56,0,Motor,5,Minutos
+215,H1231,2,12,HABICHUELA NEGRA,ACIZY 2,Independencia,DuvergÈ,2.2007997,35,No,Temporero,Septiembre,2019,S√≠,1988,Diciembre,2019,56,0,Motor,5,Minutos
+654,H1237,2,11,MOLONDRON,EL CANTON,Independencia,DuvergÈ,1.2575998,20,No,Temporero,Noviembre,2019,No,2016,Diciembre,2019,55,0,Motor,5,Minutos
+266,H1242,2,11,MOLONDRON,EL CANTON,Independencia,DuvergÈ,1.2575998,20,No,Temporero,Noviembre,2019,No,2016,,,75,0,A pie,60,Minutos
+274,H1243,2,11,MOLONDRON,EL CANTON,Independencia,DuvergÈ,1.2575998,20,No,Temporero,Noviembre,2019,No,2016,,,77,0,A pie,1,Horas
+264,H1244,2,11,MOLONDRON,EL CANTON,Independencia,DuvergÈ,1.2575998,20,No,Temporero,Noviembre,2019,No,2016,,,59,0,Motor,10,Minutos
+268,H1249,2,11,MOLONDRON,EL CANTON,Independencia,DuvergÈ,1.2575998,20,No,Temporero,Noviembre,2019,No,2016,,,58,0,Motor,15,Minutos
+267,H1253,2,11,MOLONDRON,EL CANTON,Independencia,DuvergÈ,1.2575998,20,No,Temporero,Noviembre,2019,No,2016,,,54,0,A pie,1,Horas
+265,H1265,2,11,MOLONDRON,EL CANTON,Independencia,DuvergÈ,1.2575998,20,No,Temporero,Noviembre,2019,No,2018,,,56,0,Motor,10,Minutos
+206,H1274,2,11,LIMON,ZONA 1,Independencia,JimanÌ,1.8863997,30,No,Permanente,Marzo,2017,No,2017,,,74,1,Motor,5,Minutos
+211,H1275,2,11,LIMON,ZONAI IV,Independencia,JimanÌ,1.8863997,30,No,Permanente,Mayo,2016,No,2016,,,79,1,Motor,5,Minutos
+661,H1276,2,11,RULO,ZUNA III,Independencia,JimanÌ,1.8863997,30,No,Permanente,Marzo,2014,No,1976,,,70,0,A pie,20,Minutos
+661,H1276,2,11,LIMON,ZUNA III,Independencia,JimanÌ,1.8863997,30,No,Permanente,Febrero,2019,No,2019,,,70,0,A pie,20,Minutos
+213,H1277,2,11,LIMON,ZONA 2,Independencia,JimanÌ,1.8863997,30,No,Permanente,Diciembre,2005,No,2005,,,69,0,Motor,10,Minutos
+272,H1278,2,11,LIMON,ZONA IV,Independencia,JimanÌ,1.2575998,20,No,Permanente,Septiembre,2014,No,2014,,,73,0,Motor,15,Minutos
+660,H1279,2,11,LIMON,ZONA VI,Independencia,JimanÌ,1.8863997,30,No,Permanente,Diciembre,2019,No,2019,,,52,0,Motor,5,Minutos
+270,H1280,2,11,LIMON,ZONA 6,Independencia,JimanÌ,1.6348798,26,No,Permanente,Septiembre,2015,No,2015,,,61,0,A pie,30,Minutos
+204,H1281,2,11,RULO,ZONA 2,Independencia,JimanÌ,1.2575998,20,No,Permanente,No recuerda,2003,No,2003,,,54,0,A pie,10,Minutos
+210,H1282,2,11,,ZONA 2,Independencia,JimanÌ,1.2575998,20,SÌ,,,,,,,,76,0,Motor,15,Minutos
+658,H1284,2,11,SANDIA,ZONA I,Independencia,JimanÌ,3.1439996,50,No,Temporero,Diciembre,2019,S√≠,2003,,,49,0,Motor,5,Minutos
+658,H1284,2,11,MAIZ GRANO/MAZORCA,ZONA I,Independencia,JimanÌ,3.1439996,50,No,Temporero,Septiembre,2019,No,2003,,,49,0,Motor,5,Minutos
+658,H1284,2,11,AJ√ç,ZONA I,Independencia,JimanÌ,3.1439996,50,No,Temporero,Diciembre,2019,No,2003,,,49,0,Motor,5,Minutos
+658,H1284,2,11,LIMON,ZONA I,Independencia,JimanÌ,3.1439996,50,No,Permanente,Marzo,2014,No,2014,,,49,0,Motor,5,Minutos
+658,H1284,2,11,LECHOZA,ZONA I,Independencia,JimanÌ,3.1439996,50,No,Temporero,Septiembre,2019,S√≠,2003,,,49,0,Motor,5,Minutos
+214,H1285,2,11,LIMON,ZONA 3,Independencia,JimanÌ,1.8863997,30,No,Permanente,No recuerda,2015,No,2015,,,69,1,Motor,20,Minutos
+212,H1286,2,11,RULO,ZONA 1,Independencia,JimanÌ,1.2575998,20,No,Permanente,Junio,2016,No,2016,,,43,0,Motor,5,Minutos
+273,H1287,2,11,RULO,ZONA VI,Independencia,JimanÌ,1.8863997,30,No,Permanente,Septiembre,2016,S√≠,1975,,,56,0,Motor,15,Minutos
+273,H1287,2,11,LIMON,ZONA VI,Independencia,JimanÌ,1.8863997,30,No,Permanente,Febrero,2017,S√≠,2017,,,56,0,Motor,15,Minutos
+273,H1287,2,11,HABICHUELA NEGRA,ZONA VI,Independencia,JimanÌ,1.8863997,30,No,Temporero,Septiembre,2019,No,1975,Diciembre,2019,56,0,Motor,15,Minutos
+271,H1288,2,11,LIMON,ZONA II,Independencia,JimanÌ,1.2575998,20,No,Permanente,Septiembre,2019,S√≠,2019,,,68,1,A pie,15,Minutos
+271,H1288,2,11,MAIZ GRANO/MAZORCA,ZONA II,Independencia,JimanÌ,1.2575998,20,No,Temporero,Septiembre,2019,S√≠,2019,,,68,1,A pie,15,Minutos
+207,H1292,2,11,LIMON,LA BOMBA V,Independencia,JimanÌ,3.1439996,50,No,Permanente,Agosto,2013,No,2013,,,51,0,Motor,10,Minutos
+653,H1293,2,11,LIMON,ZONA I,Independencia,JimanÌ,0.94319987,15,No,Permanente,Abril,2016,No,2016,,,59,1,Motor,5,Minutos
+209,H1295,2,11,LIMON,BOMBA 5 Y 6,Independencia,JimanÌ,2.2007997,35,No,Permanente,Mayo,2013,No,2013,,,50,0,Motor,5,Minutos
+208,H1298,2,11,LIMON,LA BOMBA IV,Independencia,JimanÌ,2.2007997,35,No,Permanente,Febrero,2015,No,2015,,,34,0,Motor,5,Minutos
+1111,H1393,2,11,MANGO,KM 8,Azua,Azua,2.2636797,36,No,Permanente,Abril,2002,No,2002,,,56,0,Motor,20,Minutos
+1111,H1393,2,12,MANGO,KM 7,Azua,Azua,1.8863997,30,No,Permanente,Abril,2002,No,2002,,,56,0,Motor,15,Minutos
+913,H1394,2,11,COCO,RECODO,Azua,Azua,1.8863997,30,No,Permanente,Octubre,2018,S√≠,1977,,,57,0,Motor,15,Minutos
+913,H1394,2,11,GUINEO,RECODO,Azua,Azua,1.8863997,30,No,Permanente,Diciembre,2007,S√≠,1977,,,57,0,Motor,15,Minutos
+516,H1463,2,11,TOMATE INDUSTRIAL,LATERAL 2,Azua,Sabana Yegua,3.7727995,60,No,Temporero,Noviembre,2019,No,1987,,,75,0,AutÛmovil,10,Minutos
+943,H1464,2,11,PL√ÅTANO,EL ALTO,Azua,Las Yayas de Viajama,25.151997,400,No,Permanente,Julio,2019,S√≠,2019,,,45,0,A pie,3,Minutos
+943,H1464,2,11,LIMON,EL ALTO,Azua,Las Yayas de Viajama,25.151997,400,No,Permanente,Junio,2019,S√≠,2019,,,45,0,A pie,3,Minutos
+515,H1467,2,11,TOMATE INDUSTRIAL,D-3,Azua,Sabana Yegua,1.1318399,18,No,Temporero,Noviembre,2019,No,1988,,,65,0,Motor,1,Horas
+77,H1504,2,11,CAF√â,LA CA—A,Azua,Las Yayas de Viajama,2.5151997,40,No,Permanente,Abril,1979,No,1979,,,57,0,Animal,1.3,Horas
+77,H1504,2,11,GUANDUL,LA CA—A,Azua,Las Yayas de Viajama,2.5151997,40,No,Temporero,Abril,2019,No,1980,Diciembre,2019,57,0,Animal,1.3,Horas
+77,H1504,2,11,AUYAMA,LA CA—A,Azua,Las Yayas de Viajama,2.5151997,40,No,Temporero,Abril,2019,No,1989,Septiembre,2019,57,0,Animal,1.3,Horas
+77,H1504,2,11,AGUACATE,LA CA—A,Azua,Las Yayas de Viajama,2.5151997,40,No,Permanente,Abril,2018,No,1979,,,57,0,Animal,1.3,Horas
+102,H1537,2,11,CHINOLA,LO SORIANO,Azua,Azua,37.727997,600,No,Permanente,Noviembre,2019,S√≠,2019,,,52,0,A pie,0,Minutos
+102,H1537,2,11,PASTO,LO SORIANO,Azua,Azua,37.727997,600,No,Permanente,No recuerda,2011,No,2011,,,52,0,A pie,0,Minutos
+102,H1537,2,11,LIMON,LO SORIANO,Azua,Azua,37.727997,600,No,Permanente,Abril,2017,S√≠,2017,,,52,0,A pie,0,Minutos
+102,H1537,2,11,AUYAMA,LO SORIANO,Azua,Azua,37.727997,600,No,Temporero,Mayo,2019,No,2011,Noviembre,2019,52,0,A pie,0,Minutos
+78,H1541,2,11,CAF√â,LA 11,Azua,Padre Las Casas,2.5151997,40,No,Permanente,Abril,2015,No,1985,,,49,0,Motor,15,Minutos
+78,H1541,2,11,AGUACATE,LA 11,Azua,Padre Las Casas,2.5151997,40,No,Permanente,Abril,2005,No,2005,,,49,0,Motor,15,Minutos
+78,H1541,2,12,GUANDUL,LA 12,Azua,Padre Las Casas,6.2879992,100,No,Temporero,Abril,2019,No,2006,Noviembre,2019,49,0,Motor,30,Minutos
+525,H1544,2,11,LIMON,EL CIGUAL,Azua,Padre Las Casas,3.1439996,50,No,Permanente,Abril,2016,No,2016,,,75,0,AutÛmovil,20,Minutos
+106,H1547,2,11,AGUACATE,LOS POZOS,Azua,Padre Las Casas,2.3894396,38,No,Permanente,Octubre,2003,S√≠,2003,,,71,0,Motor,25,Minutos
+106,H1547,2,11,CAF√â,LOS POZOS,Azua,Padre Las Casas,2.3894396,38,No,Permanente,Mayo,2016,S√≠,1980,,,71,0,Motor,25,Minutos
+106,H1547,2,11,LIMON,LOS POZOS,Azua,Padre Las Casas,2.3894396,38,No,Permanente,Junio,2013,No,2013,,,71,0,Motor,25,Minutos
+47,H1559,2,11,CAF√â,LAS AUYAMAS,Azua,Guayabal,2.5151997,40,No,Permanente,No recuerda,2015,S√≠,2014,,,51,1,Motor,40,Minutos
+47,H1559,2,11,AGUACATE,LAS AUYAMAS,Azua,Guayabal,2.5151997,40,No,Permanente,No recuerda,2014,S√≠,2014,,,51,1,Motor,40,Minutos
+45,H1565,2,11,AGUACATE,LA COLUMNA 1,Azua,Guayabal,4.7159996,75,No,Permanente,Agosto,2014,S√≠,2014,,,72,0,Motor,30,Minutos
+45,H1565,2,11,CAF√â,LA COLUMNA 1,Azua,Guayabal,4.7159996,75,No,Permanente,Septiembre,2010,S√≠,2010,,,72,0,Motor,30,Minutos
+45,H1565,2,12,GUANDUL,LA COLUMNA 2,Azua,Guayabal,5.0303993,80,No,Temporero,Abril,2019,No,2019,Diciembre,2019,72,0,Motor,30,Minutos
+45,H1565,2,12,CAF√â,LA COLUMNA 2,Azua,Guayabal,5.0303993,80,No,Permanente,Mayo,2004,No,2004,,,72,0,Motor,30,Minutos
+521,H1583,2,11,AGUACATE,LOS HIGOS,Azua,Las Yayas de Viajama,5.0303993,80,No,Permanente,Octubre,2018,No,2018,,,50,0,AutÛmovil,40,Minutos
+521,H1583,2,11,GUANDUL,LOS HIGOS,Azua,Las Yayas de Viajama,5.0303993,80,No,Temporero,Abril,2019,No,1989,Diciembre,2019,50,0,AutÛmovil,40,Minutos
+39,H1617,2,11,CAF√â,BOQUERON 1,Azua,Las Yayas de Viajama,8.8031988,140,No,Permanente,Mayo,2014,No,2014,,,65,0,Motor,32,Minutos
+170,H1622,2,11,AGUACATE,LOS QUEMADOS,Azua,Padre Las Casas,6.2879992,100,No,Permanente,Octubre,2018,No,2017,,,71,1,Motor,25,Minutos
+170,H1622,2,11,LIMON,LOS QUEMADOS,Azua,Padre Las Casas,6.2879992,100,No,Permanente,Junio,2015,No,2015,,,71,1,Motor,25,Minutos
+185,H1624,2,11,AUYAMA,LA GAJO,Azua,Padre Las Casas,3.1439996,50,No,Temporero,Abril,2019,S√≠,2019,Agosto,2019,76,0,Motor,30,Minutos
+185,H1624,2,11,AGUACATE,LA GAJO,Azua,Padre Las Casas,3.1439996,50,No,Permanente,Abril,2004,S√≠,2004,,,76,0,Motor,30,Minutos
+185,H1624,2,11,GUANDUL,LA GAJO,Azua,Padre Las Casas,3.1439996,50,No,Temporero,Abril,2019,S√≠,2005,Noviembre,2019,76,0,Motor,30,Minutos
+185,H1624,2,11,LIMON,LA GAJO,Azua,Padre Las Casas,3.1439996,50,No,Permanente,Mayo,2018,S√≠,2018,,,76,0,Motor,30,Minutos
+169,H1629,2,11,LIMON,LOS COCUCES,Azua,Padre Las Casas,40.306076,641,No,Permanente,Marzo,2011,No,2011,,,80,0,AutÛmovil,40,Minutos
+169,H1629,2,11,PASTO,LOS COCUCES,Azua,Padre Las Casas,40.306076,641,No,Permanente,Mayo,1975,No,1975,,,80,0,AutÛmovil,40,Minutos
+177,H1638,2,11,LIMON,HORQUETA,Azua,Padre Las Casas,18.863998,300,No,Permanente,Septiembre,2015,S√≠,2015,,,85,0,AutÛmovil,15,Minutos
+177,H1638,2,11,AGUACATE,HORQUETA,Azua,Padre Las Casas,18.863998,300,No,Permanente,Abril,2014,S√≠,2014,,,85,0,AutÛmovil,15,Minutos
+177,H1638,2,11,PASTO,HORQUETA,Azua,Padre Las Casas,18.863998,300,No,Permanente,No recuerda,2005,No,9999,,,85,0,AutÛmovil,15,Minutos
+177,H1638,2,11,HABICHUELA ROJA,HORQUETA,Azua,Padre Las Casas,18.863998,300,No,Temporero,Abril,2019,No,2005,Julio,2019,85,0,AutÛmovil,15,Minutos
+173,H1647,2,11,AGUACATE,ARROYO YAYA,Azua,Padre Las Casas,3.2697597,52,No,Permanente,Octubre,2011,No,2011,,,61,0,Motor,15,Minutos
+173,H1647,2,11,LIMON,ARROYO YAYA,Azua,Padre Las Casas,3.2697597,52,No,Permanente,Junio,2012,No,2010,,,61,0,Motor,15,Minutos
+173,H1647,2,12,LIMON,EL REGUJO,Azua,Padre Las Casas,0.88031989,14,No,Permanente,Junio,2010,No,2010,,,61,0,Motor,15,Minutos
+179,H1652,2,11,CAF√â,LOS JIBERO,Azua,Padre Las Casas,1.2575998,20,No,Permanente,Abril,2015,No,1989,,,71,0,Transporte p˙blico,20,Minutos
+179,H1652,2,12,AGUACATE,RAPADURA,Azua,Padre Las Casas,0.94319987,15,No,Permanente,Mayo,2004,S√≠,2005,,,71,0,Transporte p˙blico,15,Minutos
+179,H1652,2,12,CAF√â,RAPADURA,Azua,Padre Las Casas,0.94319987,15,No,Permanente,Abril,1989,S√≠,1989,,,71,0,Transporte p˙blico,15,Minutos
+88,H1659,2,11,LIMON,LOS JOBERO,Azua,Padre Las Casas,3.1439996,50,No,Permanente,Abril,2019,No,2019,,,60,0,Transporte p˙blico,15,Minutos
+88,H1659,2,11,CAF√â,LOS JOBERO,Azua,Padre Las Casas,3.1439996,50,No,Permanente,Abril,2010,No,2010,,,60,0,Transporte p˙blico,15,Minutos
+89,H1668,2,11,AGUACATE,LA MONTE ALTA,Azua,Padre Las Casas,2.5151997,40,No,Permanente,Abril,1997,No,1997,,,49,0,Motor,5,Minutos
+89,H1668,2,11,CAF√â,LA MONTE ALTA,Azua,Padre Las Casas,2.5151997,40,No,Permanente,Abril,2017,No,1987,,,49,0,Motor,5,Minutos
+89,H1668,2,12,CAF√â,CERRO DE VENTURA,Azua,Padre Las Casas,2.5151997,40,No,Permanente,Abril,2010,No,1987,,,49,0,Animal,30,Minutos
+89,H1668,2,12,AGUACATE,CERRO DE VENTURA,Azua,Padre Las Casas,2.5151997,40,No,Permanente,Marzo,2006,No,1997,,,49,0,Animal,30,Minutos
+183,H1672,2,11,PASTO,JORQUERA,Azua,Padre Las Casas,5.0303993,80,No,Permanente,Junio,1987,No,1987,,,63,0,Motor,10,Minutos
+183,H1672,2,11,MAIZ GRANO/MAZORCA,JORQUERA,Azua,Padre Las Casas,5.0303993,80,No,Temporero,Abril,2019,S√≠,2019,Julio,2019,63,0,Motor,10,Minutos
+183,H1672,2,11,LIMON,JORQUERA,Azua,Padre Las Casas,5.0303993,80,No,Permanente,Mayo,2018,No,2014,,,63,0,Motor,10,Minutos
+183,H1672,2,11,GUANDUL,JORQUERA,Azua,Padre Las Casas,5.0303993,80,No,Temporero,Marzo,2019,S√≠,2019,Noviembre,2019,63,0,Motor,10,Minutos
+174,H1677,2,11,,LA MESETA,Azua,Padre Las Casas,3.1439996,50,SÌ,,,,,,,,42,0,Motor,20,Minutos
+182,H1678,2,11,AGUACATE,FINCA LOS PATIO,Azua,Padre Las Casas,15.468478,246,No,Permanente,Abril,2002,S√≠,2002,,,70,0,AutÛmovil,1,Horas
+182,H1678,2,11,PASTO,FINCA LOS PATIO,Azua,Padre Las Casas,15.468478,246,No,Permanente,No recuerda,1996,No,1996,,,70,0,AutÛmovil,1,Horas
+182,H1678,2,11,CAF√â,FINCA LOS PATIO,Azua,Padre Las Casas,15.468478,246,No,Permanente,Marzo,1996,S√≠,1996,,,70,0,AutÛmovil,1,Horas
+180,H1680,2,11,AGUACATE,LOS PALMARITOS,Azua,Padre Las Casas,1.5719998,25,No,Permanente,Abril,2012,S√≠,2012,,,66,0,Motor,30,Minutos
+180,H1680,2,11,CAF√â,LOS PALMARITOS,Azua,Padre Las Casas,1.5719998,25,No,Permanente,Abril,2015,S√≠,2015,,,66,0,Motor,30,Minutos
+520,H1681,2,11,LIMON,LA ARENA,Azua,Padre Las Casas,0.37727994,6,No,Permanente,Agosto,2015,No,2015,,,52,0,Motor,20,Minutos
+90,H1683,2,11,LIMON,FINCA PALERO,Azua,Padre Las Casas,12.575998,200,No,Permanente,Abril,2016,No,2016,,,52,0,AutÛmovil,5,Minutos
+90,H1683,2,11,AGUACATE,FINCA PALERO,Azua,Padre Las Casas,12.575998,200,No,Permanente,Abril,2016,No,2016,,,52,0,AutÛmovil,5,Minutos
+524,H1695,2,11,LIMON,MONTE HAITA,Azua,Padre Las Casas,1.8863997,30,No,Permanente,Abril,2017,No,2017,,,33,0,Motor,30,Minutos
+524,H1695,2,11,AGUACATE,MONTE HAITA,Azua,Padre Las Casas,1.8863997,30,No,Permanente,Mayo,2016,No,2016,,,33,0,Motor,30,Minutos
+930,H1704,2,11,AGUACATE,EL PINAL,Azua,Peralta,1.8863997,30,No,Permanente,Octubre,2019,S√≠,2019,,,51,0,Motor,1,Horas
+930,H1704,2,11,HABICHUELA NEGRA,EL PINAL,Azua,Peralta,1.8863997,30,No,Temporero,Abril,2019,S√≠,1991,Diciembre,2019,51,0,Motor,1,Horas
+930,H1704,2,11,GUANDUL,EL PINAL,Azua,Peralta,1.8863997,30,No,Temporero,Abril,2019,S√≠,1991,Diciembre,2019,51,0,Motor,1,Horas
+930,H1704,2,11,CAF√â,EL PINAL,Azua,Peralta,1.8863997,30,No,Permanente,No recuerda,2019,S√≠,2019,,,51,0,Motor,1,Horas
+929,H1712,2,11,LIMON,LAS LAGUNAS,Azua,Peralta,4.4015994,70,No,Permanente,Agosto,2019,No,2019,,,47,0,CamiÛn / camioneta,30,Minutos
+929,H1712,2,12,AGUACATE,EL CHAMPAN,Azua,Peralta,6.2879992,100,No,Permanente,No recuerda,2017,No,2004,,,47,0,CamiÛn / camioneta,35,Minutos
+929,H1712,2,12,CAF√â,EL CHAMPAN,Azua,Peralta,6.2879992,100,No,Permanente,Octubre,2018,No,1984,,,47,0,CamiÛn / camioneta,35,Minutos
+917,H1713,2,11,HABICHUELA ROJA,LA VEREDA,Azua,Peralta,1.8863997,30,No,Temporero,Marzo,2019,No,2004,Junio,2019,53,0,AutÛmovil,30,Minutos
+1153,H1758,2,11,GUANDUL,HIGUERITO,Azua,Azua,2.5151997,40,No,Temporero,Febrero,2019,No,2019,Agosto,2019,49,0,Motor,30,Minutos
+934,H1817,2,11,CAF√â,GUAYUYAR 1,Azua,Las Charcas,3.4583995,55,No,Permanente,Febrero,2017,No,1979,,,50,0,Motor,1,Horas
+1027,H1972,2,11,PL√ÅTANO,GUAZUMAL,ElÌas PiÒa,Comendador,1.8863997,30,No,Permanente,Diciembre,2019,No,2019,,,55,0,Transporte p˙blico,10,Minutos
+1027,H1972,2,12,MAIZ GRANO/MAZORCA,CAIME,ElÌas PiÒa,Comendador,10.060799,160,No,Temporero,Agosto,2019,S√≠,2003,Diciembre,2019,55,0,Transporte p˙blico,10,Minutos
+1027,H1972,2,12,MANI,CAIME,ElÌas PiÒa,Comendador,10.060799,160,No,Temporero,Agosto,2019,S√≠,2003,Diciembre,2019,55,0,Transporte p˙blico,10,Minutos
+387,H1973,2,11,GUANDUL,LOS VOTAOS,ElÌas PiÒa,Comendador,2.5151997,40,No,Temporero,Junio,2019,No,1940,0,0,87,0,Animal,30,Minutos
+387,H1973,2,11,YUCA,LOS VOTAOS,ElÌas PiÒa,Comendador,2.5151997,40,No,Temporero,Marzo,2019,No,1940,0,0,87,0,Animal,30,Minutos
+387,H1973,2,12,YUCA,EL PINO,ElÌas PiÒa,Comendador,1.8863997,30,No,Temporero,Marzo,2019,No,1940,0,0,87,0,Animal,30,Minutos
+387,H1973,2,12,GUANDUL,EL PINO,ElÌas PiÒa,Comendador,1.8863997,30,No,Temporero,Junio,2019,No,1940,Diciembre,2019,87,0,Animal,30,Minutos
+394,H1978,2,11,,RABO DURO,ElÌas PiÒa,Comendador,1.8863997,30,SÌ,,,,,,,,34,0,Motor,10,Minutos
+1029,H1984,2,11,AJ√ç,RABO DURO,ElÌas PiÒa,Comendador,1.8863997,30,No,Temporero,Agosto,2019,No,2014,Diciembre,2019,32,0,A pie,10,Minutos
+351,H1998,2,11,MAIZ GRANO/MAZORCA,LA RANCHO,ElÌas PiÒa,Hondo Valle,1.2575998,20,No,Temporero,Agosto,2019,S√≠,1980,Noviembre,2019,74,0,A pie,10,Minutos
+351,H1998,2,11,GUANDUL,LA RANCHO,ElÌas PiÒa,Hondo Valle,1.2575998,20,No,Temporero,Agosto,2019,S√≠,1985,0,0,74,0,A pie,10,Minutos
+351,H1998,2,12,MAIZ GRANO/MAZORCA,GAJO MO—O,ElÌas PiÒa,Hondo Valle,5.0303993,80,No,Temporero,Agosto,2019,S√≠,1990,Noviembre,2019,74,0,Animal,1,Horas
+351,H1998,2,12,GUANDUL,GAJO MO—O,ElÌas PiÒa,Hondo Valle,5.0303993,80,No,Temporero,Agosto,2019,S√≠,1990,0,0,74,0,Animal,1,Horas
+352,H2009,2,11,GUANDUL,LAS NARANJAS,ElÌas PiÒa,Hondo Valle,1.5719998,25,No,Temporero,Marzo,2019,S√≠,1970,Diciembre,2019,68,0,Animal,2,Horas
+352,H2009,2,11,MAIZ GRANO/MAZORCA,LAS NARANJAS,ElÌas PiÒa,Hondo Valle,1.5719998,25,No,Temporero,Marzo,2019,S√≠,1970,Noviembre,2019,68,0,Animal,2,Horas
+352,H2009,2,12,CAF√â,LA MESETA,ElÌas PiÒa,Hondo Valle,2.5151997,40,No,Permanente,No recuerda,1970,No,1970,,,68,0,Animal,30,Minutos
+641,H2020,2,11,,MATAYAYA,San Juan,BohechÌo,1.8863997,30,SÌ,,,,,,,,84,0,Animal,30,Minutos
+1034,H2021,2,11,TABACO,ESTRELLITA,San Juan,Las Matas de Farf·n,25.151997,400,No,Temporero,Octubre,2019,No,2019,,,62,0,AutÛmovil,25,Minutos
+1034,H2021,2,11,PASTO,ESTRELLITA,San Juan,Las Matas de Farf·n,25.151997,400,No,Permanente,No recuerda,1974,No,1974,,,62,0,AutÛmovil,25,Minutos
+640,H2022,2,11,GUANDUL,LA CERRITA 1,San Juan,Las Matas de Farf·n,1.5719998,25,No,Temporero,Agosto,2019,S√≠,1995,0,0,49,0,Motor,20,Minutos
+640,H2022,2,11,MAIZ GRANO/MAZORCA,LA CERRITA 1,San Juan,Las Matas de Farf·n,1.5719998,25,No,Temporero,Agosto,2019,S√≠,1995,Diciembre,2019,49,0,Motor,20,Minutos
+640,H2022,2,12,GUANDUL,LA CERRITA 2,San Juan,Las Matas de Farf·n,1.1318399,18,No,Temporero,Agosto,2019,S√≠,2000,0,0,49,0,Motor,20,Minutos
+640,H2022,2,12,MAIZ GRANO/MAZORCA,LA CERRITA 2,San Juan,Las Matas de Farf·n,1.1318399,18,No,Temporero,Agosto,2019,S√≠,2000,Diciembre,2019,49,0,Motor,20,Minutos
+378,H2023,2,11,PASTO,EL HOYO,San Juan,Las Matas de Farf·n,31.439997,500,No,Permanente,Agosto,2019,No,2018,,,64,0,A pie,10,Minutos
+378,H2023,2,11,PASTO,EL HOYO,San Juan,Las Matas de Farf·n,31.439997,500,No,Permanente,Agosto,2019,No,2018,,,64,0,A pie,10,Minutos
+378,H2023,2,11,PASTO,EL HOYO,San Juan,Las Matas de Farf·n,31.439997,500,No,Permanente,No recuerda,1980,No,1980,,,64,0,A pie,10,Minutos
+376,H2024,2,11,MAIZ GRANO/MAZORCA,CUMBEO,San Juan,Las Matas de Farf·n,3.1439996,50,No,Temporero,Diciembre,2019,No,1980,,,60,0,AutÛmovil,5,Minutos
+376,H2024,2,11,PASTO,CUMBEO,San Juan,Las Matas de Farf·n,3.1439996,50,No,Permanente,No recuerda,2008,No,2008,,,60,0,AutÛmovil,5,Minutos
+376,H2024,2,12,PASTO,RINCON,San Juan,Las Matas de Farf·n,5.6591992,90,No,Permanente,No recuerda,2005,No,2005,,,60,0,AutÛmovil,15,Minutos
+374,H2025,2,11,PASTO,EL BATEY,San Juan,Las Matas de Farf·n,3.1439996,50,No,Permanente,No recuerda,1980,No,1980,,,55,0,AutÛmovil,30,Minutos
+374,H2025,2,12,GUANDUL,BARRERO 1,San Juan,Las Matas de Farf·n,0.31439996,5,No,Temporero,Agosto,2019,S√≠,2019,0,0,55,0,AutÛmovil,30,Minutos
+374,H2025,2,12,MAIZ GRANO/MAZORCA,BARRERO 1,San Juan,Las Matas de Farf·n,0.31439996,5,No,Temporero,Agosto,2015,S√≠,2015,Noviembre,2019,55,0,AutÛmovil,30,Minutos
+381,H2030,2,11,,LA 11,ElÌas PiÒa,Comendador,1.8863997,30,SÌ,,,,,,,,29,0,Motor,20,Minutos
+391,H2031,2,11,,MEDULINA,ElÌas PiÒa,El Llano,1.2575998,20,SÌ,,,,,,,,48,1,Motor,10,Minutos
+257,H2086,2,11,AGUACATE,EL COCO,San Juan,San Juan,2.1379197,34,No,Permanente,No recuerda,2015,No,2015,,,65,0,Motor,25,Minutos
+258,H2102,2,11,ARROZ,LA MIGAJA I,San Juan,Juan de Herrera,1.3204799,21,No,Temporero,Junio,2019,No,2019,Octubre,2019,66,0,Motor,10,Minutos
+258,H2102,2,11,MAIZ VERDE,LA MIGAJA I,San Juan,Juan de Herrera,1.3204799,21,No,Temporero,Septiembre,2019,No,2019,Noviembre,2019,66,0,Motor,10,Minutos
+377,H2116,2,11,MAIZ GRANO/MAZORCA,LA PIEDRA,San Juan,Las Matas de Farf·n,6.4766393,103,No,Temporero,Febrero,2019,No,1980,,,62,0,AutÛmovil,10,Minutos
+1004,H2132,2,11,PASTO,LA 11,San Juan,Las Matas de Farf·n,12.575998,200,No,Permanente,Febrero,2019,No,2019,,,80,0,AutÛmovil,3.5,Horas
+1033,H2136,2,11,CEBOLLA,PALO AMARGO 1,San Juan,Las Matas de Farf·n,6.6652789,106,No,Temporero,Enero,2019,No,2012,Abril,2019,44,0,Transporte p˙blico,20,Minutos
+372,H2138,2,11,HABICHUELA ROJA,NAJONAL,San Juan,Las Matas de Farf·n,2.2007997,35,No,Temporero,Noviembre,2019,No,2000,,,40,0,Motor,10,Minutos
+1053,H2150,2,11,HABICHUELA NEGRA,EL PAPAYO,San Juan,Vallejuelo,2.0121598,32,No,Temporero,Septiembre,2019,No,2003,Diciembre,2019,57,0,Motor,30,Minutos
+1039,H2159,2,11,,SABANA GRANDE,San Juan,Vallejuelo,2.2007997,35,SÌ,,,,,,,,27,0,Motor,15,Minutos
+1070,H2199,2,11,AJ√ç,LA VEREDA,San Juan,Vallejuelo,3.1439996,50,No,Temporero,Septiembre,2019,No,1998,Enero,2020,37,0,Motor,10,Minutos
+1070,H2199,2,11,MAIZ GRANO/MAZORCA,LA VEREDA,San Juan,Vallejuelo,3.1439996,50,No,Temporero,Marzo,2019,No,1998,Julio,2019,37,0,Motor,10,Minutos
+1037,H2200,2,11,HABICHUELA NEGRA,OTRO LADO,San Juan,Vallejuelo,1.5719998,25,No,Temporero,Septiembre,2019,No,2006,Diciembre,2019,28,0,Motor,25,Minutos
+1040,H2203,2,11,MAIZ GRANO/MAZORCA,EL OTRO LADO,San Juan,Vallejuelo,1.5719998,25,No,Temporero,Abril,2019,No,1990,Agosto,2019,82,0,A pie,30,Minutos
+1040,H2203,2,11,CEBOLLA,EL OTRO LADO,San Juan,Vallejuelo,1.5719998,25,No,Temporero,Enero,2019,No,1990,Marzo,2019,82,0,A pie,30,Minutos
+1040,H2203,2,11,HABICHUELA NEGRA,EL OTRO LADO,San Juan,Vallejuelo,1.5719998,25,No,Temporero,Septiembre,2019,No,1990,Diciembre,2019,82,0,A pie,30,Minutos
+1041,H2204,2,11,YUCA,AGUA DE LA PALMA,San Juan,Vallejuelo,2.2007997,35,No,Temporero,Enero,2019,No,1999,Noviembre,2019,61,0,Motor,20,Minutos
+1067,H2206,2,11,MAIZ GRANO/MAZORCA,SABANA GRANDE,San Juan,Vallejuelo,2.5151997,40,No,Temporero,Marzo,2019,No,1990,Julio,2019,63,0,Motor,10,Minutos
+1067,H2206,2,11,HABICHUELA NEGRA,SABANA GRANDE,San Juan,Vallejuelo,2.5151997,40,No,Temporero,Septiembre,2019,No,1990,Diciembre,2019,63,0,Motor,10,Minutos
+1066,H2208,2,11,MAIZ GRANO/MAZORCA,LOS PINOS,San Juan,Vallejuelo,5.3447995,85,No,Temporero,Marzo,2019,No,2003,Julio,2019,50,0,A pie,45,Minutos
+1066,H2208,2,11,HABICHUELA NEGRA,LOS PINOS,San Juan,Vallejuelo,5.3447995,85,No,Temporero,Septiembre,2019,No,2003,Diciembre,2019,50,0,A pie,45,Minutos
+1071,H2209,2,11,TOMATE INDUSTRIAL,OTRO LADO,San Juan,Vallejuelo,4.0871997,65,No,Temporero,Enero,2019,No,2009,Abril,2019,63,0,A pie,15,Minutos
+1071,H2209,2,11,HABICHUELA NEGRA,OTRO LADO,San Juan,Vallejuelo,4.0871997,65,No,Temporero,Septiembre,2019,No,2005,Diciembre,2019,63,0,A pie,15,Minutos
+1046,H2210,2,11,CEBOLLA,SABANA GRANDE,San Juan,Vallejuelo,2.8924797,46,No,Temporero,Diciembre,2019,No,1970,0,0,45,1,Motor,20,Minutos
+1046,H2210,2,11,APIO,SABANA GRANDE,San Juan,Vallejuelo,2.8924797,46,No,Temporero,Marzo,2019,No,2018,Junio,2019,45,1,Motor,20,Minutos
+1046,H2210,2,11,CILANTRO VERDE,SABANA GRANDE,San Juan,Vallejuelo,2.8924797,46,No,Temporero,Septiembre,2019,No,1970,Noviembre,2019,45,1,Motor,20,Minutos
+1056,H2212,2,11,HABICHUELA NEGRA,EL OTRO LADO,San Juan,Vallejuelo,1.5091197,24,No,Temporero,Septiembre,2019,No,1997,Diciembre,2019,61,0,A pie,20,Minutos
+1056,H2212,2,11,MAIZ GRANO/MAZORCA,EL OTRO LADO,San Juan,Vallejuelo,1.5091197,24,No,Temporero,Marzo,2019,No,1997,Junio,2019,61,0,A pie,20,Minutos
+1054,H2213,2,11,MAIZ GRANO/MAZORCA,SABANA GRANDE,San Juan,Vallejuelo,2.0121598,32,No,Temporero,Marzo,2019,No,1970,Julio,2019,41,0,Motor,15,Minutos
+1054,H2213,2,11,HABICHUELA NEGRA,SABANA GRANDE,San Juan,Vallejuelo,2.0121598,32,No,Temporero,Septiembre,2019,No,1970,Diciembre,2019,41,0,Motor,15,Minutos
+1049,H2214,2,11,HABICHUELA ROJA,LA VEREDA,San Juan,Vallejuelo,2.2007997,35,No,Temporero,Septiembre,2019,No,1990,Diciembre,2019,40,0,Motor,15,Minutos
