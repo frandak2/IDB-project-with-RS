@@ -1,0 +1,378 @@
+cuest_id_b,parcela,cultivo,temporary_,superf_par,Y,X,patca,correccion,corregido,corregido2,area
+"3863","11",tabaco,"1",4.275839299999999,18.892192000000001,-71.707841999999999,"1",centrar,"se movió hacia arriba y la izquierda, la zona de influencia contiene árboles","ok, revisar tipo cultivo",15123.502
+"3865","12",yuca,"1",1.886399700000000,18.709612000000000,-71.683933999999979,"1",ok,ok,ok,15123.949
+"3960","11",sandia,"1",1.886399700000000,18.398572000000001,-70.828074000000001,"0",Revisar área,se movió hacía la derecha,ok,11223.063
+"4078","11",tayota,"0",3.772799500000000,18.746476000000001,-70.890227999999979,"1",ok,ok,ok,8284.331
+"4114","11",tomate industrial,"1",3.898559600000000,18.431298000000002,-70.845022000000000,"0",ok,ok,"ok, revisar tipo cultivo",15139.726
+"3718","11",cero,"0",1.257599800000000,18.424548999999999,-71.781820999999979,"0",revisar área,ok,ok,15121.632
+"3720","11",habichuela negra,"1",2.200799700000000,18.317826999999998,-71.593568000000005,"0",mover hacia arriba,ok,ok,15125.844
+"3722","11",habichuela negra,"1",2.515199700000000,18.346993999999999,-71.568029000000010,"0",revisar área,"ok, revisar tipo",ok,15126.389
+"3723","11",habichuela negra,"1",2.263679700000000,18.347488000000002,-71.569350999999997,"0",revisar área,"ok, revisar tipo",ok,15126.342
+"3726","11",limon,"0",20.121597000000001,18.692118000000001,-70.988297000000003,"1",revisar el tipo de cultivo y el área,ok,ok,14688.362
+"3727","12",maiz grano/mazorca,"1",9.117598500000000,18.633327999999999,-70.754193999999998,"0",mover hacia el centro del cultivo y revisar área,Se movió hacia arriba y derecha,ok,15141.133
+"3727","11",maiz grano/mazorca,"1",1.509119700000000,18.627679999999998,-70.759645000000020,"0",mover hacia el centro del cultivo,Se movió hacia la derecha,ok,15141.068
+"3728","11",maiz grano/mazorca,"1",1.886399700000000,18.773367999999998,-70.891993999999997,"1",mover hacia el centro del cultivo,ok,ok,15139.016
+"3755","11",maiz grano/mazorca,"1",1.257599800000000,18.425169000000000,-71.775469999999999,"0",revisar área,ok,ok,15121.785
+"3767","11",maiz grano/mazorca,"1",1.257599800000000,18.426375000000000,-71.781766000000005,"0",mover hacia el centro del cultivo y revisar área,Se movió hacia la izquierda,ok,15121.601
+"3768","11",cero,"0",0.628799920000000,18.430436000000000,-71.769336999999979,"0",revisar área,ok,ok,15121.889
+"3776","11",maiz grano/mazorca,"1",3.143999600000000,18.799050000000001,-71.073383999999990,"1",revisar área y mover al centro,Se movió hacia arriba,"ok, árboles",15136.051
+"3781","11",cero,"0",3.772799500000000,18.728467000000002,-70.946361999999979,"0",mover hacia el centro del cultivo,Se movió hacia abajo y derecha,ok,76536.629
+"3782","12",cero,"0",7.859999200000000,18.746345999999999,-70.914641000000003,"1",revisar área,ok,ok,15138.680
+"3787","11",limon,"0",11.632797999999999,18.733992999999998,-70.910390000000021,"1",mover hacia el centro del cultivo y revisar área,Se movió hacia la derecha,ok,14718.448
+"3789","11",cero,"0",2.200799700000000,18.725345999999998,-70.892527000000001,"1",revisar área,Se movió hacia arriba,ok,15139.033
+"3790","11",limon,"0",12.575998000000000,18.713262000000000,-70.942096000000021,"1",mover hacia el centro del cultivo y revisar área,Se movió hacia la izquierda,ok,15138.248
+"3792","11",cero,"0",1.634879800000000,18.505151000000001,-70.587416000000005,"1",revisar área,ok,ok,15143.426
+"3807","11",cero,"0",1.257599800000000,18.452732999999998,-70.643343000000002,"0",mover hacia el centro del cultivo y la zona de influencia contiene edificaciones,"Se movió hacia abajo, sin edificaciones",ok,15142.690
+"3832","11",pasto,"0",3.143999600000000,18.882355000000000,-71.260454999999979,"1",mover hacia el cenro del cultivo,Se movió hacia abajo,ok,30857.872
+"3837","11",pasto,"0",0.943199870000000,18.775981999999999,-71.549012000000005,"1",revisar tipo de cultivo,revisar tipo de cultivo,ok,15126.926
+"3846","11",pasto,"0",6.476639300000000,18.924434999999999,-71.518041999999980,"0",revisar área,"Se movió hacia arriba, la zona de influencia contiene arboles","ok, revisar tipo cultivo",15127.612
+"3850","11",pasto,"0",2.829599600000000,18.945385999999999,-71.262174000000002,"1",mover hacia el centro del cultivo,Se movió hacia abajo,ok,14305.811
+"3861","11",cero,"0",6.036479000000000,18.888173000000002,-71.710383999999991,"1",mover mas hacia el centro del cultivo,Se movió hacia abajo,"ok, árboles",6838.812
+"3865","11",pasto,"0",1.571999800000000,18.877540000000000,-71.680492000000001,"1","el punto esta sobre la vía, mover hacia la izquierda",Se movió hacia la izquierda,"ok, arbustos",8558.239
+"3870","11",habichuela roja,"1",1.886399700000000,18.819372000000001,-71.150986000000003,"0","Punto sobre árbol, mover hacia abajo",Se movió hacia abjo y a la izquierda,ok,11032.507
+"3874","11",habichuela negra,"1",1.886399700000000,18.666923000000001,-71.352907999999999,"1",mover hacia el centro del cultivo,Se movió hacia la derecha y arriba,ok,14318.944
+"3880","11",habichuela roja,"1",3.772799500000000,18.764958000000000,-71.563824999999980,"0",mover hacia el centro del cultivo y revisar área,Se movió hacia arriba,ok,18033.060
+"3888","11",cero,"0",0.817439910000000,18.678474999999999,-71.341936000000004,"1",revisar área,ok,"ok, árboles",15131.107
+"3889","11",habichuela roja,"1",1.886399700000000,18.886785999999997,-71.256215999999981,"0",mover hacia el centro del cultivo y revisar área,"ok, no se movió hacia al centro para que no afecte la zona de influencia",ok,8553.927
+"3893","11",habichuela roja,"1",1.886399700000000,18.798548999999998,-71.123672999999997,"1",mover al centro del cultivo y revisar área,Se movió hacia la derecha,ok,19361.014
+"3894","11",habichuela roja,"1",1.886399700000000,18.771107999999998,-71.561762000000002,"1",revisar área,ok,ok,15126.636
+"3895","11",habichuela roja,"1",1.257599800000000,18.823267000000001,-71.151100999999997,"1",mover hacia el centro del cultivo y revisar el tipo de cultivo,Se movió hacia la derecha,"ok, árboles",15134.740
+"3900","11",habichuela roja,"1",0.754559870000000,18.820520000000002,-71.153289999999998,"1",mover hacia el centro del cultivo,Se movió hacia la derecha y abajo,ok,7157.217
+"3901","11",habichuela roja,"1",0.943199870000000,18.822064000000001,-71.152366000000001,"1",mover hacia el centro del cultivo,Se movió hacia arriba e izquierda,ok,16985.909
+"3903","11",habichuela roja,"1",1.886399700000000,18.802133999999999,-71.123457999999999,"1",ok,ok,ok,15135.205
+"3909","11",limon,"0",5.030399299999999,18.533345999999998,-70.805847999999997,"0",mover hacia el centro del cultivo y revisar área,ok,ok,16753.408
+"3918","11",guandul,"1",6.287999200000000,18.903489999999998,-70.861008999999996,"0",revisar área,ok,ok,14889.228
+"3920","11",guandul,"1",2.829599600000000,18.482028000000000,-70.688896999999997,"1",revisar área y tipo de cultivo,ok,"ok, revisar tipo cultivo",15142.042
+"3922","11",habichuela negra,"1",2.515199700000000,18.523028000000000,-70.571575999999979,"1",ok,ok,ok,13773.211
+"3923","11",guandul,"1",6.287999200000000,18.754210000000000,-70.843647000000004,"1",mover hacia el centro del cultivo,Se movió hacia la izquierda y arriba,"ok, revisar tipo cultivo",31977.388
+"3923","12",cero,"0",5.030399299999999,18.531742999999999,-70.615954000000002,"1",revisar área,Se movió hacia abajo,"ok, árboles",15143.059
+"3925","11",limon,"0",0.880319890000000,18.582070000000002,-70.947890000000001,"1",ok,ok,ok,10627.799
+"3927","21",habichuela roja,"1",0.943199870000000,18.720926000000002,-70.779257000000001,"1",revisar área,ok,ok,15140.770
+"3934","11",guandul,"1",37.727996999999995,18.663992999999998,-70.859514000000004,"1",mover hacia el centro del cultivo y revisar el área,ok,ok,16880.632
+"3940","12",cero,"0",0.754559870000000,18.704881000000000,-71.648550000000000,"0",revisar área,ok,ok,15124.757
+"3940","11",cero,"0",0.754559870000000,18.680107000000000,-71.652912000000001,"0",revisar área,ok,ok,17257.433
+"3949","11",cero,"0",0.628799920000000,18.607032999999998,-70.750887000000020,"1",revisar área,ok,"ok, árboles",15141.162
+"3952","11",cero,"0",1.886399700000000,18.681203000000000,-70.889908000000020,"1",revisar área,ok,"ok, árboles",15139.095
+"3959","11",mango,"0",1.886399700000000,18.451865999999999,-70.793210999999999,"0",mover hacia el centro del cultivo y revisar el área,Se movió hacia la derecha,ok,27611.000
+"3959","12",mango,"0",2.263679700000000,18.453374000000000,-70.807918000000001,"0",revisar área,ok,ok,35090.054
+"3962","11",limon,"0",2.200799700000000,18.460706999999999,-70.885187999999999,"0",ok,ok,ok,12023.341
+"3964","11",guineo,"0",1.886399700000000,18.411608999999999,-70.737733000000020,"0",mover hacia el centro del cultivo,ok,ok,13931.958
+"3968","11",habichuela negra,"1",3.395519500000000,18.648573000000003,-70.872808000000020,"1",revisar área,Se movió hacia la derecha,ok,15139.338
+"3968","21",cero,"0",1.571999800000000,18.344586000000000,-70.496266000000020,"1",mover hacia la izquierda,Se movió hacia la izquierda,ok,11373.098
+"3978","21",maiz grano/mazorca,"1",2.515199700000000,18.625235000000000,-70.834734999999981,"0",revisar área,ok,ok,14131.897
+"3987","11",guandul,"1",2.200799700000000,18.516534000000000,-70.677800000000005,"0",revisar área y tipo de cultivo,ok,ok,8515.407
+"3991","11",habichuela negra,"1",5.344799500000001,18.754736999999999,-70.861373999999998,"1",revisar área,ok,ok,11678.803
+"4001","11",habichuela negra,"1",3.772799500000000,18.593641000000002,-70.746795000000020,"1",revisar área y tipo de cultivo,Revisar tipo de cultivo,ok,15141.263
+"4022","11",cero,"0",0.628799920000000,18.685825000000001,-71.652823999999995,"0",revisar área,ok,ok,13310.012
+"4031","11",guandul,"1",7.231199300000000,18.875420999999999,-71.679616999999979,"1",mover hacia el centro del cultivo y revisar el área,Se movió hacia arriba,ok,14317.446
+"4034","11",mani,"1",24.774717000000003,18.907774000000000,-71.620269999999991,"1","el punto esta sobre la vía, mover hacia la derecha",Se movió hacia la derecha,ok,14427.945
+"4039","11",maiz grano/mazorca,"1",12.575998000000000,18.763881000000001,-71.152081999999979,"0",mover hacia el centro del cultivo,Se movió hacia la izquierda,ok,25970.642
+"4043","12",habichuela negra,"1",0.943199870000000,18.612487999999999,-70.726213999999999,"0",mover hacia el centro del cultivo,Se movió hacia abajo,ok,7441.236
+"4047","11",limon,"0",1.257599800000000,18.685919999999999,-71.047668000000002,"0",mover hacia el centro del cultivo y revisar área,Se movió hacia abajo,ok,10770.748
+"4058","11",habichuela blanca,"1",1.886399700000000,18.879918000000000,-71.562083000000001,"1",revisar área,ok,ok,15126.679
+"4061","12",pasto,"0",10.312319000000000,18.782872000000001,-71.316987999999981,"1",Revisar tipo de cultivo,Revisar tipo de cultivo,"ok, árboles",15131.619
+"4061","11",maiz grano/mazorca,"1",6.602399300000000,18.842133000000000,-71.541674999999998,"1",revisar área y centrar,Se movió a la derecha ya abajo,"ok, árboles",15127.163
+"4062","11",maiz grano/mazorca,"1",1.886399700000000,18.932327999999998,-71.576158000000021,"1",Mover hacia la izquierda,Se movió hacia la izquierda,ok,7622.066
+"4065","11",cero,"0",1.886399700000000,18.932323999999998,-71.567653000000021,"1",esta en la vía mover hacia arriba,Se movió hacia arriba,ok,15126.572
+"4074","11",cero,"0",1.571999800000000,18.839817000000000,-70.922792999999999,"0",revisar área,ok,ok,15138.581
+"4078","13",habichuela roja,"1",1.571999800000000,18.893726999999998,-70.852062000000004,"1",revisar área,ok,"ok, revisar tipo cultivo",15139.693
+"4084","12",limon,"0",62.879993000000006,18.712126999999999,-70.971703000000019,"0","zona de influencia contiene edificaciones, revisar área",Se movió hacia la derecha donde había cultivo,ok,13149.500
+"4088","11",guandul,"1",1.257599800000000,18.534755000000001,-70.767221000000021,"0",mover hacia el centro del cultivo y revisar área,Se movió hacia arriba,"ok, revisar tipo cultivo",15140.917
+"4111","11",habichuela blanca,"1",2.515199700000000,18.870944000000001,-71.566796999999980,"1",mover hacia el centro del cultivo y revisar área,Se movió hacia la derecha,ok,11240.828
+"4111","12",pasto,"0",1.886399700000000,18.847534000000000,-71.569125999999997,"1",revisar área,ok,ok,17316.318
+"3721","11",plátano,"0",1.886399700000000,18.429945999999997,-71.780366000000001,"0",Centrar,Se movió hacia la izquierda y abajo,ok,13767.735
+"4012","11",plátano,"0",2.515199700000000,18.536667999999999,-70.764944000000000,"1","Punto sobre sombra de árbol, revisar tipo de cultivo",Revisar tipo de cultivo,"ok, árboles",12099.392
+"3723","12",berenjena,"1",2.515199700000000,18.350104000000002,-71.567941000000005,"0",Revisar el área,"ok, revisar tipo",ok,15126.402
+"3727","14",aguacate,"0",9.872159000000000,18.467001999999997,-70.578203999999999,"0",ok,ok,ok,15143.538
+"3727","13",auyama,"1",4.087199700000000,18.634757000000000,-70.767437999999999,"0",ok,ok,ok,9974.973
+"3782","11",aguacate,"0",8.174399400000000,18.728161000000000,-70.949391000000020,"1",ok,ok,ok,21382.590
+"3783","11",cafe,"0",2.200799700000000,18.721062000000000,-70.882014999999996,"1",ok,ok,ok,13221.903
+"3783","12",auyama,"1",4.401599400000000,18.902798999999998,-70.858001999999999,"1",ok,ok,"ok, revisar tipo cultivo",15139.621
+"3867","11",cebolla,"1",1.886399700000000,18.816430000000000,-71.148405999999980,"1",ok,ok,"ok, revisar tipo cultivo",15134.761
+"3868","11",cebolla,"1",1.131839900000000,18.734852000000000,-71.126559999999998,"1",Revisar el área,ok,ok,22199.566
+"3873","11",cebolla,"1",1.257599800000000,18.824061999999998,-71.153756000000001,"1","Punto sobre arbusto, mover a la izquierda",Se movio hacia la izquierda,"ok, revisar tipo cultivo",15134.673
+"3887","11",cebolla,"1",1.257599800000000,18.667745999999998,-71.345965000000021,"0",ok,ok,ok,14381.846
+"3912","11",aguacate,"0",3.772799500000000,18.694243000000000,-70.950913000000000,"1",ok,ok,ok,8005.636
+"3927","11",aguacate,"0",1.131839900000000,18.755153000000000,-70.837807999999995,"1","Revisar área, se observa un área mayor en el cultivo a la escrita.",Se movió hacia arriba,ok,15139.913
+"3937","12",arroz,"1",1.886399700000000,18.758489000000001,-71.486891000000000,"1",Revisar el área,ok,"ok, revisar tipo cultivo",15128.202
+"3937","11",batata,"1",2.515199700000000,18.758929000000002,-71.490442000000002,"1",Revisar tipo de cultivo,Revisar tipo de cultivo,"ok, revisar tipo cultivo",15128.143
+"3950","11",aguacate,"0",1.886399700000000,18.709109999999999,-70.799987999999999,"0",ok,ok,ok,13514.587
+"3974","11",aguacate,"0",4.087199700000000,18.738645000000002,-70.928724000000003,"0","El punto se encuentra cercano a un predio, se puede mover al centro del cultivo",Se movió hacia la derecha,ok,12395.543
+"3983","11",aguacate,"0",1.886399700000000,18.734220000000001,-70.937126000000021,"1","El punto se encuentra en un arbol, muy cercano a un lago que atraviesa el cultivo",Se movió hacia la derecha en el área más ancha,ok,6170.594
+"3991","12",cafe,"0",6.287999200000000,18.606780999999998,-70.727911000000020,"1",Centrar,Se movió hacia la izquierda,ok,7044.419
+"3996","11",cafe,"0",6.287999200000000,18.612719999999999,-70.741060000000004,"1",ok,ok,ok,14269.944
+"4005","11",ají,"1",2.515199700000000,18.605342000000000,-70.729839999999996,"0",Revisar el área,ok,ok,15141.456
+"4005","12",cafe,"0",1.257599800000000,18.604680999999999,-70.728397999999999,"0",Revisar el área,ok,ok,11186.208
+"4006","11",aguacate,"0",1.257599800000000,18.607828000000001,-70.726543000000021,"1",ok,ok,ok,15141.511
+"4036","11",arroz,"1",2.829599600000000,18.887090000000001,-71.465069999999997,"0",ok,ok,ok,17467.743
+"4043","11",cafe,"0",5.030399299999999,18.615945000000000,-70.733469999999997,"0",ok,ok,ok,10010.757
+"4045","12",cafe,"0",5.030399299999999,18.752170000000000,-70.896621999999979,"1",ok,ok,ok,15138.987
+"4055","11",batata,"1",1.886399700000000,18.922563000000000,-71.611386999999979,"1","El punto se encuentra sobre la vía, mover",Se movió hacia la derecha,"ok, revisar cultivo",15125.660
+"4078","12",cafe,"0",4.401599400000000,18.746051000000001,-70.879409999999979,"1",Revisar el área,ok,"ok, revisar tipo cultivo",15139.284
+"4080","11",aguacate,"0",25.151997000000001,18.733080999999999,-70.910666000000020,"0",El punto se encuentra cercano al otro cultivo se recomienda mover el punto al centro de este,Se movió hacia el lado izquierdo,ok,15138.718
+"4084","11",arroz,"1",0.817439910000000,18.729731000000001,-70.961162999999999,"0",ok,ok,ok,21978.337
+"1150","11",yuca,"1",1.131839900000000,19.218753000000000,-70.491992000000010,"0",ok,la zona de influencia contiene edificaciones y árboles,ok,9209.002
+"1412","21",tomate ensalada,"1",1.571999800000000,19.226785000000000,-70.670205999999979,"0",ok,la zona de influenca tiene árboles,ok,7310.304
+"1414","21",tomate ensalada,"1",1.571999800000000,19.225070000000002,-70.650963000000004,"0",Revisar área,"se movió hacía la izquierda, la zona de influencia contiene árboles","ok, arbol",6394.192
+"1660","11",yuca,"1",1.886399700000000,19.352806000000001,-70.403157999999991,"0",ok,la zona de influencia contiene árboles,ok,15145.821
+"1662","11",tindora,"0",0.440159950000000,19.351541000000001,-70.428728000000021,"0",Revisar área,"se movió hacía la izquierda, la zona de influencia contiene árboles y edificaciones",ok,6606.571
+"2158","11",yuca,"1",1.257599800000000,19.674783999999999,-71.019711999999998,"0",Revisar área,la zona de influencia contiene árboles,ok,15137.164
+"2172","11",yuca,"1",3.143999600000000,19.651959999999999,-71.034998000000002,"0","Punto sobre la vía, centrar hacía la derecha","se movió hacia la derecha, la zona de influencia contiene árboles",ok,15373.805
+"2261","11",yuca,"1",25.151997000000001,19.479417999999999,-71.271045000000001,"0",Revisar área,"se movió hacia abajo, la zona de influencia contiene árboles","ok, arboles",15132.668
+"2268","11",yuca,"1",2.137919700000000,19.430139000000000,-71.437254000000010,"0","Punto sobre árbol, revisar área","se movió hacia arriba, la zona de influencia contiene árboles","ok, arboles",15129.431
+"2605","11",yuca,"1",6.287999200000000,19.493365000000001,-71.423236000000003,"0",Mover y revisar área,se movió hacia arriba y a la izquierda. la zona de influencia contiene árboles,ok,8056.441
+"2607","13",yuca,"1",14.462399000000000,19.532284000000001,-71.443745999999990,"0",ok,la zona de influencia contiene árboles,ok,27498.277
+"2612","11",yuca,"1",6.287999200000000,19.468135000000000,-71.282213999999996,"0","Punto sobre la vía, mover hacía la izquierda","se movió hacia la izquierda, la zona de influencia contiene árboles",ok,9542.783
+"2617","11",yuca,"1",4.401599400000000,19.526609000000001,-71.312922999999998,"0",Punto sobre la vía mover hacía arriba,"se movió hacia arriba, la zona de influencia contiene árboles",ok,10853.013
+"2654","11",yuca,"1",8.174399400000000,19.552858999999998,-71.392402000000004,"0",Revisar área,"se movió hacia la derecha, la zona de influencia contiene árboles",ok,17268.838
+"2702","12",yuca,"1",1.131839900000000,19.492720000000002,-71.470427999999998,"0","Punto sobre vía, mover hacía la derecha","se movió hacia la derecha, la zona de influencia contiene árboles","ok, árbol",15128.796
+"3055","11",plátano,"0",1.194719800000000,19.421964000000003,-70.635330999999979,"1",Centrar punto hacía la derecha,"se movió hacía la derecha, la zona de influencia contiene edificaciones",ok,9232.150
+"3059","21",plátano,"0",9.431999200000000,19.424403000000002,-70.609012000000021,"1","Punto sobre la vía, centrar punto hacía la derecha","se movió hacía la derecha, la zona de influencia contiene edificaciones",ok,22548.760
+"3091","11",tabaco,"1",1.257599800000000,19.577316000000000,-70.868375000000000,"0","Punto sobre la vía, mover hacía la izquiersa, revisar área","se movió hacia la derecha y abajo, la zona de influencia contiene edificaciones","ok, se movio a la derecha",7949.979
+"3101","11",yuca,"1",1.571999800000000,19.856601000000001,-71.054034000000001,"0","Punto sobre vía, mover hacía arriba","se movió hacia arriba, la zona de influencia contiene árboles",ok,18655.490
+"3106","11",yuca,"1",1.571999800000000,19.854652999999999,-71.036156000000020,"1",centrar,"mover hacia la izquierda, la zona de influencia contiene árboles",ok,13026.186
+"3115","11",tabaco,"1",2.075039600000000,19.410178999999999,-70.539612000000020,"0",revisar área,se movió a la izquierda y arriba,ok,8637.544
+"3121","21",yuca,"1",1.886399700000000,19.443720000000003,-70.522221000000002,"0",Revisar área,se movió hacia arriba,ok,23966.772
+"3127","11",yuca,"1",4.715999600000000,19.854517000000001,-71.036073000000002,"1",Centrar punto hacía la derecha,se movió hacía la derecha,ok,9715.291
+"3128","11",yuca,"1",2.200799700000000,19.855895000000000,-71.054552999999999,"0",Punto sobre la vía mover hacía abajo,"se movió hacia abajo, la zona de influencia contiene árboles",ok,24423.008
+"3183","11",yuca,"1",1.446239800000000,19.854801999999999,-71.030101999999999,"1","Punto sobre la vía, mover hacía la derecha","se movió hacia la derecha, la zona de influencia contiene árboles",ok,9776.515
+"3222","11",yuca,"1",1.320479900000000,19.534752999999998,-70.793691999999979,"1",ok,ok,ok,15140.713
+"3228","21",yuca,"1",4.087199700000000,19.416498000000001,-70.479934999999998,"0",Revisar el área,la zona de influencia contiene árboles,"ok, arboles",6859.641
+"3245","21",yuca,"1",0.628799920000000,19.430553000000000,-70.509538000000020,"0","Punto sobre la vía, mover hcía la derecha","se movió hacia la derecha, la zona de influencia contiene árboles",ok,11784.325
+"3258","12",yuca,"1",5.030399299999999,19.492004000000001,-70.580742999999998,"0",Revisar el área,la zona de influencia contiene árboles,"ok ,arboles",14267.092
+"3266","11",plátano,"0",3.206879600000000,19.390644000000002,-70.598162000000002,"1","Punto sobre la vía, mover hacía arriba","se movió hacía arriba,  la zona de influencia contiene árboles","ok, arboles",15143.364
+"3296","11",plátano,"0",0.943199870000000,19.840520999999999,-71.020904999999999,"0","Punto sobre la vía, mover hacía arriba",mover hacía arriba y a la izquierda,ok,8961.414
+"3312","11",tabaco,"1",1.886399700000000,19.812873000000000,-70.957018000000019,"1",centrar hacia el cultivo,"se movió hacia la izquierda, la zona de influencia contiene edificaciones",ok,14161.303
+"3314","11",plátano,"0",1.571999800000000,19.843330999999999,-71.033220000000000,"1","Punto sobre la copa de un árbol, mover hacía la izquierda y arriba",se movió hacía la izquierda y arriba,ok,7174.461
+"3324","11",plátano,"0",0.377279940000000,19.816217999999999,-70.992679999999979,"1","Punto sobre la vía, mover hacía abajo","se movió hacia abajo y a la izquierda, la zona de influencia contiene edificaciones","ok, edificacion",7359.460
+"3327","11",plátano,"0",5.030399299999999,19.848060999999998,-71.048096999999999,"1",Centrar hacía abajo,se movió hacia abajo y a la izquierda,ok,16173.254
+"3345","11",plátano,"0",1.886399700000000,19.384170000000001,-70.488172000000020,"0","Punto sobre copa de árbol, podría moverse hacía arriba o abajo","se movió hacia abajo, la zona de influencia contiene edificaciones",ok,11517.919
+"3350","12",plátano,"0",1.886399700000000,19.793445000000002,-71.013728999999998,"0",Revisar área y tipo de cultivo,se movió hacia abajo y a la derecha,ok,15137.304
+"3374","12",plátano,"0",0.943199870000000,19.428423000000002,-70.607866000000001,"0","Punto sobre la vía, podria moverse hacia abajo o arriba","se movió hacia abajo, la zona de influenciacontiene edificaciones","ok, arboles edificaciones",13596.860
+"3558","11",yuca,"1",1.257599800000000,18.394247000000000,-71.624122000000000,"0",Revisar el tipo de cultivo,Revisar el tipo de cultivo,ok,15125.198
+"389","11",mango,"0",1.697759700000000,18.291665999999999,-70.325005000000004,"0",mover hacia el centro del cultivo y revisar el área,Se movió hacia la izquierda,ok,15146.586
+"393","11",mango,"0",4.401599400000000,18.229545999999999,-70.459126999999995,"0",mover hacia el centro del cultivo,Se movió hacia abajo,ok,14407.398
+"466","11",cero,"0",2.483759600000000,18.218817000000001,-70.496775999999997,"0",revisar área,ok,ok,5979.754
+"544","11",mango,"0",5.596319200000000,18.404163000000000,-70.294353000000001,"0",revisar área,ok,ok,15146.958
+"568","11",mango,"0",3.584159600000000,18.219846000000000,-70.486276000000004,"0",mover hacia el centro del cultivo y revisar el área,ok,ok,15144.712
+"793","11",cero,"0",1.571999800000000,19.728776999999997,-71.601698999999996,"0",ok,ok,ok,15126.119
+"793","12",cero,"0",1.571999800000000,19.729422000000000,-71.587029000000001,"0",revisa área,ok,ok,15126.414
+"1316","11",cero,"0",1.571999800000000,18.859095999999997,-70.365789000000007,"0",revisar área,Se movió hacia la derecha,ok,15146.184
+"1324","21",cero,"0",2.200799700000000,19.116395999999998,-70.607173000000003,"0",mover hacia el centro del cultivo y revisar el área,Se movió hacia abajo,"ok, arboles",15143.256
+"2239","11",guineo,"0",20.121597000000001,19.564008999999999,-70.939190999999980,"0",mover hacia el centro del cultivo y revisar área,Se movió hacia la derecha,ok,14557.005
+"2252","11",guineo,"0",1.886399700000000,19.800418000000001,-71.579887999999997,"0",mover hacia el centro del cultivo,ok,ok,15126.588
+"2265","13",cero,"0",22.007998000000001,19.556744000000002,-71.398030000000020,"0",revisar área,Se movio hacia la izquierda y arriba,ok,14590.850
+"2265","12",cero,"0",2.263679700000000,19.548610000000000,-71.404580999999979,"0",el punto esta sobre la vía mover hacia la izquierda,Se movió hacia la izquierda,ok,17404.974
+"2515","11",cero,"0",1.194719800000000,19.619651000000001,-71.235930000000010,"0",mover hacia el centro del cultivo,Se movió hacia la derecha,ok,12362.612
+"2581","21",guineo,"0",3.143999600000000,19.565906999999999,-70.944793000000004,"0",zona de influencia contiene edificaciones,Se movió hacia abajo,ok,10270.737
+"2594","12",cero,"0",1.006079900000000,19.454463000000001,-71.326059000000001,"0",el punto esta sobre la vía mover hacia la izquierda,Se movió hacia la izquierda y hacia abajo,ok,27981.986
+"2595","11",cero,"0",6.602399300000000,19.418867000000002,-71.321254999999979,"0",mover hacia el centro del cultivo y revisar el área,Se movió hacia la derecha,ok,14433.927
+"2616","12",cero,"0",9.431999200000000,19.337489999999999,-71.484931000000003,"0",mover hacia el centro del cultivo y revisar el área,Se movió hacia la derecha,"ok, arbustos",12333.740
+"2616","11",cero,"0",3.772799500000000,19.387782999999999,-71.156177999999997,"0",revisar área,ok,"ok, arboles",15134.742
+"2627","12",cero,"0",30.182396000000001,19.509325000000000,-71.284889000000021,"0",mover hacia el centro del cultivo y revisar el área,Se movió hacia la izquierda y arriab,"ok, arboles",15132.419
+"2627","14",cero,"0",20.121597000000001,19.508157000000001,-71.285128999999998,"0",mover hacia el centro del cultivo y revisar el área,Se movió hacia la izquierda y arriba,"ok, arboles",15132.385
+"2643","11",cero,"0",3.143999600000000,19.425139000000001,-71.378454000000005,"0",mover hacia el centro del cultivo y revisar el área,Se movió haacia la derecha,"ok, arboles",15130.617
+"2647","11",maiz grano/mazorca,"1",16.348799000000000,19.458710999999997,-71.276510000000002,"0","el punto esta sobre la copa de un árbol, mover hacia el centro del cultivo y revisar el área",Se movió hacia arriba y derecha,ok,25898.298
+"2688","11",maiz grano/mazorca,"1",6.287999200000000,19.458362000000001,-71.313852999999980,"0",el punto esta sobre la vía mover hacia la izquierda,Se movió hacia la izquierda,ok,14640.046
+"2702","11",guandul,"1",1.571999800000000,19.502600000000001,-71.465767000000000,"0","punto sobre la vía, mover hacia la derecha",Se movió hacia la derecha,ok,15128.889
+"2911","11",cero,"0",0.943199870000000,19.786821000000000,-71.622346999999991,"0",mover hacia la derecha,Se movió hacia la derecha,ok,8491.215
+"2920","21",guineo,"0",1.886399700000000,19.656112000000000,-71.027330000000021,"0","el punto esta sobre un predio, mover hacia el centro del cultivo y revisar área",Se movió hacia la derecha y arriba,ok,22046.479
+"3055","12",cero,"0",0.503039960000000,19.428364999999999,-70.617024999999998,"1",mover hacia el centro del cultivo y revisar el área,Se moció hacia abajo,ok,6503.316
+"3066","11",habichuela negra,"1",1.320479900000000,19.511011000000000,-70.698916999999980,"0",mover hacia el centro del cultivo,Se movió hacia arriba,"ok, arboles revisar tipo de cultivo",10268.384
+"3071","21",chinola,"0",5.030399299999999,19.489452000000000,-70.669651999999999,"0",mover hacia el centro del cultivo y revisar el área,Se movió hacia la izquierda,ok,10272.564
+"3088","11",cero,"0",1.257599800000000,19.394107999999999,-70.557458999999980,"0","esta sobre la vía, mover hacia la derecha",Se movió hacia la derecha,ok,16524.254
+"3090","11",cero,"0",2.829599600000000,19.526313000000002,-70.804148999999995,"1",revisar área,Se movió hacia arriba,ok,10792.127
+"3104","21",cero,"0",1.571999800000000,19.830976999999997,-71.167032000000020,"1",ok,ok,ok,15134.692
+"3139","21",pasto,"0",5.973599400000000,19.842879000000000,-71.099982999999980,"1",mover hacia el centro del cultivo y revisar área,"Se movió hacia la derecha y abajo, zona de influencia contiene árboles","ok, arbustos",11589.347
+"3140","13",pasto,"0",16.034396999999998,19.603542000000001,-71.402011999999999,"1",mover hacia el centro del cultivo y revisar área,Revisar tipo de cultivo,ok,15130.212
+"3141","12",pasto,"0",31.439996999999998,19.823996999999999,-71.071625999999981,"0",mover hacia el centro del cultivo y revisar área,"Se movió hacia la izquierda y abajo, zona de influencia contiene arboles",ok,15136.313
+"3157","21",cero,"0",2.515199700000000,19.398432000000000,-70.579308999999981,"0",zona de influencia contiene edificaciones,Se movió hacia la izquierda y abajo,ok,4628.102
+"3168","11",cero,"0",4.150079300000000,19.390898999999997,-70.579750000000004,"0",ok,ok,ok,8407.634
+"3173","11",cero,"0",1.697759700000000,19.302260999999998,-70.851681999999997,"1",revisar área,Se movió hacia abajo e izquierda,"ok, arbustos",13484.030
+"3183","31",cero,"0",1.257599800000000,19.850726999999999,-71.044188000000020,"1","esta sobre la vía, mover hacia abajo",Se movió hacia abjo e izquierda,"ok, arbustos",7362.376
+"3186","11",cero,"0",1.257599800000000,19.815224000000001,-70.994213999999999,"1",posicionarlo hacia el centro del cultivo,Se movió hacia la derecha,ok,6714.314
+"3187","11",cereza,"0",0.943199870000000,19.828499999999998,-71.013699000000003,"1","el punto esta en la vía, correlo hacia la izquierda de la vía",Se movió hacia la izquieda,ok,21616.420
+"3188","11",cereza,"0",0.817439910000000,19.838600000000000,-71.024368000000010,"1","el punto esta en la vía, correlo hacia la izquierda de la vía",Se movió hacia la izquierda,ok,15137.135
+"3188","12",cereza,"0",1.131839900000000,19.837363000000000,-71.012287000000001,"1","el punto esta en la vía, correlo hacia la izquierda de la vía",Se movió hacia la izquierda,ok,9939.478
+"3188","13",chinola,"0",1.131839900000000,19.828547000000000,-71.013614000000004,"1","el punto esta sobre la vía, mover hacia abajo",Se movió hacia abajo,ok,6990.072
+"3213","21",cero,"0",1.886399700000000,19.435403000000001,-70.616108999999980,"1","esta sobre camino, revisar área y ubicación",Se movió hacia la izquierda ya abajo,ok,9906.485
+"3216","11",guineo,"0",3.772799500000000,19.380451999999998,-70.656352999999996,"1",mover hacia el centro del cultivo,Se movió hacia la derecha,"ok, revisar tipo cultivo arboles",7369.378
+"3258","11",pasto,"0",4.715999600000000,19.490292999999998,-70.582925000000003,"0",mover hacia el centro del cultivo y revisar área,Zona de influencia contiene arbustos,"ok, arboles",15143.616
+"3267","11",cero,"0",0.943199870000000,19.428438000000000,-70.634528000000003,"1","esta sobre la vía, mover hacia arriba",Se movió hacia arriba,ok,16416.597
+"3267","21",pasto,"0",0.314399960000000,19.434099000000000,-70.627699000000021,"1","el punto esta sobre la vía, mover hacia la derecha y abajo","Se movió hacia la derecha y abajo, la zona de influencia contiene árboles","ok, arboles cancha de golf",15143.026
+"3268","21",cero,"0",2.200799700000000,19.424679999999999,-70.600793999999979,"1","esta sobre la vía, revisar su área y ubicación","Se movió hacia la derecha donde había cultivo, revisar",ok,15143.402
+"3295","11",ñame,"1",2.515199700000000,19.798826999999999,-70.908377999999999,"1","el punto esta sobre la vía, mover hacia la izquierda",Se movió hacia la izquierda,ok,17462.933
+"3307","11",pasto,"0",1.257599800000000,19.802620000000001,-70.958982999999989,"1",mover hacia el centro del cultivo y zona de influencia contiene edificaciones,"Se movió hacia la derecha, zona de influencia contiene arbustos","ok, arboles",14440.093
+"3313","11",pasto,"0",1.886399700000000,19.801866000000000,-70.951335999999998,"1",mover hacia el centro del cultivo,Se movió hacia abajo,ok,28508.666
+"3332","11",pasto,"0",7.105439200000001,19.801352999999999,-70.973865000000004,"1","punto sobre edificación, mover hacia abajo","Se movió hacia abajo, la zona de influencia contiene arboles","ok, arbustos",15137.935
+"3332","12",pasto,"0",4.212959300000001,19.806517000000003,-70.976491000000010,"1",mover el punto hacia el centro del cultivo,"Se movió hacia abajo, la zona de influencia contiene arboles","ok, arbustos",15137.900
+"3332","13",pasto,"0",1.446239800000000,19.798123000000000,-70.970243999999980,"1",mover hacia el centro del cultivo y revisar área,"Se movió hacia la izquierda, la zona de influencia contiene arboles","ok, arbustos",16936.211
+"3332","14",pasto,"0",18.863998000000002,19.808329999999998,-70.967459000000019,"1",revisar tipo de cultivo y área,Se movió hacia la izquierda,ok,15138.007
+"3349","11",pasto,"0",15.719998000000000,19.800660000000001,-70.968182999999996,"1","el punto esta sobre edificación, mover hacia la izquierda",Se movió hacia la izquierda,ok,15137.999
+"3356","11",pasto,"0",2.515199700000000,19.887165000000000,-70.957801000000003,"1",revisar área,"Se movió hacia la derecha, zona de influencia contiene arboles","ok, arboles",15138.252
+"3365","11",cilantro verde,"1",0.754559870000000,19.396272000000000,-70.554837000000020,"0","punto sobre la vía, mover hacia abajo",Se movió hacia abajo,ok,4539.119
+"3424","11",cero,"0",1.886399700000000,19.798814000000000,-70.991668000000004,"1",revisar área,ok,"ok, arboles",15137.661
+"3431","12",cereza,"0",0.943199870000000,19.753254999999999,-70.821248999999980,"1","revisar tipo de cultivo, centrar",Se movió hacia la derecha y abajo,ok,6981.190
+"3443","12",pasto,"0",44.015995000000004,19.737462000000001,-70.895504000000003,"0",revisar área,"Se movió hacia la izquierda, zona de influencia contiene arboles","ok, arbustos",25165.586
+"3443","11",pasto,"0",17.606398000000002,19.732310000000002,-70.911274000000020,"0",revisar tipo de cultivo,El tipo de cultivo no corresponde,"ok, revisar tipo cultivo arboles",15138.910
+"3445","13",pasto,"0",4.212959300000001,19.816955000000000,-71.067505999999980,"0",Mover al centro del cultivo,Se movió hacia  arriba y la derecha,"ok, arboles",15136.349
+"3445","12",pasto,"0",5.470559099999999,19.806528000000000,-71.017542000000020,"0",mover hacia el centro del cultivo,"Se movió hacia arriba y la izquierda, la zona de influencia contiene árboles","ok, arbustos",13694.140
+"3448","12",pasto,"0",5.030399299999999,19.813858000000000,-71.008328000000020,"0",mover hacia el centro del cultivo,"Se movió hacia arriba y la derecha, la zona de influencia contiene árboles y arbustos","ok, arboles",15137.380
+"3448","11",pasto,"0",1.886399700000000,19.814558999999999,-71.003043999999989,"0","el punto esta sobre la vía, mover hacia arriba y  revisar el área","Se movió hacia arriba , el área de influencia contiene arbustos",ok,21751.561
+"3449","12",pasto,"0",5.030399299999999,19.819747000000000,-71.042113999999998,"1","el punto esta sobre un arbusto, mover hacia arriba",Se movió hacia arriba,ok,14627.081
+"3449","13",pasto,"0",1.760639800000000,19.819592999999998,-71.041167000000002,"1",mover hacia el centro del cultivo,"Se movió hacia la derecha, el ára de influencia contiene arbustos",ok,24315.789
+"3458","11",pasto,"0",10.752478999999999,19.396808000000000,-70.938764000000020,"1",mover hacia el centro del cultivo y revisar el área,Se movió hacia la izquierda y arriba,ok,15138.357
+"3540","11",cero,"0",1.257599800000000,18.406295000000000,-71.628936999999979,"0",revisar área,ok,ok,15125.077
+"3542","11",cero,"0",1.886399700000000,18.399213000000000,-71.617683999999997,"0",revisar área,ok,ok,15125.338
+"3554","11",cero,"0",1.697759700000000,18.486563000000000,-71.851192999999981,"0",mover hacia el centro del cultivo,Se movió hacia la derecha y abajo,"ok, arboles",6062.096
+"3557","11",cero,"0",3.143999600000000,18.395202999999999,-71.592804000000001,"0",revisar área,ok,ok,15125.870
+"3560","11",cero,"0",2.200799700000000,18.402498999999999,-71.594126000000003,"0","punto sobre la vía, mover hacia abajo",Se movió hacia abajo,"ok, arboles",18372.999
+"3566","11",guineo,"0",1.886399700000000,18.409787999999999,-71.632244000000000,"0",mover hacia el centro del cultivo,ok,ok,15125.018
+"3625","11",cero,"0",1.886399700000000,18.433420999999999,-71.776312000000004,"0",revisar área y zona de influencia contiene edificaciones,Se movio hacia arriba,"ok, arboles",15121.768
+"3627","11",cero,"0",1.571999800000000,18.435236000000000,-71.771978000000004,"0",revisar área,ok,ok,15121.851
+"3632","11",cero,"0",1.257599800000000,18.435929999999999,-71.777090999999999,"0",revisar área,ok,ok,15121.738
+"3692","11",cero,"0",1.886399700000000,18.487378000000000,-71.859054000000000,"0",revisar área,ok,"ok, arboles",15119.851
+"3694","11",cero,"0",1.571999800000000,18.490254000000000,-71.858086000000000,"0",mover hacia el centro del cultivo,ok,ok,15119.857
+"3705","11",guineo,"0",2.515199700000000,18.308657000000000,-71.418711000000002,"0",revisar área,ok,ok,15129.479
+"3709","11",pasto,"0",1.886399700000000,18.485699000000000,-71.860159999999979,"0",ok,Zona de influencia contiene arboles,ok,8074.793
+"3712","11",cero,"0",1.886399700000000,18.431411999999998,-71.772572999999980,"0",revisar área,ok,ok,15121.822
+"3713","11",cero,"0",1.509119700000000,18.429019000000000,-71.783283999999981,"0",mover hacia el centro del cultivo,Se movió hacia la derecha,ok,11471.240
+"3714","11",limon,"0",1.886399700000000,18.427899000000000,-71.768443000000005,"0",mover hacia el centro del cultivo,se movió hacia abajo,ok,16547.952
+"3715","11",cero,"0",1.886399700000000,18.427403999999999,-71.771795999999981,"0","mover hacia el centro del cultivo, la zona de influencia contiene edificaciones y revisar área",Se movió hacia la derecha y abajo,ok,15121.901
+"3719","11",maiz grano/mazorca,"1",1.886399700000000,18.433942000000002,-71.769092000000001,"0",revisar área,ok,ok,15121.923
+"3914","11",cero,"0",1.886399700000000,18.890127000000000,-70.853211999999999,"1",revisar área,"ok, se intesecta con el cultivo de aguacate",ok,7927.765
+"3915","11",habichuela roja,"1",1.886399700000000,18.889566000000002,-70.853967999999981,"0",mover hacia el centro del cultivo,El cultivo comparte el área de influencia con el culitvo de aguacate,ok,8559.196
+"276","11",pasto,"0",7.545599000000000,19.528879000000000,-71.460136000000020,"0","Punto sobre la vía, mover hacía la derecha o izquierda","Se movió hacia la izquierda, zona de influencia contiene árboles",ok,10019.219
+"515","11",plátano,"0",1.886399700000000,18.225482000000000,-70.451204000000004,"0",ok,ok,ok,24270.634
+"1108","11",plátano,"0",1.886399700000000,19.316800000000001,-70.505894999999995,"0",ok,Zona de influencia contiene edificaciones,ok,5079.264
+"1166","21",plátano,"0",2.137919700000000,19.290758000000000,-70.490651999999997,"0","Punto sobre la vía, mover hacía la izquierda",Se movió hacia la izquierda y abajo,ok,16841.737
+"1364","11",plátano,"0",2.515199700000000,18.813264999999998,-70.417193000000012,"0",Revisar tipo de cultivo,Revisar tipo de cultivo,ok,15145.594
+"1413","11",pasto,"0",5.659199200000000,19.229811999999999,-70.668640999999980,"0",ok,Zona de influencia contiene árboles,ok,18657.567
+"1544","11",plátano,"0",1.571999800000000,19.299295999999998,-70.602851000000001,"0",Revisar tipo de cultivo,Revisar tipo de cultivo,ok,5587.309
+"1657","11",plátano,"0",5.030399299999999,19.451326000000002,-70.419822999999980,"0",Revisar área,"Se movió hacia la derecha y abajo, revisar tipo de cultivo",ok,15145.632
+"2082","11",pasto,"0",1.886399700000000,19.680281000000001,-71.039759000000004,"0",ok,Zona de influencia contiene arboles,ok,22337.324
+"2153","11",pasto,"0",4.087199700000000,19.680340000000001,-71.032906999999980,"0","Punto sobre copa de árbol, mover hacía abajo","Se movió hacia abajo, zona de influencia contiene árboles","ok, arboles",15136.925
+"2154","11",pasto,"0",5.344799500000001,19.634895999999998,-71.006140000000002,"0",ok,ok,ok,15137.379
+"2163","11",pasto,"0",1.886399700000000,19.684823999999999,-71.037008000000000,"0","Punto sobre vía, revisar tipo de cultivo","Revisar tipo de cultivo, se movió hacia la derecha","ok, revisar tipo cultivo",15136.878
+"2163","12",pasto,"0",1.886399700000000,19.686546000000000,-71.037600999999995,"0","Punto sobre vía, revisar tipo de cultivo","Revisar tipo de cultivo, se movió hacia la izquierda","ok, revisar tipo cultivo",15136.854
+"2164","11",pasto,"0",0.503039960000000,19.683826000000000,-71.036517000000003,"0","Punto sobre vía, revisar tipo de cultivo","Revisar tipo de cultivo, se movió hacia la izquierda","ok, revisar tipo cultivo",15136.853
+"2168","11",pasto,"0",4.087199700000000,19.680676000000002,-71.033018999999996,"0","centrar punto hacía arriba, revisar área","Se movió hacia la derecha y arriba, zona de influencia contiene arboles","ok, arbol",25354.716
+"2256","11",pasto,"0",18.863998000000002,19.483813000000001,-71.384062000000000,"0",ok,ok,ok,15130.548
+"2265","11",pasto,"0",1.257599800000000,19.548620000000000,-71.404535999999979,"0","Punto sobre vía, mover hacía la derecha","Se movió hacia la derecha, la zona de influencia contiene árboles",ok,13497.360
+"2362","11",pasto,"0",8.803198800000001,19.672642000000000,-71.678595999999999,"0",Mover hacia abajo,Se movió hacia abajo e izquierda,ok,15124.379
+"2380","22",pasto,"0",5.784959300000000,19.530489000000003,-71.449218999999999,"0","Punto sobre vía, el área del cultivo contiene lagunas",Se movió hacia abajo y derecha,ok,15129.260
+"2380","21",pasto,"0",5.784959300000000,19.530760000000001,-71.449378999999979,"0","Punto repetido en el cultivo 2380, parcela 22",Se movió hacia abajo y derecha,ok,15129.253
+"2390","13",pasto,"0",5.030399299999999,19.551430000000000,-71.537681999999990,"0",Punto repetido cultivo 2390 parcela 11,Se movió hacia la derecha,ok,18567.885
+"2390","11",pasto,"0",5.030399299999999,19.551079000000001,-71.537719999999979,"0","Punto sobre vía, mover hacía la izquierda",Se movió hacia la izquierda y abajo,ok,15127.416
+"2436","13",pasto,"0",3.081119500000000,19.548058999999999,-71.522910999999979,"0","Punto sobre la vía, mover hacía la izquierda",Se movió hacia la izquierda,ok,15127.660
+"2436","12",pasto,"0",5.659199200000000,19.546700000000001,-71.515326999999999,"0","Punto sobre la sombra de un árbol, centrar en el cultivo",Se movió hacia arriba,"ok, arboles",15127.869
+"2436","11",pasto,"0",12.575998000000000,19.549089000000002,-71.510147000000003,"0","Punto sobre la vía, mover y revisar el área","Se movió hacia abajo, zona de influencia contiene arboles","ok, arboles",15127.995
+"2437","12",pasto,"0",2.326559800000000,19.511869000000001,-71.542747000000020,"0",Punto sobre la vía mover hacía la izquierda y hacía arriba,Se movió hacia la derecha y abajo,ok,12985.830
+"2437","13",pasto,"0",0.754559870000000,19.511908999999999,-71.542747000000020,"0",Punto sobre arbusto mover hacía arriba,Se movió hacia arriba,ok,18804.760
+"2439","12",pasto,"0",5.030399299999999,19.526709000000000,-71.494468999999995,"0","Punto sobre vía, centrar hacía la derecha",Se movió hacia arriba e izquierda,ok,14430.615
+"2439","11",pasto,"0",8.174399400000000,19.526539000000000,-71.494438000000002,"0","Punto sobre vía, centrar hacía la derecha",Se movió hacia la derecha y abajo,ok,15128.356
+"2552","11",pasto,"0",2.640959700000000,19.564249000000000,-71.535781999999998,"0",Revisar el área y centrar,"Se movió hacia abajo y derecha, zona de influencia contiene árboles","ok, arboles",15127.497
+"2552","12",pasto,"0",2.515199700000000,19.564289000000002,-71.535667000000004,"0",Revisar el área y centrar,"Se movió hacia abajo, zona de influencia contiene árboles","ok, arboles",20188.650
+"2566","11",pasto,"0",18.863998000000002,19.341320000000000,-71.666709999999981,"0","Punto sobre copa de árbol, centrar y revisar área","Se movió hacia la derecha, zona de influencia contiene árboles",ok,14667.487
+"2589","11",pasto,"0",12.575998000000000,19.417119000000000,-71.269903999999997,"0","Punto sobre copa de árbol, mover hacía abajo y revisar área","Se movió hacia abajo, zona de influencia contiene árboles",ok,15132.690
+"2594","13",pasto,"0",2.137919700000000,19.450220000000002,-71.323369000000000,"0",Punto sobre la vía y revisar tipo de cultivo,"Se movió hacia abajo, revisar tipo de cultivo",ok,13287.141
+"2594","11",pasto,"0",2.640959700000000,19.447402000000000,-71.325430999999980,"0","Punto sobre la vía, mover hacía arriba","Se movió hacia arriba, zona de influencia contiene arbustos",ok,15131.672
+"2602","12",pasto,"0",3.709919500000000,19.473604999999999,-71.213436999999999,"0","Punto sobre la vía, revisar área y tipo de cultivo","Se movió hacia abajo, revisar tipo de cultivo","ok, arboles",15133.746
+"2603","12",pasto,"0",5.281919500000000,19.332865999999999,-71.209132999999980,"0",Revisar tipo de cultivo,Revisar tipo de cultivo,"ok, revisar tipo de cultivo",15133.798
+"2603","11",pasto,"0",0.628799920000000,19.445791000000000,-71.111994999999979,"0",Revisar tipo de cultivo,Revisar tipo de cultivo,"ok, revisar tipo de cultivo",15135.554
+"2605","12",pasto,"0",3.772799500000000,19.487918000000001,-71.424670999999989,"0",Mover punto hacía abajo,Se movió hacia abajo y derecha,ok,15129.722
+"2607","11",pasto,"0",3.143999600000000,19.482272000000002,-71.425414000000004,"0",Centrar punto hacía la izquierda,"Se movió hacia la izquierda, zona de influencia contiene arboles","ok, arboles",15129.688
+"2607","12",pasto,"0",7.797119099999999,19.482215000000000,-71.425330000000002,"0",Centrar punto hacía la derecha,"Se movió hacia abajo y derecha, zona de influencia contiene arboles","ok, arboles",11563.053
+"2607","14",pasto,"0",2.389439600000000,19.552672000000001,-71.462889000000004,"0",Centrar punto hacía la derecha,"Se movió hacia la derecha, zona de influencia contiene arboles","ok, arboles",15128.954
+"2609","11",pasto,"0",6.287999200000000,19.498145999999998,-71.454139999999995,"0","Punto sobre copa de árbol, revisar área",Se movió hacia arriba,ok,15129.141
+"2617","12",pasto,"0",1.760639800000000,19.528480999999999,-71.308695999999998,"0",Punto sobre la vía mover hacía la derecha,Se movió hacia la derecha,ok,15132.011
+"2617","13",pasto,"0",1.886399700000000,19.526551999999999,-71.312954000000005,"0","Punto sobre la vía, mover hacía abajo y centrar",Se movió hacia abajo,ok,15131.881
+"2624","13",pasto,"0",4.401599400000000,19.460771999999999,-71.280787000000004,"0",Mover hacia abajo,"Se movió hacia abajo, zona de influencia contiene arboles","ok, arbustos",12493.650
+"2624","14",pasto,"0",4.401599400000000,19.460976000000002,-71.274105000000020,"0","Punto sobre la vía podría moverse hacía la derecha o izquierda, revisar el área","Se movió hacia abajo, zona de influencia contiene arboles",ok,15016.022
+"2624","11",pasto,"0",7.545599000000000,19.460601000000000,-71.277146999999999,"0","Punto sobre la carreterea, mover hacía arriba","Se movió hacia arriba, zona de influencia contiene arboles","ok, arboles",15132.543
+"2624","15",pasto,"0",5.030399299999999,19.461127999999999,-71.271895999999998,"0","Punto sobre la vía, revisar área y mover hacía arriba o abajo",Se movió hacia abajo,ok,14100.667
+"2630","14",pasto,"0",13.959357999999998,19.530550000000002,-71.454277000000005,"0","Punto cercano al de la parcela 15, mover hacia la mitad del cultivo","Se movió hacia arriba, zona de influencia contiene arbustos",ok,13943.393
+"2630","13",pasto,"0",18.863998000000002,19.530329000000002,-71.454719999999980,"0","Punto sobre la vía, mover hacia el centro del cultivo","Se movió hacia la izquierda y abajo, zona de influencia contiene arbustos","ok, arboles",15129.077
+"2630","11",pasto,"0",8.174399400000000,19.530359000000001,-71.454552000000021,"0","Punto sobre la vía, mover hacía la mitad de la parcela",Se movió hacia abajo,ok,17361.029
+"2630","12",pasto,"0",15.719998000000000,19.530349999999999,-71.454605000000001,"0","Punto sobre la vía, mover hacía la mitad del cultivo","Se movió hacia la izquierda, zona de influencia contiene arbustos","ok, arbol",15129.122
+"2630","15",pasto,"0",24.334557000000000,19.530600000000000,-71.454169999999991,"0",Mover punto y revisar área,Se movió hacia arriba y derecha,"ok, arboles",15129.134
+"2631","11",pasto,"0",1.760639800000000,19.530408999999999,-71.453986999999998,"0","Punto sobre la vía, mover hacía abajo",Se movió hacia abajo,ok,9214.167
+"2634","12",pasto,"0",5.847839400000000,19.525829000000002,-71.465369999999979,"0","Punto sobre copa de árbol, revisar área","Se movió hacia la izquierda, zona de influencia contiene arbustos",ok,15128.853
+"2634","11",pasto,"0",25.151997000000001,19.518560000000001,-71.460731999999979,"0","Punto sobre arbusto, mover hacía la derecha y centrar",Se movió hacia la derecha y abajo,ok,15129.021
+"2635","11",pasto,"0",8.174399400000000,19.512280000000001,-71.491028000000000,"0","Punto sobre arbusto, mover hacía abajo",Se movió hacia abajo,ok,15128.348
+"2636","13",pasto,"0",1.886399700000000,19.528428999999999,-71.448097000000004,"0","Punto sobre vía, mover hacía arriba",Se movió hacia arriba e izquierda,ok,11761.545
+"2636","12",pasto,"0",5.784959300000000,19.530608999999998,-71.440040999999979,"0","Punto sobre la copa de un árbol, mover y revisar el área","Se movió hacia la derecha y abajo, zona de influencia contiene arboles",ok,13973.492
+"2636","21",pasto,"0",18.863998000000002,19.469229000000002,-71.503158999999997,"0","Revisar área, centrar punto","Se movió hacia la derecha y arriba, zona de influencia contiene arboles","ok, arbustos",15128.169
+"2636","11",pasto,"0",15.719998000000000,19.550929999999997,-71.520981000000020,"0","Punto sobre vía, mover hacía la derecha",Se movió hacia la derecha,ok,15127.812
+"2637","21",pasto,"0",1.006079900000000,19.502369000000002,-71.466209000000021,"0",Mover hacía arriba,Se movió hacia arriba,ok,14819.169
+"2637","11",pasto,"0",1.571999800000000,19.502300000000002,-71.466018999999989,"0",Mover hacia la izquierda,Se movió hacia la izquierda,ok,15128.861
+"2655","11",pasto,"0",5.030399299999999,19.461065999999999,-71.288636999999980,"0",Revisar tipo de cultivo,Se movió hacia la izquierda,ok,15132.342
+"2686","11",pasto,"0",5.030399299999999,19.461993000000000,-71.332245999999998,"0","Punto sobre la vía, mover hacía izquierda o derecha",Se movió hacia la izquierda y arriba,ok,15131.477
+"2688","12",pasto,"0",8.803198800000001,19.458414000000001,-71.313766999999999,"0","Punto cercano a la vía, mover hacia la derecha",Se movió hacia la derecha y arriba,ok,15131.907
+"2695","11",pasto,"0",88.031990000000008,19.438765000000000,-71.416561000000002,"0","Punto sobre copa de árbol, mover y revisar el área",Se movió hacia la derecha la zona de influencia contiene arboles,"ok, arboles",15129.923
+"2703","11",pasto,"0",7.105439200000001,19.538090000000000,-71.517212000000001,"0","Punto sobre la vía, mover hacía la derecha o izquierda, revisar área",Se movió hacia abajo y derecha,ok,15127.724
+"2705","21",pasto,"0",4.527359500000000,19.504690000000000,-71.545890999999997,"0","Punto cerca a árboles, mover hace el pasto y revisar área","Se movió hacia la derecha, donde habia pasto despejado",ok,15127.365
+"2707","12",pasto,"0",4.715999600000000,19.505618999999999,-71.550606000000002,"0",Punto sobre copa de árbol,"Se movió hacia arriba, la xona de influencia contiene arboles",ok,18125.275
+"2707","11",pasto,"0",19.618556999999999,19.505549999999999,-71.550667000000004,"0","Punto sobre edificación, contiene al cultivo 2707 parcela 11, su ubicación es muy parecida",Se movió hacia abajo,ok,15127.129
+"2708","11",pasto,"0",3.772799500000000,19.530179999999998,-71.452667000000019,"0",Punto cercano a edificación,"Se movió hacia abajo, zona de influencia tiene arboles",ok,8262.288
+"2711","11",pasto,"0",7.545599000000000,19.530139999999999,-71.544158999999979,"0","Mover, misma ubicación del punto con cuets ide 277 y parcela 12",Se movió hacia abajo,ok,15127.275
+"2711","12",pasto,"0",14.022238000000000,19.530159000000001,-71.544158999999979,"0",ok,Se movió hacia arriba,ok,15127.283
+"2712","11",pasto,"0",16.600317000000000,19.500010000000000,-71.579375999999996,"0",Centrar,Se movió hacia la derecha,ok,21233.140
+"2768","11",pasto,"0",5.030399299999999,19.509010000000000,-71.545035999999996,"0",Punto sobre la vía mover hacía la izquierda,Se movió hacia la izquierda dentro del área de influencia hay arboles,"ok, arboles",15127.207
+"2768","12",pasto,"0",6.036479000000000,19.509220000000003,-71.544968000000011,"0",ok,Se movió hacia la derecha dentro del área de influencia hay arboles,ok,11356.852
+"2769","11",pasto,"0",12.827518000000000,19.527699999999999,-71.504807000000000,"0","Punto sobre la copa, revisar área",Se movió hacia arriba y derecha,ok,13009.256
+"2771","11",pasto,"0",18.612477999999999,19.561220000000002,-71.554489000000004,"0","Punto sobre la vía , mover hacía la izquierda",Se movió hacia la izquierda y abajo,ok,15127.007
+"2772","11",pasto,"0",4.401599400000000,19.560400000000001,-71.537330999999980,"0","Punto sobre la vía, comprende el lado izquierdo y derecho",Se movió hacia la izquierda y hacia abajo,ok,15323.226
+"2773","11",pasto,"0",10.500958000000001,19.475939000000000,-71.504288000000003,"0","Punto sobre la vía, mover hacía abajo",Se movió hacia abajo e izquierda,"ok, arboles",15128.057
+"2774","11",pasto,"0",1.383359800000000,19.475880000000000,-71.504424999999998,"0","Punto sobre la vía, mover hacía arriba","Se movió hacia arriba, zona de influencia contiene arboles","ok, arboles",15686.250
+"2914","13",pasto,"0",9.117598500000000,19.441469000000001,-71.478927999999996,"0","Punto sobre la vía, cultivo hacia la derecha e izquierda",Se movió hacia arriba e izquierda,"ok, arboles",37665.915
+"2914","14",pasto,"0",13.393438000000000,19.450448999999999,-71.479477000000003,"0","Punto sobre la vía, mover hacía la derecha o izquierda",Se movió hacia arriba e izquierda,ok,27089.644
+"2914","12",pasto,"0",1.697759700000000,19.439568999999999,-71.476706999999990,"0","Punto sobre la vía, mover hacía la izquierda","Se movió hacia la izquierda y abajo, zona de influencia tiene edificacion y arboles",ok,15066.461
+"2914","11",pasto,"0",8.803198800000001,19.438929000000002,-71.496887000000001,"0","Punto sobre copa de árbol, revisar área",Se movió hacia arriba,"ok, arboles",12941.516
+"3055","13",pasto,"0",0.314399960000000,19.427654999999998,-70.619198999999981,"1",Centrar punto sobre el cultivo de pasto y revisar el área,Se movió hacia abajo,"ok, arboles",15143.090
+"3079","11",pasto,"0",2.515199700000000,19.669685000000001,-70.364639999999994,"1","Punto sobre la vía, mover hacía abajo",Se movió hacia aabajo,"ok, arbustos",11154.037
+"3103","11",plátano,"0",0.880319890000000,19.848955000000000,-71.034357000000000,"1",Centrar,Se movió hacia la derecha y abajo,ok,9301.374
+"3105","11",pasto,"0",7.671359100000000,19.841818000000000,-71.060158000000001,"1","Punto sobre vía, moverlo hacia el lado izquierdo",Se movió hacia la izquierda y arriba,"ok, arbustos",13082.285
+"3115","22",plátano,"0",2.703839500000000,19.400257000000000,-70.548321999999999,"0",ok,ok,ok,22885.643
+"3115","21",plátano,"0",2.452319600000000,19.411885000000002,-70.537537000000000,"0",ok,Zona de inflencia contiene arbustos,"ok, arbustos",23518.033
+"3122","11",plátano,"0",0.377279940000000,19.392992000000000,-70.560280000000020,"0",Centrar,Se movió hacia la derecha,"ok, revisar tipo de cultivo",12232.747
+"3125","11",plátano,"0",1.068959800000000,19.845717999999998,-71.057986000000000,"1",Centrar punto,"Se movió hacia la derecha y arriba, zona de influencia contiene arboles",ok,8797.666
+"3126","12",pasto,"0",1.571999800000000,19.812097000000001,-70.994174999999998,"1",Mover hacia el centro del cultivo,Se movió hacia el lado izquierdo y abajo,ok,16397.699
+"3126","11",plátano,"0",2.515199700000000,19.815397000000001,-70.994338999999997,"1","Punto sobre la copa de árbol, centrar y revisar área","Se movió hacia la izquierda, zona de influencia contiene arbustos","ok, arbustos",10659.597
+"3130","11",pasto,"0",3.772799500000000,19.890525000000000,-70.969420999999997,"1","Punto sobre copa de árbol, revisar área y mover",Se movió hacia la izquierda y arriba,ok,15137.977
+"3135","11",pasto,"0",12.575998000000000,19.848343000000000,-71.058476999999996,"1","Punto sobre vía mover, pasto hacía la izquierda y derecha","Se movió hacia la derecha y hacia arriba, donde la zona de influecia era más grande",ok,15136.581
+"3139","11",pasto,"0",6.602399300000000,19.845182999999999,-71.096661999999981,"1","Punto sobre vía, mover y revisar el área",Se movió hacia la izquierda,"ok, arbustos",12309.627
+"3139","12",pasto,"0",2.326559800000000,19.844476000000000,-71.095461999999998,"1",ok,ok,"ok, arbustos",9918.873
+"3140","11",pasto,"0",19.178398000000001,19.816607999999999,-71.190628000000004,"1","Punto sobre la vía, mover y revisar el área",Se movió hacia la derecha,ok,14694.488
+"3141","11",pasto,"0",11.318398000000000,19.836314999999999,-71.085946000000021,"0","Punto sobre copa de un árbol, mover y revisar el área",Se movió hacia la derecha,"ok, arboles",15136.119
+"3159","11",plátano,"0",1.006079900000000,19.402562000000000,-70.565725000000000,"0",Revisar área,Se movió hacia arriba,ok,15143.842
+"3161","21",plátano,"0",2.892479700000000,19.403154999999998,-70.569496000000001,"0",Revisar área,Se movió hacia la izquierda,ok,15143.741
+"3163","12",plátano,"0",1.509119700000000,19.405811000000000,-70.564705000000004,"0",Revisar área,ok,ok,15143.862
+"3163","11",pasto,"0",6.287999200000000,19.365776999999998,-70.505589999999998,"0",Revisar  área,Se movió hacia la izquierda y arriba,"ok, arbustos",12015.266
+"3179","21",plátano,"0",2.515199700000000,19.818452000000001,-70.992008999999996,"1",Centrar hacía la derecha,Se movió hacia la derecha y abajo,ok,15137.666
+"3180","11",pasto,"0",0.943199870000000,19.823501999999998,-71.012337000000002,"1","Punto sobre la vía, mover hacía la derecha y revisar área",Se movió hacia la derecha y arriba,ok,15137.341
+"3350","13",plátano,"0",0.314399960000000,19.807170000000003,-71.014781999999997,"0","Punto sobre copa de arbol, revisar cultivo","Revisar tipo de cultivo, se movió hacia abajo y derecha","ok, plamas revisar tipo cultivo",15137.265
+"3384","11",plátano,"0",1.571999800000000,19.431721000000000,-70.573834000000019,"0",ok,ok,"ok, arboles",15143.728
+"3386","11",plátano,"0",1.257599800000000,19.444803000000000,-70.570513000000020,"0",ok,ok,ok,16228.991
+"3415","11",plátano,"0",1.886399700000000,19.830310000000001,-71.001232000000002,"1",Centrar,Se movió hacia la izquierda,ok,10535.995
+"3449","11",plátano,"0",2.515199700000000,19.841034000000001,-71.022452999999999,"1",Centrar punto,Se movió hacia abajo y derecha,ok,15137.153
+"3631","21",plátano,"0",0.314399960000000,18.399060000000002,-71.593798000000021,"0",Revisar área,ok,ok,15125.827
+"3692","21",plátano,"0",2.515199700000000,18.483487000000000,-71.858551000000020,"0",Revisar área,ok,ok,15119.816
+"949","11",cafe,"0",3.772799500000000,18.610898000000002,-70.728301000000002,"0",Revisar el área,ok,ok,15141.517
+"949","12",aguacate,"0",1.571999800000000,18.614407000000000,-70.730096000000003,"0",ok,ok,ok,12673.184
+"1109","21",berenjenas chinas,"1",0.628799920000000,19.316779999999998,-70.504563000000005,"0",ok,ok,ok,5953.938
+"1659","11",batata,"1",3.143999600000000,19.470979000000000,-70.416320999999996,"0",Mover el punto a la mitad del cultivo,Se movío hacia la derecha y arriba,ok,14586.023
+"2627","13",caña(no de azucar),"0",6.036479000000000,19.504272000000000,-71.284435000000002,"0","Punto sobre edificación, moverlo",Se movio hacia la derecha,ok,9512.069
+"2627","11",auyama,"1",50.303992999999998,19.507826999999999,-71.279591999999980,"0","El punto se encuentra sobre la vía, revisar el área, se encuentran edificaciones.",Se movió hacia la derecha,ok,15132.506
+"2843","11",arroz,"1",18.863998000000002,19.333318999999999,-71.721359000000021,"0",El punto se encuentra sobre una edificación,Se movió hacia la izquierda,"ok, arboles",15123.279
+"3102","11",ají,"1",1.571999800000000,19.870113000000000,-71.069412000000000,"1","El punto se encuentra sobre la vía, es posible que el cultivo se encuentre hacia la derecha o a la izquierda, revisa área, al lado derecho cerca al punto se encuentra un río",Se movió hacia el lado iizquierdo,ok,26890.673
+"3155","21",batata,"1",2.263679700000000,19.441659000000001,-70.568966000000003,"0",Centrar,Se movió hacia la derecha y abajo,ok,12010.814
+"3168","12",batata,"1",1.634879800000000,19.406654999999997,-70.571920000000020,"0",Revisar el área,ok,ok,43655.536
+"3179","11",auyama,"1",1.886399700000000,19.819866000000001,-70.989842000000010,"1",Centrar hacía la derecha,Se movió hacia la,ok,13543.625
+"3182","11",batata,"1",1.571999800000000,19.848177000000000,-71.034700000000001,"1",Centrar,Se movió hacia la izquierda,ok,14325.498
+"3183","14",ají,"1",0.377279940000000,19.855169000000000,-71.054818000000012,"1","El punto se encuetra sobre un arbol, mover el punto al centro del cultivo",Se movió hacia abajo,ok,10321.609
+"3214","13",berenjena,"1",0.943199870000000,19.322129999999998,-71.243369000000001,"0",Revisar el área y tipo de cultivo,Revisar tipo de cultivo,"ok, revisar tipo de cultivo",15133.140
+"3214","12",batata,"1",1.886399700000000,19.323100000000000,-71.233155999999980,"0",Revisar el área,ok,ok,15133.320
+"3326","12",cebolla,"1",0.880319890000000,19.799530999999998,-70.975485000000020,"1","Revisar el área, centrar",Se movió hacia abajo,"ok, arboles",15137.919
+"3375","21",berenjena,"1",2.012159800000000,19.431085999999997,-70.506591000000000,"0",ok,ok,ok,12410.600
+"3514","21",berenjena,"1",2.200799700000000,19.425526000000001,-70.513925999999998,"0",ok,ok,"ok, arbustos",9493.377
